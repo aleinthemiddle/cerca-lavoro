@@ -1,0 +1,13 @@
+# dati personali: restano solo sul PC
+privato.json
+*.pdf
+!cv.pdf.enc
+
+# file generati
+annunci.html
+log.txt
+log.txt.*
+*.tmp
+__pycache__/
+sito/
+cv_password.txt

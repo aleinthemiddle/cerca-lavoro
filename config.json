@@ -1,0 +1,169 @@
+{
+  "intervallo_minuti": 10,
+  "comuni": {
+    "Torino": [
+      "torino",
+      "turin"
+    ],
+    "Orbassano": [
+      "orbassano"
+    ],
+    "Beinasco": [
+      "beinasco",
+      "borgaretto"
+    ],
+    "Piossasco": [
+      "piossasco"
+    ]
+  },
+  "lavori": {
+    "Lavapiatti": {
+      "ricerche": [
+        "lavapiatti"
+      ],
+      "regex": "lava ?piatti|lavastoviglie|addett[oaie]+ (al )?lavaggio|plongeur"
+    },
+    "Cameriere": {
+      "ricerche": [
+        "cameriere"
+      ],
+      "regex": "camerier|commis (de rang|di sala)|chef de rang|addett[oaie]+ (alla )?sala|runner di sala"
+    },
+    "Scaffalista": {
+      "ricerche": [
+        "scaffalista"
+      ],
+      "regex": "scaffalist|addett[oaie]+ (al |allo )?rifornimento|rifornimento scaffali|riordino scaffali|allestimento scaffali"
+    },
+    "Volantinaggio": {
+      "ricerche": [
+        "volantinaggio"
+      ],
+      "regex": "volantin|distribu\\w* (di )?(materiale )?pubblicitari"
+    },
+    "Addetto vendite GameLife": {
+      "ricerche": [
+        "gamelife"
+      ],
+      "regex": "game ?life",
+      "cerca_anche_in_azienda": true
+    },
+    "Stage / Tirocinio": {
+      "ricerche": [
+        "tirocinio",
+        "stage"
+      ],
+      "regex": "tirocin|stagist|\\bstage\\b|internship"
+    },
+    "Informatica (senza esperienza)": {
+      "ricerche": [
+        "helpdesk",
+        "tecnico informatico",
+        "data entry",
+        "sviluppatore junior"
+      ],
+      "regex": "help ?desk|service desk|tecnic[oaie]+ informatic|supporto (it|informatico|tecnico)|assistenza (it|informatica|tecnica)|it support|data entry|inserimento dati|sviluppat|programmat|developer|sistemist|web designer",
+      "solo_torino": true,
+      "solo_senza_esperienza": true
+    },
+    "Scrittura / Audiovisivo (senza esperienza)": {
+      "ricerche": [
+        "copywriter",
+        "redattore",
+        "assistente di produzione",
+        "content creator"
+      ],
+      "regex": "copywriter|redattor|scrittor|sceneggiat|content (creator|writer)|social media|assistente (di |alla )?(produzione|regia)|runner|videomaker|video ?editor|montaggio|produzione (video|audiovisiv|cinematograf|televisiv)|casting|comparse|ufficio stampa",
+      "solo_torino": true,
+      "solo_senza_esperienza": true
+    },
+    "Altri lavori senza esperienza": {
+      "ricerche": [
+        "senza esperienza"
+      ],
+      "regex": ".",
+      "solo_torino": true,
+      "solo_senza_esperienza": true
+    }
+  },
+  "escludi_se_titolo_contiene": [
+    "ai piani"
+  ],
+  "escludi_se_testo_contiene": [
+    "network marketing",
+    "multi ?level",
+    "clubshop",
+    "solo provvigion",
+    "esclusivamente a provvigion",
+    "partita iva",
+    "investimento iniziale"
+  ],
+  "frasi_senza_esperienza": [
+    "senza esperienza",
+    "nessuna esperienza",
+    "non (e |è )?richiesta (alcuna )?esperienza",
+    "esperienza non (e |è )?(richiesta|necessaria|indispensabile|obbligatoria)",
+    "non (e |è )?necessaria (alcuna )?esperienza",
+    "prima esperienza",
+    "primo impiego",
+    "neofit",
+    "neodiplomat",
+    "junior",
+    "apprendist",
+    "ti formeremo",
+    "formazione (iniziale )?(a carico|garantita|retribuita|in affiancamento)",
+    "anche studenti",
+    "no esperienza",
+    "tirocin",
+    "stagist",
+    "\\bstage\\b",
+    "internship"
+  ],
+  "notifiche": {
+    "windows": true,
+    "telefono_ntfy": true,
+    "ntfy_server": "https://ntfy.sh",
+    "ntfy_topic": ""
+  },
+  "spostamenti": {
+    "_nota": "Non automunito: si scartano gli annunci che richiedono l'auto. Turni serali/notturni accettati solo nei comuni in 'serali_ok_solo_a'.",
+    "escludi_se_richiede_auto": [
+      "automunit",
+      "auto propria",
+      "munit[oa] di (auto|mezzo|macchina)",
+      "mezzo proprio",
+      "propri[oa] (auto|mezzo|macchina)",
+      "patente b e auto",
+      "disponibilita (di )?(auto|mezzo)"
+    ],
+    "orari_serali_notturni": [
+      "\\bseral[ei]\\b",
+      "notturn",
+      "di notte",
+      "turn[oi] (di )?notte",
+      "solo (la )?cena",
+      "dalle (ore )?(19|20|21|22|23)",
+      "fino alle (ore )?(23|24|00|0?1|0?2|0?3|0?4|0?5)\\b",
+      "\\bnight\\b"
+    ],
+    "serali_ok_solo_a": [
+      "Piossasco"
+    ]
+  },
+  "candidature": {
+    "_nota": "Dati personali e password NON vanno qui: stanno in privato.json (sul PC) o nei segreti di GitHub (nel cloud).",
+    "attivo": false,
+    "cv": "",
+    "nome": "",
+    "telefono": "",
+    "email_mittente": "",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_porta": 465,
+    "smtp_password_app": "",
+    "max_al_giorno": 15,
+    "solo_senza_esperienza": false,
+    "oggetto": "Candidatura - {titolo}",
+    "lettera": "Gentile {destinatario},\n\nvorrei candidarmi per la posizione \"{titolo}\".\n\n{frase}\n\nIn allegato il mio curriculum.\n\nCordiali saluti,\n{nome}\nTel. {telefono}\n{email}",
+    "frasi_per_lavoro": {}
+  }
+}

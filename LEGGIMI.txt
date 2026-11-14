@@ -1,0 +1,91 @@
+CERCA LAVORO - avvisi annunci a Torino, Orbassano, Beinasco, Piossasco
+=======================================================================
+
+COSA FA
+- Ogni 10 minuti controlla: LinkedIn, Jobrapido (che raccoglie anche Indeed,
+  Subito, agenzie, ecc.), Talent.com, Adzuna e Randstad.
+- Cerca: lavapiatti, cameriere, scaffalista, volantinaggio, addetto vendite GameLife,
+  e stage/tirocini di qualsiasi settore (questi sono sempre considerati
+  "senza esperienza").
+- In più, SOLO se senza esperienza: lavori di informatica (helpdesk, data entry,
+  tecnico/sviluppatore junior), scrittura e audiovisivo (copywriter, redattore,
+  assistente di produzione, content creator, comparse...) e qualsiasi altro
+  annuncio che dica esplicitamente "senza esperienza".
+- Quando esce un annuncio nuovo ti manda una notifica sul PC e sul telefono.
+- Gli annunci "senza esperienza" arrivano per primi, con la stella ⭐ e una
+  notifica più insistente sul telefono. Gli altri arrivano comunque.
+- Tutti gli annunci trovati sono nella pagina annunci.html (doppio clic su
+  "APRI ANNUNCI.bat"), con i filtri per tipo di lavoro.
+
+
+SUL PC
+Doppio clic su INSTALLA.bat (una volta sola). Da quel momento parte da solo
+a ogni accensione, senza finestre aperte.
+
+
+SUL TELEFONO (2 minuti)
+1. Installa l'app gratuita "ntfy" (Play Store o App Store).
+2. Aprila, premi "+" e scrivi questo nome canale:
+
+       (il nome del canale è in privato.json, alla voce "ntfy_topic")
+
+   (server: lascia quello predefinito, ntfy.sh)
+3. Fatto. Su Android, nelle impostazioni dell'app, consenti le notifiche e
+   togli l'ottimizzazione batteria per ntfy, così arrivano subito.
+
+Non condividere il nome canale: chi lo conosce riceve gli stessi avvisi.
+
+
+FILTRI PERSONALI
+- Scarta gli annunci che richiedono l'auto (non sei automunito).
+- Scarta i turni serali/notturni, tranne a Piossasco.
+  ("pranzo e cena" non viene scartato: decidi tu.)
+- Scarta offerte dubbie (network marketing, solo provvigioni, partita IVA...).
+
+
+INVIO DEL CV
+1) Automatico per EMAIL: se un annuncio idoneo riporta un indirizzo email,
+   il programma manda da solo il tuo CV (CV.pdf in "Documenti importanti")
+   con una lettera già scritta e adattata al tipo di lavoro, e ti avvisa
+   con "📨 CV inviato". Max 15 al giorno, mai due volte alla stessa email
+   nell'arco di 30 giorni.
+   Per attivarlo (una volta sola):
+   a. Su Google attiva la verifica in 2 passaggi, poi vai su
+      https://myaccount.google.com/apppasswords e crea una "password per le
+      app" (16 lettere). NON è la tua password di Gmail.
+   b. Apri config.json, sezione "candidature": incolla quella password in
+      "smtp_password_app" e metti "attivo": true.
+   c. Prova: python cerca_lavoro.py --prova-email   (ti arriva il CV su Gmail)
+   d. Riavvia il PC (o DISINSTALLA.bat e poi INSTALLA.bat).
+   Nota: solo una parte degli annunci riporta l'email; la maggior parte
+   chiede di candidarsi dal sito.
+2) Dal SITO: in annunci.html ogni annuncio ha "Candidati sul sito" e
+   "📋 Copia lettera": apri, incolla la lettera, allega il CV. I portali
+   (LinkedIn, Indeed...) richiedono login e vietano i programmi automatici,
+   quindi questo passaggio resta a te.
+   Se l'annuncio ha un'email, trovi anche "✉️ Email a ..." con la lettera
+   già pronta (allega il CV a mano).
+Il testo della lettera si cambia in config.json ("lettera" e "frasi_per_lavoro").
+
+
+IMPORTANTE
+- Il controllo lo fa il PC: se il PC è spento o in sospensione, non arrivano
+  avvisi. Appena lo riaccendi recupera gli annunci usciti nel frattempo.
+- Indeed, Subito, InfoJobs, Bakeca e il sito GameLife bloccano i programmi
+  automatici, quindi non vengono letti direttamente: molti loro annunci
+  arrivano comunque tramite Jobrapido, Talent.com e LinkedIn.
+
+
+PERSONALIZZARE (config.json, si apre con Blocco note)
+- "intervallo_minuti": ogni quanto controllare (minimo 5).
+- "lavori": aggiungi o togli tipi di lavoro.
+- "frasi_senza_esperienza": parole che fanno salire un annuncio in cima.
+- "escludi_se_titolo_contiene": ad es. "ai piani" (cameriere ai piani = pulizie hotel).
+- "windows" / "telefono_ntfy": true o false per accendere/spegnere le notifiche.
+Le modifiche valgono dal controllo successivo, senza riavviare.
+
+
+ALTRO
+- Prova notifiche:   python cerca_lavoro.py --test
+- Disattivare tutto: doppio clic su DISINSTALLA.bat
+- Problemi: guarda log.txt
