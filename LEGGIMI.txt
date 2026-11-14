@@ -62,7 +62,10 @@ FILTRI PERSONALI
 - Scarta gli annunci che richiedono l'auto (non sei automunito).
 - Scarta i turni serali/notturni, tranne a Piossasco.
   ("pranzo e cena" non viene scartato: decidi tu.)
-- Scarta offerte dubbie (network marketing, solo provvigioni, partita IVA...).
+- Scarta offerte dubbie (network marketing, solo provvigioni, partita IVA...)
+  e le agenzie di marketing diretto / event marketing / porta a porta
+  (Blackstar, NEXT Marketing, Maige, Pacific Group, Eismann, promoter
+  sociali...). Lista "escludi_se_testo_contiene" in config.json.
 - Scarta aiuto cuoco / aiuto cucina e i lavapiatti con mansioni di cucina o
   "crescita ad aiuto cuoco".
 - Stage e "altri senza esperienza": tiene SOLO quelli del tuo campo

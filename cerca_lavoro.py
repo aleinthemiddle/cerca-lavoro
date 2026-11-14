@@ -338,7 +338,7 @@ class Filtri:
 
     def motivo_esclusione(self, a):
         testo = normalizza(a["titolo"] + " " + a["descrizione"])
-        if self.dubbi and self.dubbi.search(testo):
+        if self.dubbi and self.dubbi.search(testo + " " + normalizza(a.get("azienda", ""))):
             return "offerta dubbia"
         if self.auto and self.auto.search(testo):
             return "richiede auto"
