@@ -284,7 +284,8 @@ class Filtri:
         }
         self.lavori = {
             nome: (re.compile(d["regex"]), d.get("cerca_anche_in_azienda", False),
-                   re.compile(d["azienda_regex"]) if d.get("azienda_regex") else None)
+                   re.compile(d["azienda_regex"]) if d.get("azienda_regex") else None,
+                   re.compile(d["oppure_azienda_regex"]) if d.get("oppure_azienda_regex") else None)
             for nome, d in cfg["lavori"].items()
         }
         self.senza_filtri_profilo = {n for n, d in cfg["lavori"].items() if d.get("salta_filtri_profilo")}
@@ -317,10 +318,13 @@ class Filtri:
         if any(x in titolo for x in self.escludi):
             return None
         azienda = normalizza(a["azienda"])
-        for nome, (rx, anche_azienda, rx_azienda) in self.lavori.items():
+        for nome, (rx, anche_azienda, rx_azienda, rx_oppure) in self.lavori.items():
             if rx_azienda and not (rx_azienda.search(azienda) or rx_azienda.search(titolo)):
                 continue  # categoria legata a un'azienda precisa
             if rx.search(titolo) or (anche_azienda and rx.search(azienda)):
+                return nome
+            # catena della lista + ruolo che può fare chiunque (no manager, uffici...)
+            if rx_oppure and rx_oppure.search(azienda) and self.adatti and self.adatti.search(titolo):
                 return nome
         return None
 
