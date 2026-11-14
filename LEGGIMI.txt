@@ -58,6 +58,13 @@ FILTRI PERSONALI
 - Scarta i turni serali/notturni, tranne a Piossasco.
   ("pranzo e cena" non viene scartato: decidi tu.)
 - Scarta offerte dubbie (network marketing, solo provvigioni, partita IVA...).
+- Stage e "altri senza esperienza": scarta i settori fuori dal tuo campo
+  (economia, legge, chimica, fisica, ingegneria, meccanica, sanità, HR...;
+  lista "settori_non_adatti" in config.json). Gli sviluppatori software junior
+  restano (diploma di informatica).
+- Tutte le categorie: scarta chi chiede laurea, iscrizione all'università
+  (stage curriculari), inglese avanzato, altre lingue o iscrizione a un albo
+  (lista "requisiti_mancanti"). Gli stage extracurriculari restano.
 
 
 INVIO DEL CV
