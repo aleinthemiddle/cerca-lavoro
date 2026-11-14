@@ -88,6 +88,28 @@
       "escludi_settori_non_adatti": true
     }
   },
+  "_nota_lavori_adatti": "Per le categorie con escludi_settori_non_adatti si tengono SOLO i titoli che contengono una di queste parole.",
+  "lavori_adatti": {
+    "campo_di_studi": [
+      "sceneggiat", "scrittur", "scrittor", "copywrit", "redattor", "redazion", "\\beditor", "editori", "content", "contenuti",
+      "social media", "comunicazione", "communication", "video", "montaggio", "regia", "\\bregist",
+      "audiovisiv", "cinema", "\\bfilm", "televisiv", "\\btv\\b", "fumett", "comics", "manga", "videogioc", "videogam",
+      "gaming", "\\bgame", "gamelife", "intrattenimento", "spettacol", "teatr", "eventi", "\\bevent", "ufficio stampa",
+      "giornal", "\\bblog", "creativ", "storytell", "podcast", "\\bradio", "fotograf", "grafic", "illustrat",
+      "informatic", "\\bit\\b", "\\bict\\b", "help ?desk", "service desk", "supporto (tecnico|it|informatico)",
+      "assistenza (tecnica|it|informatica)", "tecnico (pc|hardware|informatico)", "sviluppat", "developer", "programmat",
+      "software", "\\bweb\\b", "sistemi informativi", "sistemist", "data entry", "inserimento dati"
+    ],
+    "per_tutti": [
+      "vendit", "\\bsales (assistant|associate|advisor|intern|stage)", "commess", "cassier", "\\bcassa\\b", "banconist",
+      "scaffal", "magazzin", "customer (service|care)", "servizio (al )?client", "assistenza client", "call center",
+      "contact center", "centralin", "accoglienza", "reception", "front office", "segreteri", "hostess", "steward",
+      "promoter", "promozion", "animat", "staff", "camerier", "barist", "\\bbar\\b", "lavapiatti", "cucina",
+      "aiuto cuoc", "pizz", "ristorazion", "mensa", "pulizi", "facchin", "manoval", "operai[oa]? generic",
+      "operatore di produzione", "addett[oaie]+ (alla )?produzione", "confezionament", "imballagg", "volantin",
+      "consegn", "fattorin", "negozio", "store", "supermercat", "punto vendita"
+    ]
+  },
   "settori_non_adatti": [
     "econom",
     "finanz",
@@ -232,7 +254,11 @@
     "spagnolo (fluente|ottimo)",
     "cinese",
     "albo",
-    "abilitazion"
+    "abilitazion",
+    "68/99",
+    "68/1999",
+    "categorie protette",
+    "categoria protetta"
   ],
   "escludi_se_titolo_contiene": [
     "ai piani"
@@ -315,7 +341,6 @@
     "frasi_per_lavoro": {}
   },
   "eccezioni_settori": [
-    "software",
     "developer",
     "sviluppat",
     "\\bweb\\b",

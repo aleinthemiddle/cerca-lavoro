@@ -295,6 +295,8 @@ class Filtri:
         self.dubbi = self._rx(cfg.get("escludi_se_testo_contiene"))
         self.settori = self._rx(cfg.get("settori_non_adatti"))
         self.eccezioni = self._rx(cfg.get("eccezioni_settori"))
+        adatti = cfg.get("lavori_adatti", {})
+        self.adatti = self._rx(adatti.get("campo_di_studi", []) + adatti.get("per_tutti", []))
         self.requisiti = self._rx(cfg.get("requisiti_mancanti"))
         self.con_settori = {n for n, d in cfg["lavori"].items() if d.get("escludi_settori_non_adatti")}
 
@@ -331,6 +333,8 @@ class Filtri:
         if (self.settori and a.get("lavoro") in self.con_settori and self.settori.search(titolo)
                 and not (self.eccezioni and self.eccezioni.search(titolo))):
             return "settore non adatto"
+        if self.adatti and a.get("lavoro") in self.con_settori and not self.adatti.search(titolo):
+            return "fuori dal tuo campo"
         if self.requisiti and self.requisiti.search(testo):
             return "requisiti mancanti"
         if self.auto and self.auto.search(testo):
