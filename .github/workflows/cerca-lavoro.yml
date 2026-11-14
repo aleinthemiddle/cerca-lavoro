@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/10 * * * *"   # ogni 10 minuti (GitHub a volte ritarda di qualche minuto)
   workflow_dispatch:          # pulsante "Run workflow" per avviarlo a mano
+    inputs:
+      prova_email:
+        description: "Manda il CV a me stesso per provare l'invio email"
+        type: boolean
+        default: false
 
 permissions:
   contents: write   # per salvare annunci_visti.json
@@ -41,6 +46,14 @@ jobs:
           if [ -n "$CV_PASSWORD" ] && [ -f cv.pdf.enc ]; then
             openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in cv.pdf.enc -out "$RUNNER_TEMP/CV.pdf" -pass env:CV_PASSWORD
           fi
+
+      - name: Email di prova
+        if: ${{ inputs.prova_email }}
+        env:
+          PRIVATO_JSON: ${{ secrets.PRIVATO_JSON }}
+          SMTP_PASSWORD_APP: ${{ secrets.SMTP_PASSWORD_APP }}
+          CV_PATH: ${{ runner.temp }}/CV.pdf
+        run: python cerca_lavoro.py --prova-email
 
       - name: Cerca annunci
         env:
