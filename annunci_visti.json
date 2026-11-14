@@ -1387,7 +1387,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "requisiti mancanti"
   },
   "Adzuna:5964803925": {
    "id": "Adzuna:5964803925",
@@ -1615,7 +1615,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "LinkedIn:4490705135": {
    "id": "LinkedIn:4490705135",
@@ -3210,7 +3210,7 @@
    "trovato_il": "2026-11-14T17:23:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Jobrapido:4235185612920979456": {
    "id": "Jobrapido:4235185612920979456",
@@ -3606,7 +3606,7 @@
    "trovato_il": "2026-11-14T17:23:14",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Talent.com:622545552642541984": {
    "id": "Talent.com:622545552642541984",
@@ -4604,7 +4604,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Talent.com:642670063665289491": {
    "id": "Talent.com:642670063665289491",
@@ -4812,7 +4812,7 @@
    "trovato_il": "2026-11-14T17:23:59",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Talent.com:627463843679242441": {
    "id": "Talent.com:627463843679242441",
@@ -5485,7 +5485,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Talent.com:637868410270712101": {
    "id": "Talent.com:637868410270712101",
@@ -5574,7 +5574,7 @@
    "trovato_il": "2026-11-14T17:24:31",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "requisiti mancanti"
+   "escluso": "programmazione"
   },
   "Adzuna:5893717518": {
    "id": "Adzuna:5893717518",
@@ -5627,7 +5627,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "LinkedIn:4488939407": {
    "id": "LinkedIn:4488939407",
@@ -5699,7 +5699,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Jobrapido:7504990704091791360": {
    "id": "Jobrapido:7504990704091791360",
@@ -6612,7 +6612,7 @@
    "trovato_il": "2026-11-14T17:24:51",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Jobrapido:8644219612440821760": {
    "id": "Jobrapido:8644219612440821760",
@@ -6665,7 +6665,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Jobrapido:1222750973764567040": {
    "id": "Jobrapido:1222750973764567040",
@@ -6809,7 +6809,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Talent.com:644557037389349021": {
    "id": "Talent.com:644557037389349021",
@@ -6863,7 +6863,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Talent.com:640008602971212610": {
    "id": "Talent.com:640008602971212610",
@@ -6934,7 +6934,7 @@
    "trovato_il": "2026-11-14T17:24:55",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Talent.com:643979817637908459": {
    "id": "Talent.com:643979817637908459",
@@ -6970,7 +6970,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Talent.com:643904305197096935": {
    "id": "Talent.com:643904305197096935",
@@ -7292,7 +7292,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "LinkedIn:4427710598": {
    "id": "LinkedIn:4427710598",
@@ -7310,7 +7310,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "LinkedIn:4475688776": {
    "id": "LinkedIn:4475688776",
@@ -7346,7 +7346,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "LinkedIn:4487473549": {
    "id": "LinkedIn:4487473549",
@@ -7418,7 +7418,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "LinkedIn:4487129803": {
    "id": "LinkedIn:4487129803",
@@ -7453,7 +7453,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Jobrapido:8666990051575463936": {
    "id": "Jobrapido:8666990051575463936",
@@ -7471,7 +7471,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Jobrapido:7099812972674940928": {
    "id": "Jobrapido:7099812972674940928",
@@ -7489,7 +7489,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Jobrapido:3969386820164124672": {
    "id": "Jobrapido:3969386820164124672",
@@ -7506,7 +7506,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Jobrapido:5535015752333000704": {
    "id": "Jobrapido:5535015752333000704",
@@ -7523,7 +7523,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Jobrapido:169297510118981632": {
    "id": "Jobrapido:169297510118981632",
@@ -7540,7 +7540,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Jobrapido:344678410842275840": {
    "id": "Jobrapido:344678410842275840",
@@ -7557,7 +7557,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Jobrapido:4268695909837045760": {
    "id": "Jobrapido:4268695909837045760",
@@ -7574,7 +7574,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Jobrapido:1844142169225428992": {
    "id": "Jobrapido:1844142169225428992",
@@ -7591,7 +7591,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Jobrapido:2172732043820007424": {
    "id": "Jobrapido:2172732043820007424",
@@ -7608,7 +7608,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Jobrapido:2796953828887363584": {
    "id": "Jobrapido:2796953828887363584",
@@ -7625,7 +7625,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Jobrapido:5984364370530926592": {
    "id": "Jobrapido:5984364370530926592",
@@ -7642,7 +7642,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Jobrapido:3195584240217489408": {
    "id": "Jobrapido:3195584240217489408",
@@ -7659,7 +7659,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Jobrapido:59029005": {
    "id": "Jobrapido:59029005",
@@ -7676,7 +7676,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Talent.com:640646218975285132": {
    "id": "Talent.com:640646218975285132",
@@ -7745,7 +7745,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Talent.com:642670066679293457": {
    "id": "Talent.com:642670066679293457",
@@ -7762,7 +7762,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "programmazione"
   },
   "Talent.com:641370953518023595": {
    "id": "Talent.com:641370953518023595",
@@ -7814,7 +7814,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Talent.com:644899603958468648": {
    "id": "Talent.com:644899603958468648",
@@ -7831,7 +7831,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Talent.com:640646243531097003": {
    "id": "Talent.com:640646243531097003",
@@ -7866,7 +7866,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Talent.com:644338244405504807": {
    "id": "Talent.com:644338244405504807",
@@ -7951,7 +7951,7 @@
    "trovato_il": "2026-11-14T17:25:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Adzuna:5965179270": {
    "id": "Adzuna:5965179270",
@@ -8105,7 +8105,7 @@
    "trovato_il": "2026-11-14T17:25:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Randstad:6365dbde-5d11-4c2e-87d5-482d1978b717": {
    "id": "Randstad:6365dbde-5d11-4c2e-87d5-482d1978b717",
@@ -8599,7 +8599,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:2728081073358503936": {
    "id": "Jobrapido:2728081073358503936",
@@ -8935,7 +8935,7 @@
    "trovato_il": "2026-11-14T17:25:39",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Jobrapido:629686221492191232": {
    "id": "Jobrapido:629686221492191232",
@@ -8952,7 +8952,7 @@
    "trovato_il": "2026-11-14T17:25:39",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Jobrapido:4357822288024829952": {
    "id": "Jobrapido:4357822288024829952",
@@ -10093,7 +10093,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "programmazione"
   },
   "Jobrapido:5611227335660404736": {
    "id": "Jobrapido:5611227335660404736",
@@ -10699,7 +10699,7 @@
    "trovato_il": "2026-11-14T17:26:10",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "LinkedIn:4488360860": {
    "id": "LinkedIn:4488360860",
@@ -10752,7 +10752,7 @@
    "trovato_il": "2026-11-14T17:26:10",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "LinkedIn:4487469278": {
    "id": "LinkedIn:4487469278",
@@ -11170,7 +11170,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "programmazione"
   },
   "Adzuna:5919239832": {
    "id": "Adzuna:5919239832",
@@ -11188,7 +11188,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "programmazione"
   },
   "Adzuna:5919239764": {
    "id": "Adzuna:5919239764",
@@ -11206,7 +11206,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "programmazione"
   },
   "Adzuna:5919239754": {
    "id": "Adzuna:5919239754",
@@ -11223,7 +11223,7 @@
    "trovato_il": "2026-11-14T17:26:16",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Adzuna:5919239794": {
    "id": "Adzuna:5919239794",
@@ -11259,7 +11259,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "settore non adatto"
+   "escluso": "programmazione"
   },
   "Adzuna:5919239597": {
    "id": "Adzuna:5919239597",
@@ -11650,7 +11650,7 @@
    "trovato_il": "2026-11-14T17:36:06",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo",
+   "escluso": "requisiti mancanti",
    "nascosto": true
   },
   "Talent.com:596031174161074842": {
@@ -12139,7 +12139,7 @@
    "trovato_il": "2026-11-14T17:52:53",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "settore non adatto",
+   "escluso": "programmazione",
    "nascosto": true
   },
   "Talent.com:644338306214931239": {
@@ -12165,17 +12165,34 @@
    "titolo": "Elevated Sommelier: Wine, Sake & Champagne",
    "azienda": "Major Food Brand",
    "luogo": "Torino",
-   "url": "https://open.app.jobrapido.com/it/4501547424350732288/?w=cameriere&l=beinasco&oc=sponsored&k=web.1.1.18&uuid=itF001a1dafc9783307c&page_item_id=-885010955",
+   "url": "https://open.app.jobrapido.com/it/4501547424350732288/?w=cameriere&l=beinasco&oc=sponsored&k=web.1.1.18&uuid=itF001a1db0199395219&page_item_id=-1774285213",
    "descrizione": "",
    "data": "06 nov",
    "comune": "Torino",
    "lavoro": "Altri lavori senza esperienza",
    "impronta": "elevated sommelier wine sake champagne|majorfoodbra|Torino",
-   "trovato_il": "2026-11-14T17:55:49",
+   "trovato_il": "2026-11-14T18:01:18",
    "doppione": false,
    "senza_esperienza": false,
    "escluso": "fuori dal tuo campo",
    "nascosto": true
+  },
+  "Talent.com:643904039856832669": {
+   "id": "Talent.com:643904039856832669",
+   "fonte": "Talent.com",
+   "titolo": "Marketing Tirocinio Curriculare - Internship",
+   "azienda": "ORBYTA srl",
+   "luogo": "Orbassano, Italy",
+   "url": "https://it.talent.com/view?id=643904039856832669",
+   "descrizione": "Descrizione dell’offerta di lavoro Hello Humans, We’re Orbyters! In ORBYTA TECH sperimentiamo avanguardia e creiamo innovazione. Siamo l’anima ICT del Gruppo Orbyta, progettiamo esperienze interstellari tra fisico e digitale. La nostra Mission Guidiamo i nostri partner nell’ideazione, co-progettazione di soluzioni personalizzate. Ci occupiamo di implementazione, delivery e integration di sistemi software, network, hardware e IOT. Orbyta è alla ricerca di due tirocinanti curriculari in ambito Marketing , da inserire nella sede di Torino con focus sulla creazione di contenuti per i canali digitali con AI generativa e di supporto all’organizzazione di eventi. Percorso di laurea triennale e magistrale (Marketing, Comunicazione, Economia o affini); Interesse per il digital marketing e i social media; Conoscenza del pacchetto MS Office Buone capacità comunicative e creative; Conoscenza base delle principali piattaforme social; Attitudine proattiva e voglia di imparare. Nice to have: inglese Tipologia: Tirocinio curriculare. Modalità di lavoro : On-site. Presso la sede in Piazza Castello 113, Torino. Durata: In base a quanto previsto dal piano di studi universitario e al numero di CFU richiesti, con possibilità di integrare l’esperienza di tirocinio con lo sviluppo della tesi in azienda .",
+   "data": "2026-10-30T20:25:15Z",
+   "comune": "Orbassano",
+   "lavoro": "Stage / Tirocinio",
+   "impronta": "marketing tirocinio curriculare internship|orbyta|Orbassano",
+   "trovato_il": "2026-11-14T18:03:19",
+   "doppione": false,
+   "senza_esperienza": true,
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:8626035167586156544": {
    "id": "Jobrapido:8626035167586156544",
@@ -12183,33 +12200,746 @@
    "titolo": "Customer Service - Tirocinio (JN -112026-797319)",
    "azienda": "Adecco Italia",
    "luogo": "Torino",
-   "url": "https://open.app.jobrapido.com/it/8626035167586156544/?w=tirocinio&l=piossasco&oc=sponsored&k=web.1.1.17&uuid=itF001a1dafe9f463d7b&page_item_id=1877551655",
+   "url": "https://open.app.jobrapido.com/it/8626035167586156544/?w=tirocinio&l=beinasco&oc=sponsored&k=web.1.1.16&uuid=itF001a1db03882f5fb1&page_item_id=64863663",
    "descrizione": "",
    "data": "12 nov",
    "comune": "Torino",
    "lavoro": "Stage / Tirocinio",
    "impronta": "customer service tirocinio jn 112026 797319|adecco|Torino",
-   "trovato_il": "2026-11-14T17:58:02",
+   "trovato_il": "2026-11-14T18:03:24",
    "doppione": false,
    "senza_esperienza": true,
    "escluso": ""
   },
-  "Talent.com:631220972784582736": {
-   "id": "Talent.com:631220972784582736",
-   "fonte": "Talent.com",
-   "titolo": "Tecnico Teleriscaldamento",
-   "azienda": "Synergie Italia S.p.a.",
-   "luogo": "Beinasco, Italy",
-   "url": "https://it.talent.com/view?id=631220972784582736",
-   "descrizione": "Descrizione dell’offerta di lavoro Synergie Italia seleziona per IREN ENERGIA, Società del Gruppo Iren attiva nella produzione di energia elettrica, nella produzione e distribuzione di energia termica per il teleriscaldamento e nei servizi tecnologici UNA/UN ASSITENTE LAVORI RETE per attività di costruzione, rinnovo e allaccio della rete e delle sottostazioni del teleriscaldamento della città di Torino. La figura si occuperà delle seguenti attività: -verifica dell’avanzamento e sviluppo di cantieri di costruzione, rinnovo e allaccio di reti e sottostazioni del teleriscaldamento -programmazione, gestione e coordinamento operativo dei cantieri (programmazione e monitoraggio dei lavori di posa della rete e costruzione e conduzione delle sottostazioni del teleriscaldamento, assistenza nelle fasi di collaudo degli impianti, verifica delle anomalie delle sottostazioni e gestione dei guasti e degli interventi di manutenzione, organizzazione di incontri e sopralluoghi con le ditte appaltatrici, esecuzione di rilievi idraulici funzionali degli impianti esistenti presso le centrali termiche dei clienti) e assistenza alla Direzione Lavori -verifica di massima dei progetti esecutivi degli appaltatori in accordo alla specifica tecnica, verifica del rispetto dei termini contrattuali, costruzione e utilizzo del sistema cartografico delle reti e del sistema di telegestione delle sottostazioni -gestione della documentazione e delle pratiche amministrative e contabili relative ai lavori, supervisione delle pratiche di richiesta di manomissione del suolo pubblico, delle notifiche preliminari e gestione delle pratiche con Enti terzi, emissione di ordini di lavoro -Diploma a indirizzo tecnico (preferibile geometra, termotecnico) -Precedente esperienza di lavoro maturata presso cantieri di realizzazione e manutenzione di impianti termici e di condizionamento in ambito civile e industriale -Conoscenze in materia di qualità, ambiente e sicurezza -Conoscenza di Autocad e dei principali applicativi del Pacchetto Office -Abilitazione alla conduzione di impianti termici -Patente di guida di categoria B -Disponibilità all’esecuzione di turnazioni di reperibilità settimanale Costituirà requisito preferenziale la conoscenza di sistemi di modellazione CAD 2D -Contratto a tempo indeterminato -CCNL Gas Acqua -Retribuzione annua lorda compresa tra 35.000 e 38.500 euro -Premio di risultato in base agli obiettivi aziendali -Buoni pasto o mensa aziendale -Welfare aziendale SEDE DI LAVORO: TORINO L'offerta è rivolta a candidatə nel rispetto del Dlgs 198/2006 e dei Dlgs 215/2003 e 216/2003 e della PdR 125/2022. Le persone interessate sono invitate a leggere l' informativa privacy ex artt. 13 e 14 del Reg. UE 2016/679. Aut. Min. Prot. N. 1207 – SG del 16/12/2004",
-   "data": "2026-08-04T13:40:09Z",
-   "comune": "Beinasco",
+  "LinkedIn:4487231969": {
+   "id": "LinkedIn:4487231969",
+   "fonte": "LinkedIn",
+   "titolo": "LLM Fine-Tuning Engineer",
+   "azienda": "Blox Space",
+   "luogo": "Città metropolitana di Torino",
+   "url": "https://it.linkedin.com/jobs/view/llm-fine-tuning-engineer-at-blox-space-4487231969",
+   "descrizione": "Cos'è Blox Space? Blox Space lavora al centro dell'economia tech,in partnership con un network di oltre 70 realtà attive nel mondo dell'AI, del software, della cybersecurity e delle Freedom Technologies, impegnate nello sviluppo di infrastrutture, prodotti e servizi legati all'economia digitale, alla data protection e al futuro del denaro. ﻿Aiutiamo a connettere i talenti con questo ecosistema, operando come Talent Bridge tra le ambizioni di crescita dei professionisti e le opportunità offerte dal nostro network. ﻿In questo momento stiamo supportando una delle nostre partner companies nella ricerca di un LLM Fine-Tuning Engineer, e se pensi di essere il profilo giusto, ci piacerebbe conoscerti. Il Ruolo L'azienda è una startup di cybersecurity italiana che costruisce sistemi di sicurezza autonomi: individuano vulnerabilità sconosciute, prioritizzano il rischio reale e distribuiscono le correzioni senza intervento umano, con un focus sui binari compilati, perché è quello che gira davvero in produzione. È un team early, pre-seed, fondato da ricercatori di sicurezza e accademici di primo piano. ﻿Cerchiamo un LLM Fine-Tuning Engineer che adatti, valuti e metta in produzione modelli linguistici open-weight, ma piegati a un unico scopo: trovare e capire vulnerabilità. Per questo cerchiamo una persona fortemente orientata alla cybersecurity, che non si limiti ad addestrare modelli ma capisca il dominio su cui lavorano. Non è un ruolo di prompt engineering: è l'intero ciclo di post-training, dal design dei dataset al fine tuning, dalla generazione di dati sintetici alla valutazione, fino al deploy in ambienti locali, privati o ristretti. ﻿ Non cerchiamo il curriculum perfetto, cerchiamo la testa giusta. Cerchiamo chi sa trasformare un foundation model in un sistema affidabile e specifico per il compito, sa quando il fine tuning è la strada giusta e quando invece conviene prompting, retrieval, orchestrazione o tooling, e porta con sé una vera sensibilità per il mindset di chi attacca. ﻿ Le responsabilità di un LLM Fine-Tuning Engineer in questo contesto possono spaziare dal fine tuning e dall'adattamento di LLM open-weight per casi d'uso di sicurezza, interni o rivolti al cliente, al confronto tra approcci di post-training (SFT, tecniche parameter-efficient come LoRA e QLoRA, preference tuning come DPO dove serve, full fine tuning quando giustificato), dalla costruzione e pulizia di dataset di qualità e dalla generazione di dati sintetici alla definizione di metodi di valutazione che vanno oltre i benchmark generici, fino all'analisi di regressioni e failure mode e al lavoro con il team di engineering per servire i modelli in ambienti vincolati. ﻿﻿﻿ Le skill che fanno la differenza Esperienza pratica vera nel fine tuning di LLM: in produzione, in ricerca applicata o in contesti sperimentali seri, con più tecniche di post-training alle spalle, idealmente SFT, LoRA e QLoRA. Orientamento forte alla cybersecurity: capisci (o hai una gran voglia di capire a fo",
+   "data": "2026-11-13",
+   "comune": "Torino",
    "lavoro": "Altri lavori senza esperienza",
-   "impronta": "tecnico teleriscaldamento|synergie|Beinasco",
-   "trovato_il": "2026-11-14T17:58:53",
+   "impronta": "llm fine tuning engineer|bloxspace|Torino",
+   "trovato_il": "2026-11-14T18:04:47",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "LinkedIn:4489680803": {
+   "id": "LinkedIn:4489680803",
+   "fonte": "LinkedIn",
+   "titolo": "AI Software Engineer",
+   "azienda": "Jet HR",
+   "luogo": "Torino",
+   "url": "https://it.linkedin.com/jobs/view/ai-software-engineer-at-jet-hr-4489680803",
+   "descrizione": "Cosa farai Il tuo obiettivo è portare AI nel core del prodotto Jet HR e nell'infrastruttura interna - costruendo agenti affidabili, pipeline robuste e sistemi di conoscenza che scalano. Nel concreto: Sviluppi agenti AI multi-step basati su LLM per casi d'uso complessi: orchestrazione, ragionamento, gestione degli errori. Implementi e integri MCP per la gestione di contesti, tool e fonti di conoscenza strutturate. Integri chatbot e agenti direttamente nei prodotti Jet HR e nei tool interni - non come demo o per esplorare, ma come funzionalità in produzione. Prepari e pulisci i dati per l'ingestion in sistemi RAG e knowledge base AI: qualità, struttura, aggiornamento continuo. Mantieni le knowledge base attive e aggiornate, con pipeline automatizzate di update e versioning. Contribuisci all'infrastruttura della data platform a supporto dei workload AI - sei parte integrante del team che la costruisce. Come Lavoriamo ‍ Il team Data di Jet HR non è un team di supporto. È una funzione strategica che costruisce la piattaforma dati su cui gira il prodotto e i prodotti AI che lo estendono. Data platform prima di tutto. Lavoriamo su una piattaforma scalabile e robusta: architettura, automazione, data products. Niente one-off, niente workaround. Full stack mindset. Non aspetti che qualcun altro sblocchi qualcosa. Hai la piena ownership del tuo pezzo, dalla logica all'infrastruttura. Tech-first. Il team è composto da data engineers, AI engineers e analytics engineers. Collaboriamo strettamente con prodotto, payroll e operations per trasformare i dati in asset strategici. Niente task banali. Non esistono report manuali da tenere in vita. Automatizziamo, ottimizziamo, costruiamo soluzioni che durano. Tech stack DBT - Snowflake - Python - Metabase - DltHub - Apache Airflow - Docker - AWS - LangChain Chi stiamo cercando 3+ anni di esperienza nella costruzione di soluzioni di data science o machine learning, di cui almeno 1 su AI (RAG, agent frameworks, LLM in produzione). Python solido. Non un \"lo conosco\", ma lo usi ogni giorno e conosci bene le librerie AI - LangChain e dintorni. ML/AI hands-on. Hai sviluppato, fatto tuning e deployato modelli reali. Sai cosa funziona fuori da un notebook. Cosa offriamo €45.000 – €65.000 di RAL. Full remote. Per davvero. Puoi lavorare da dove vuoi, basta che sia in una timezone compatibile con l’Italia. Se vuoi, il nostro ufficio a Milano è pronto ad accoglierti. Due volte l’anno abbiamo un meetup di 3 giorni, tutto pagato da Jet. Ownership di quello che fai. Il ruolo del product manager è ripartito tra software engineer e designer. Non hai spec iper-dettagliate, non sei un mero esecutore. Sei tu responsabile dell’output finale. Impatto concreto. Siamo una start-up, ognuno dà un contributo essenziale allo sviluppo dei prodotti e alla crescita di Jet. Il tuo lavoro fa la differenza per migliaia di clienti. Start-up environment . Non è una startup qualsiasi, ma una ben finanziata e zeppa di talenti. In 6 mesi vedrai ed imparera",
+   "data": "2026-11-11",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "ai software engineer|jethr|Torino",
+   "trovato_il": "2026-11-14T18:04:47",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "programmazione",
+   "nascosto": true
+  },
+  "LinkedIn:4487819921": {
+   "id": "LinkedIn:4487819921",
+   "fonte": "LinkedIn",
+   "titolo": "Data scientist (computer vision) | Automotive",
+   "azienda": "Amaris Consulting | Part of Mantu",
+   "luogo": "Torino",
+   "url": "https://it.linkedin.com/jobs/view/data-scientist-computer-vision-automotive-at-amaris-consulting-part-of-mantu-4487819921",
+   "descrizione": "Vuoi iniziare una nuova avventura professionale come Data scientist (computer vision) in una delle nostre opportunità nel settore automotive? 👉 Cosa farai? Lavorerai all’interno di un team di innovazione dedicato alla gestione e all’analisi dei dati. Acquisirai, organizzerai e sincronizzerai dati multimodali provenienti da video, immagini, GPS e sensori. Svilupperai attività di pre-processing e post-processing su dati video e immagini. Utilizzerai tecniche di intelligenza artificiale, reti neurali e deep learning per analizzare dati complessi. Svilupperai soluzioni di image processing e computer vision per identificare condizioni di disagio in diversi scenari di guida. Analizzerai i dati per anticipare la dinamica del veicolo e supportare lo sviluppo di nuovi prototipi. Scriverai codice in Python per la gestione, l’elaborazione e l’analisi dei dati. Collaborerai con un team internazionale, contribuendo alla documentazione tecnica e alla condivisione dei risultati. ✍️ Cosa Richiediamo? Almeno 1 anno di esperienza come Data Scientist in ambito professionale. Il ruolo è rivolto a profili con esperienza e non è entry-level. Buona conoscenza di Python e del sistema operativo Linux . Esperienza nell’utilizzo di tecniche di intelligenza artificiale, reti neurali e deep learning . Esperienza in image processing e computer vision , preferibilmente applicate a dati video o immagini. Conoscenza della lingua inglese almeno a livello C1 e italiano a livello C2 o Madrelingua. Disponibilità a lavorare in modalità full onsite . Nice to have: Esperienza nella gestione di dati multimodali provenienti da video, GPS e sensori. Esperienza in ambito automotive, mobilità o sistemi basati su prototipi. Conoscenza di tecniche di sincronizzazione e post-processing dei dati. ✨ Che cosa offriamo? Una comunità internazionale che riunisce oltre 110 nazionalità diverse. Un ambiente in cui la fiducia è centrale e la crescita interna è valorizzata. Un solido sistema di formazione con Academy interna e moduli disponibili. Un ambiente di lavoro dinamico con eventi interni, afterwork, team building e altre iniziative. Un forte impegno verso benessere e work-life balance. Benefici locali in Italia: Buoni pasto. Opzioni di lavoro flessibili secondo policy aziendale. Assicurazione sanitaria e programmi di benessere, ove applicabili. 💰 Remunerazione e trasparenza RAL indicativa: 28.000-32.000 euro , in funzione dell’esperienza e del livello di inserimento. CCNL del Commercio. La fascia retributiva è definita secondo criteri oggettivi e neutri rispetto al genere. Durante il processo di selezione non chiederemo informazioni sulla tua retribuzione attuale o precedente. Le nostre fasce retributive sono volutamente ampie, perché cerchiamo persone di talento, non “profili standard”. Uno stesso ruolo può attrarre candidature molto diverse tra loro, e crediamo sia importante lasciare spazio a questa varietà. La collocazione all’interno della fascia dipenderà dalla tua esperienza specifica, dal",
+   "data": "2026-11-10",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "data scientist computer vision automotive|amarisconsul|Torino",
+   "trovato_il": "2026-11-14T18:04:47",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "LinkedIn:4488866119": {
+   "id": "LinkedIn:4488866119",
+   "fonte": "LinkedIn",
+   "titolo": "Data Scientist - Databricks",
+   "azienda": "MC Engineering",
+   "luogo": "Torino",
+   "url": "https://it.linkedin.com/jobs/view/data-scientist-databricks-at-mc-engineering-4488866119",
+   "descrizione": "MC Engineering è una dinamica società di consulenza informatica , con sedi a Torino, Milano, Roma, Bari, Trieste e Firenze. Lavoriamo a stretto contatto con realtà innovative nel mondo ICT, portando avanti progetti che spaziano tra vari settori. Per noi, le persone sono al centro di tutto : puntiamo su un continuo aggiornamento, sulla crescita costante e sull’ eccellenza , per affrontare insieme sfide innovative e fare la differenza nel nostro settore. Posizione: Cosa farai con noi? Come Data Scientist - Databricks avrai l'opportunità di lavorare su un progetto in ambito Pharma , occupandoti della creazione e gestione di pipeline e notebook, con un focus particolare sulla modellazione dei dati, lo sviluppo di algoritmi di forecasting su Databricks e attività di machine learning. Il contesto applicativo riguarda l'analisi dei dati in ambito vendite, dove contribuirai a costruire soluzioni data-driven affidabili e scalabili. Opererai in un contesto collaborativo e strutturato, orientato alla qualità e all'innovazione, dove il tuo contributo sarà valorizzato attraverso un percorso di crescita professionale. Requisiti: Cosa cerchiamo in te? Formazione: Laurea o diploma tecnico. Esperienza: Richiesti almeno 2 anni di precedente esperienza nel ruolo o con mansioni analoghe. Competenze richieste: Buona conoscenza di Databricks Buona conoscenza di Python Buona conoscenza di SQL Buona conoscenza del metodo SHAP values (SHapley Additive exPlanations) Buona conoscenza di decision tree (algoritmo di ML) e dei modelli statistici mixed effect model Lingua inglese Richiesta buona conoscenza della lingua inglese. Modalità e/o Sede di Lavoro Full remote. Completano il profilo Un'elevata attitudine al lavoro in team Doti di precisione e flessibilità mentale Capacità proattiva nella gestione delle problematiche professionali Altre informazioni: Cosa offriamo Inserimento in organico con un inquadramento commisurato all'esperienza professionale pregressa e una retribuzione in linea con le reali capacità del candidato. Retribuzione Da € 25.000 a € 40.000 Se sei una persona appassionata di tecnologia, desiderosa di crescere in un ambiente che promuove l'eccellenza nel settore Data Engineering & Machine Learning , questa è l'occasione che fa per te! Unisciti a MC Engineering: dove le idee diventano innovazione! Il presente annuncio è rivolto ad entrambi i sessi, ai sensi delle leggi 903/77 e 125/91, e a persone di tutte le età e tutte le nazionalità, ai sensi dei DLgs 215/03 e 216/03.",
+   "data": "2026-11-09",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "data scientist databricks|mcengineerin|Torino",
+   "trovato_il": "2026-11-14T18:04:47",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "LinkedIn:4487914027": {
+   "id": "LinkedIn:4487914027",
+   "fonte": "LinkedIn",
+   "titolo": "AI Engineer",
+   "azienda": "TXT GROUP",
+   "luogo": "Torino",
+   "url": "https://it.linkedin.com/jobs/view/ai-engineer-at-txt-group-4487914027",
+   "descrizione": "TXT e-Tech is looking for an AI Enginee r to join a multidisciplinary team dedicated to developing innovative software solutions for advanced training systems. The successful candidate will contribute to the design, implementation, and integration of models based on Artificial Intelligence and Machine Learning, with applications in simulated scenarios and synthetic environments. Main responsibilities: Data analysis and processing; Design and development of Machine Learning and Deep Learning algorithms; Model validation, optimization and tuning; Integration of software modules into training and simulation systems; Development of control models for entities to be integrated into synthetic environments; Testing activities, analysis and reporting of achieved results. Required technical skills: Knowledge of Python programming language and related libraries such as NumPy, Pandas and Matplotlib; Good knowledge of C++; Data preprocessing techniques; Management of complex datasets; Ability to tune and optimize Machine Learning and Deep Learning models; Knowledge of modern neural network architectures, including CNNs (Convolutional Neural Networks), RNNs (Recurrent Neural Networks) and Transformers. Knowledge of DIS and HLA communication protocols would be an advantage. The ideal candidate will have excellent English language skills, be a team player, flexible, and proactive. They will be bright and dynamic, with strong problem-solving skills. Why choose TXT GROUP: Career opportunities in a fast-growing and profoundly changing company with international staff; Training on business-related topics; Corporate Benefits (health insurance, welfare, Ticket Restaurant, discounts as a group employee). The contract offered for this position is permanent, and the expected salary is between €27.000 and €30.000 gross per year. The classification will be defined during the selection process based on the candidate's profile and in accordance with the National Collective Bargaining Agreement. This position is open to all applicants regardless of gender in accordance with Legislative Decree 198/2006. The company promotes equal opportunities and values diversity in all its forms.",
+   "data": "2026-11-09",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "ai engineer|txt|Torino",
+   "trovato_il": "2026-11-14T18:04:47",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "LinkedIn:4489945340": {
+   "id": "LinkedIn:4489945340",
+   "fonte": "LinkedIn",
+   "titolo": "Data Scientist (computer vision) | Automotive",
+   "azienda": "Amaris Consulting | Part of Mantu",
+   "luogo": "Torino",
+   "url": "https://it.linkedin.com/jobs/view/data-scientist-computer-vision-automotive-at-amaris-consulting-part-of-mantu-4489945340",
+   "descrizione": "",
+   "data": "2026-11-11",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "data scientist computer vision automotive|amarisconsul|Torino",
+   "trovato_il": "2026-11-14T18:04:47",
+   "doppione": true,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto"
+  },
+  "LinkedIn:4466847403": {
+   "id": "LinkedIn:4466847403",
+   "fonte": "LinkedIn",
+   "titolo": "AI Developer",
+   "azienda": "MSC Mediterranean Shipping Company",
+   "luogo": "Torino",
+   "url": "https://it.linkedin.com/jobs/view/ai-developer-at-msc-mediterranean-shipping-company-4466847403",
+   "descrizione": "MSC Mediterranean Shipping Company is a global business engaged in the shipping sector. Present in 155 countries, MSC facilitates international trade between the world’s major economies, and among emerging markets across all continents. Headquartered in Geneva, Switzerland, since 1978, MSC is a privately-owned organisation driven by the Aponte family. Today, we continue to focus on caring for customers, employees and the environment. From a one-vessel operation to a globally respected business we have an unfaltering commitment to people that have passion, creativity and willing to make a change. MSC Technology Italy is the first division located in the national territory, complementing existing offices in Geneva (the Group's headquarters), Warren (New Jersey, USA), and Chennai (India). MSC Technology embodies Passion and a commitment to Continuous Evolution, strongly believing in Equal Opportunities and Caring for its People—ultimately fostering a sense of Family within the Company. With over 3,000 employees, our Technology Department plays a pivotal role in driving business growth and elevating the quality standards across our functional lines. Working within an international office and engaging in cross-country collaboration offers the opportunity to connect with individuals boasting diverse technical skills, backgrounds, cultures, and professional experiences. International travel not only enriches your understanding of business and languages within the ICT realm but also provides avenues for personal and professional growth. In 2020, MSC Technology Italy was established as a technological division of MSC with the goal of creating a Center of Excellence to support the MSC Group's business. Do you recognize yourself? Then come work with us and be part of MSC’s family! ARTIFICIAL INTELLIGENCE ENGINEER You are going to join our AI team that uses Generative-AI to build conversational interfaces for MSC service exposed to our internal users and external customers. You will orchestrate RAG and Function calling to implement the next generation of shipping chatbots. You will have the opportunity to work with the latest Microsoft AI-tools to interact and integrate shipping data with Microsoft 365 ecosystem. We are looking for developers having experience on Generative-AI technologies. MSC is a “MS stack” based using C#. Still, we are also considering developers that are currently using other languages (e.g. python), but they are willing to add C# language and MS stack to their toolbox. ROLE AND KEY RESPONSIBILITIES Build technical components Produce application documentation Collaborate daily with a global team to assist on the delivery in time and according to quality standards Provide input, review, guidelines to the Community of Practice team, evaluate implementation and contribute to continuous improvement Contribute to the planning, study, design, implementation, testing and deployment phases of the software development projects Actively participa",
+   "data": "2026-11-12",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "ai developer|mscmediterra|Torino",
+   "trovato_il": "2026-11-14T18:04:47",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "programmazione",
+   "nascosto": true
+  },
+  "LinkedIn:4490073453": {
+   "id": "LinkedIn:4490073453",
+   "fonte": "LinkedIn",
+   "titolo": "Cloud Data & AI Engineer",
+   "azienda": "NTT DATA Europe & Latam",
+   "luogo": "Torino",
+   "url": "https://it.linkedin.com/jobs/view/cloud-data-ai-engineer-at-ntt-data-europe-latam-4490073453",
+   "descrizione": "Profilo Il/la Cloud Data Engineer - Agentic/Generative AI entrerà a far parte della Practice Data & Intelligence di NTT DATA Italia, contribuendo alla realizzazione di soluzioni innovative che integrano Data Platform, Generative AI e tecnologie Agentiche su ecosistemi cloud enterprise. Lavorerà a stretto contatto con architetti, data engineer, AI specialist e clienti, supportando l'adozione delle funzionalità AI native dei principali hyperscaler e vendor tecnologici per accelerare l'evoluzione delle moderne piattaforme dati. La figura ricercata è un/una professionista con solide competenze di Data Engineering, in grado di progettare e sviluppare soluzioni che combinano dati, servizi AI e framework agentici. Il ruolo è focalizzato sull'integrazione e industrializzazione delle capabilities Generative AI e Agentic AI all'interno delle architetture aziendali: dati governati, pipeline, knowledge retrieval, servizi cloud e requisiti di produzione. Non richiede un profilo di modellazione statistica o Data Science. Cerchiamo una persona con esperienza concreta nella progettazione, sviluppo e messa in produzione di soluzioni Data & AI su almeno un hyperscaler. Deve inoltre avere conoscenza pratica delle principali piattaforme Generative AI e Agentic AI. Certificazioni o percorsi specialistici rilasciati da hyperscaler, piattaforme dati e vendor in ambito Cloud, Data e AI costituiscono titolo fortemente preferenziale. Responsabilità Progettare e sviluppare soluzioni Data & AI su piattaforme cloud enterprise. Implementare funzionalità Generative AI e Agentic AI all'interno di Data Platform moderne. Realizzare pipeline dati, integrazioni API e componenti di knowledge retrieval, incluso il disegno di pipeline RAG con adeguate strategie di chunking, retrieval e gestione dei metadati. Disegnare architetture basate su AI Agents e Agentic Workflows , selezionando gli approcci più adatti a contesto, vincoli e requisiti di affidabilità. Integrare servizi LLM, vector database e componenti AI nelle soluzioni dati, inclusi prompting, tool use, memoria e gestione del contesto. Sfruttare le capabilities AI native di Azure, AWS, Google Cloud e delle principali piattaforme di mercato. Contribuire alla definizione e all'adozione di pratiche di evaluation, osservability, guardrail e governance per applicazioni AI in produzione. Collaborare con clienti e team progettuali nella definizione di use case e soluzioni innovative. Contribuire all'evoluzione di framework, acceleratori e best practice della Practice Data & Intelligence. Required Skills Comprovata esperienza in ambito Cloud Data Engineering. Esperienza nell'utilizzo di servizi Generative AI e Agentic AI forniti dai principali hyperscaler. Esperienza concreta su almeno una piattaforma cloud tra Microsoft Azure, AWS e Google Cloud Platform, inclusi servizi di data platform, integrazione, sicurezza e servizi AI nativi. Esperienza nello sviluppo di pipeline dati, integrazioni API e architetture cloud-native. Buona padrona",
+   "data": "2026-11-12",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "cloud data ai engineer|nttdataeurop|Torino",
+   "trovato_il": "2026-11-14T18:04:47",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "programmazione",
+   "nascosto": true
+  },
+  "LinkedIn:4488855311": {
+   "id": "LinkedIn:4488855311",
+   "fonte": "LinkedIn",
+   "titolo": "Research Positions in AI for Advanced Materials & Engineering Design (Postdoctoral, PhD,Research Fellowships, Internships)",
+   "azienda": "The Italian Institute of Artificial Intelligence",
+   "luogo": "Torino",
+   "url": "https://it.linkedin.com/jobs/view/research-positions-in-ai-for-advanced-materials-engineering-design-postdoctoral-phd-research-fellowships-internships-at-the-italian-institute-of-artificial-intelligence-ai4i-4488855311",
+   "descrizione": "The Italian Institute of Artificial Intelligence (AI4I) is an Institute that aims to enhance scientific research, technological transfer, and, more generally, the innovation capacity of the Country, promoting its positive impact on industry, services and public administration. To this end, the Institute contributes to creating a research and innovation infrastructure that employs artificial intelligence methods, with particular reference to manufacturing processes, within the framework of the Industry 4.0 process and its entire value chain. The Institute establishes relationships with similar entities and organizations in Italy and abroad, including Competence Centers and European Digital Innovation Hubs (EDIHs). Are you looking to support the future of industrial innovation? The Italian Institute of Artificial Intelligence (AI4I) is seeking talented and highly motivated researchers for postdoctoral, PhD, research fellowship, and internship positions in AMED Lab - AI for Advanced Materials & Engineering Design LOCATION AI4I, OGR, Turin, Italy Job Description The lab develops AI methods for advanced materials and engineering design, with research spanning machine learning, physics-based modeling, simulation, optimization, and intelligent material systems. We are particularly interested in candidates eager to work on ambitious interdisciplinary projects at the intersection of AI, physics, materials science, mechanics, and robotics. Current Research Directions Include Physics-Aware AI models for multiscale simulation, surrogate modeling, and scientific discovery AI-guided design of Robotic Matter and architected material systems Generative AI for advanced materials and engineering design AI-native approaches to multifunctional, adaptive, and intelligent materials About You You are strongly curious and motivated, with a strong interest and background in one or more of the following areas: Machine learning / AI Computational mechanics / physics-based simulation Materials science / metamaterials / architected materials Robotics / intelligent systems Applied mathematics / scientific computing Why Join AI4I? AI4I is a transformative hub where application-oriented AI research meets industrial impact. You will work in a dynamic, international environment alongside world-class researchers and industry leaders. Competitive Compensation: Competitive pay and bonus incentives, along with support for conference participation and research travel (Researchers relocating from abroad may be eligible for tax exemptions of up to 90% link) Innovation Ecosystem: A stimulating, ambitious, and collaborative research environment within AI4I’s international and interdisciplinary ecosystem, with connections to leading institutions such as Oxford, ETH, TU Delft, Imperial College, TUM, UC Berkeley, UCLA, Politecnico di Milano, and Penn State, top-level industry (e.g., Nvidia) and Nobel-prize-level researchers (e.g., AI for Materials Design) Work at the heart of the AI revoluti",
+   "data": "2026-11-09",
+   "comune": "Torino",
+   "lavoro": "Stage / Tirocinio",
+   "impronta": "research positions in ai for advanced materials engineering design postdoctoral phd research fellowships internships|theitalianin|Torino",
+   "trovato_il": "2026-11-14T18:04:47",
+   "doppione": false,
+   "senza_esperienza": true,
+   "escluso": "settore non adatto"
+  },
+  "Jobrapido:2281883071370231808": {
+   "id": "Jobrapido:2281883071370231808",
+   "fonte": "Jobrapido",
+   "titolo": "Addetto/a Vendite in Eventi e Punti Commerciali - Prima Esperienza - Formazione Inclusa",
+   "azienda": "Blackstar Marketing",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/2281883071370231808/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.0&uuid=itF001a1db04d430679b&page_item_id=1447612380",
+   "descrizione": "",
+   "data": "24 ott",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "addetto vendite in eventi punti commerciali prima esperienza formazione inclusa|blackstarmar|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": true,
+   "escluso": ""
+  },
+  "Jobrapido:3904363935880445952": {
+   "id": "Jobrapido:3904363935880445952",
+   "fonte": "Jobrapido",
+   "titolo": "Senior Technical Trainer — Machine Learning",
+   "azienda": "Jobgether",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/3904363935880445952/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.1&uuid=itF001a1db04d430679b&page_item_id=2072856019",
+   "descrizione": "",
+   "data": "24 ott",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "senior technical trainer machine learning|jobgether|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
    "doppione": false,
    "senza_esperienza": false,
    "escluso": "fuori dal tuo campo",
+   "nascosto": true
+  },
+  "Jobrapido:7648124028284043264": {
+   "id": "Jobrapido:7648124028284043264",
+   "fonte": "Jobrapido",
+   "titolo": "Field Retail Trainer — Elevate Customer Experience (Italy)",
+   "azienda": "Swatch",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/7648124028284043264/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.3&uuid=itF001a1db04d430679b&page_item_id=-847773947",
+   "descrizione": "",
+   "data": "09 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "field retail trainer elevate customer experience italy|swatch|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "fuori dal tuo campo",
+   "nascosto": true
+  },
+  "Jobrapido:6577314601795321856": {
+   "id": "Jobrapido:6577314601795321856",
+   "fonte": "Jobrapido",
+   "titolo": "Technical Trainer (Torino)",
+   "azienda": "Gruppo FOS",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/6577314601795321856/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.4&uuid=itF001a1db04d430679b&page_item_id=1996126574",
+   "descrizione": "",
+   "data": "12 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "technical trainer torino|gruppofos|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "fuori dal tuo campo",
+   "nascosto": true
+  },
+  "Jobrapido:4556262146605842432": {
+   "id": "Jobrapido:4556262146605842432",
+   "fonte": "Jobrapido",
+   "titolo": "Swatch & Flik Flak - Retail Trainer",
+   "azienda": "Swatch",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/4556262146605842432/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.5&uuid=itF001a1db04d430679b&page_item_id=1283646061",
+   "descrizione": "",
+   "data": "09 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "swatch flik flak retail trainer|swatch|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "fuori dal tuo campo",
+   "nascosto": true
+  },
+  "Jobrapido:2248377206860414976": {
+   "id": "Jobrapido:2248377206860414976",
+   "fonte": "Jobrapido",
+   "titolo": "Technical Training Specialist",
+   "azienda": "Iveco Group",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/2248377206860414976/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.6&uuid=itF001a1db04d430679b&page_item_id=-1267086563",
+   "descrizione": "",
+   "data": "13 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "technical training specialist|iveco|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "fuori dal tuo campo",
+   "nascosto": true
+  },
+  "Jobrapido:4198337817178275840": {
+   "id": "Jobrapido:4198337817178275840",
+   "fonte": "Jobrapido",
+   "titolo": "Sales - commerciale",
+   "azienda": "Jobtech (Italy)",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/4198337817178275840/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.7&uuid=itF001a1db04d430679b&page_item_id=426108962",
+   "descrizione": "",
+   "data": "11 ott",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "sales commerciale|jobtechitaly|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "fuori dal tuo campo",
+   "nascosto": true
+  },
+  "Jobrapido:2730502060523913216": {
+   "id": "Jobrapido:2730502060523913216",
+   "fonte": "Jobrapido",
+   "titolo": "Junior HR Specialist - Formazione Apprendisti - Categorie Protette (L. 68/99)",
+   "azienda": "ALTEN Group",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/2730502060523913216/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.8&uuid=itF001a1db04d430679b&page_item_id=-1293635199",
+   "descrizione": "",
+   "data": "11 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "junior hr specialist formazione apprendisti categorie protette l 68 99|alten|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": true,
+   "escluso": "settore non adatto"
+  },
+  "Jobrapido:4101973525743534080": {
+   "id": "Jobrapido:4101973525743534080",
+   "fonte": "Jobrapido",
+   "titolo": "Addetto/a Vendite in Eventi e Punti Commerciali - Prima Esperienza - Formazione Inclusa",
+   "azienda": "Blackstar Marketing",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/4101973525743534080/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.9&uuid=itF001a1db04d430679b&page_item_id=-2145759942",
+   "descrizione": "",
+   "data": "01 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "addetto vendite in eventi punti commerciali prima esperienza formazione inclusa|blackstarmar|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": true,
+   "senza_esperienza": true,
+   "escluso": ""
+  },
+  "Jobrapido:5781715372059131904": {
+   "id": "Jobrapido:5781715372059131904",
+   "fonte": "Jobrapido",
+   "titolo": "Commerciale – Percorso di Sviluppo verso Ruoli di Responsabilità Eismann",
+   "azienda": "Fine Foods & Pharmaceuticals N.T.M. S.p.A.",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/5781715372059131904/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.10&uuid=itF001a1db04d430679b&page_item_id=433794699",
+   "descrizione": "",
+   "data": "02 set",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "commerciale percorso di sviluppo verso ruoli di responsabilita eismann|finefoodspha|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "fuori dal tuo campo",
+   "nascosto": true
+  },
+  "Jobrapido:4542304293167824896": {
+   "id": "Jobrapido:4542304293167824896",
+   "fonte": "Jobrapido",
+   "titolo": "Commerciale – Percorso di Sviluppo verso Ruoli di Responsabilità Eismann",
+   "azienda": "Eismann",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/4542304293167824896/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.11&uuid=itF001a1db04d430679b&page_item_id=825077714",
+   "descrizione": "",
+   "data": "05 ott",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "commerciale percorso di sviluppo verso ruoli di responsabilita eismann|eismann|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "fuori dal tuo campo",
+   "nascosto": true
+  },
+  "Jobrapido:3676371369408331776": {
+   "id": "Jobrapido:3676371369408331776",
+   "fonte": "Jobrapido",
+   "titolo": "LifeVest Clinical Trainer & Customer Advocate",
+   "azienda": "ZOLL Cardiac Management Solutions",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/3676371369408331776/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.12&uuid=itF001a1db04d430679b&page_item_id=-1549900871",
+   "descrizione": "",
+   "data": "10 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "lifevest clinical trainer customer advocate|zollcardiacm|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "Jobrapido:1050526496046710784": {
+   "id": "Jobrapido:1050526496046710784",
+   "fonte": "Jobrapido",
+   "titolo": "RSPP HSE Consultant & Trainer – Torino (Smart Working)",
+   "azienda": "Tharsos S.r.l.",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/1050526496046710784/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.13&uuid=itF001a1db04d430679b&page_item_id=590880390",
+   "descrizione": "",
+   "data": "10 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "rspp hse consultant trainer torino smart working|tharsos|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "Jobrapido:2585441704765030400": {
+   "id": "Jobrapido:2585441704765030400",
+   "fonte": "Jobrapido",
+   "titolo": "Personal Trainer Elite: Da One-to-One a Store Manager",
+   "azienda": "StoreFit",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/2585441704765030400/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.14&uuid=itF001a1db04d430679b&page_item_id=-2001964264",
+   "descrizione": "",
+   "data": "09 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "personal trainer elite da one to one store manager|storefit|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "",
+   "nascosto": true
+  },
+  "Jobrapido:3054792569775980544": {
+   "id": "Jobrapido:3054792569775980544",
+   "fonte": "Jobrapido",
+   "titolo": "Personal Trainer One-to-One Premium | Percorso Manager",
+   "azienda": "StoreFit",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/3054792569775980544/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.15&uuid=itF001a1db04d430679b&page_item_id=-2084325885",
+   "descrizione": "",
+   "data": "12 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "personal trainer one to one premium percorso manager|storefit|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "fuori dal tuo campo",
+   "nascosto": true
+  },
+  "Jobrapido:3389284485349507072": {
+   "id": "Jobrapido:3389284485349507072",
+   "fonte": "Jobrapido",
+   "titolo": "Premium 1:1 Personal Trainer - Path to Store Manager",
+   "azienda": "StoreFit",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/3389284485349507072/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.16&uuid=itF001a1db04d430679b&page_item_id=-1894182705",
+   "descrizione": "",
+   "data": "06 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "premium 1 1 personal trainer path to store manager|storefit|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "",
+   "nascosto": true
+  },
+  "Jobrapido:4425393874621431808": {
+   "id": "Jobrapido:4425393874621431808",
+   "fonte": "Jobrapido",
+   "titolo": "Premium One-to-One Personal Trainer : Path to Store Manager",
+   "azienda": "StoreFit",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/4425393874621431808/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.17&uuid=itF001a1db04d430679b&page_item_id=-2035776113",
+   "descrizione": "",
+   "data": "10 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "premium one to one personal trainer path to store manager|storefit|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "",
+   "nascosto": true
+  },
+  "Jobrapido:473045396952711168": {
+   "id": "Jobrapido:473045396952711168",
+   "fonte": "Jobrapido",
+   "titolo": "Music Critic - Ai Trainer",
+   "azienda": "Mercor",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/473045396952711168/?w=ai%20trainer&l=torino&oc=sponsored&k=web.1.1.18&uuid=itF001a1db04d430679b&page_item_id=933124166",
+   "descrizione": "",
+   "data": "10 nov",
+   "comune": "Torino",
+   "lavoro": "Informatica (senza esperienza)",
+   "impronta": "music critic ai trainer|mercor|Torino",
+   "trovato_il": "2026-11-14T18:04:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "",
+   "nascosto": true
+  },
+  "Talent.com:645596381797942525": {
+   "id": "Talent.com:645596381797942525",
+   "fonte": "Talent.com",
+   "titolo": "AI Engineer",
+   "azienda": "TXT e-solutions SPA",
+   "luogo": "Torino, IT",
+   "url": "https://it.talent.com/view?id=645596381797942525",
+   "descrizione": "Descrizione dell’offerta di lavoro TXT e-Tech è alla ricerca di una figura di AI Engineer da inserire in un team multidisciplinare dedicato allo sviluppo di soluzioni software innovative per sistemi di addestramento avanzati. La risorsa inserita contribuirà alla progettazione, implementazione e integrazione di modelli basati su Intelligenza Artificiale e Machine Learning, con applicazioni in scenari simulati e ambienti sintetici. Principali responsabilità: Analisi ed elaborazione dati; Progettazione e sviluppo di algoritmi di machine learning e deep learning; Validazione e tuning dei modelli; Integrazione dei moduli software nei sistemi di addestramento; Sviluppo modelli di controllo di entità da integrare in ambienti sintetici; Attività di test, analisi e reportistica risultati ottenuti. Competenze tecniche richieste: Conoscenza dei linguaggi di programmazione Python e delle librerie NumPy, Pandas, Matplotlib, C++; Data preprocessing; Gestione dataset complessi; Capacità di tuning e ottimizzazione di modelli; Conoscenza di architetture moderne: CNN, RNN, Transformer. Costituirà un plus la conoscenza dei protocolli di comunicazione DIS e HLA. Completano il profilo un'ottima conoscenza della lingua inglese, attitudine al lavoro in team, flessibilità e proattività. Il candidato ideale è brillante e dinamico, con spiccata attitudine al problem solving. Perchè scegliere TXT GROUP: Opportunità di carriera in un'azienda in rapida crescita e in profondo cambiamento, con personale internazionale; Formazione su temi legati all'attività svolta; Corporate Benefits (assicurazione sanitaria, welfare, Ticket Restaurant, scontistiche come dipendente del gruppo). Il contratto offerto per questa posizione è a tempo indeterminato e la retribuzione prevista è compresa tra EUR 27.000 € ed EUR 30.000 € lordi annui L'inquadramento verrà definito in fase di selezione sulla base del profilo e in applicazione del CCNL Metalmeccanico Posizione aperta a candidature senza distinzione di genere, ai sensi del D.Lgs. 198/2006. L'azienda promuove le pari opportunità e valorizza la diversità in tutte le sue forme.",
+   "data": "2026-11-11T14:58:18Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "ai engineer|txtesolution|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "Talent.com:635477006800194989": {
+   "id": "Talent.com:635477006800194989",
+   "fonte": "Talent.com",
+   "titolo": "Data & AI Engineer",
+   "azienda": "BIT spa",
+   "luogo": "Torino, IT",
+   "url": "https://it.talent.com/view?id=635477006800194989",
+   "descrizione": "Descrizione dell’offerta di lavoro Siamo alla ricerca di professionisti con almeno 2+ anni di esperienza nel mondo Data e AI, interessati a lavorare su piattaforme dati moderne, soluzioni analitiche e progetti di Machine Learning e Generative AI. La risorsa sarà coinvolta nella progettazione e realizzazione di pipeline di data ingestion e processing, nell'integrazione e trasformazione dei dati e nello sviluppo di soluzioni scalabili in ambiente Cloud. Competenze richieste: - Esperienza nello sviluppo di pipeline ETL/ELT e processi di Data Engineering - Buona conoscenza di SQL e Python - Esperienza con Apache Spark e/o tecnologie di elaborazione distribuita - Conoscenza di Data Warehouse, Data Lake e architetture Lakehouse - Esperienza nella modellazione e gestione del dato - Conoscenza di almeno una piattaforma Cloud: Azure, AWS o GCP Costituiscono titolo preferenziale: - Esperienza con piattaforme come Databricks, Snowflake, Microsoft Fabric - Conoscenza di strumenti di orchestrazione e integrazione dati - Esperienza con strumenti di Business Intelligence e Data Visualization - Competenze in ambito Machine Learning e Data Science - Interesse o esperienza nello sviluppo di soluzioni di AI e Generative AI, con conoscenza di LLM, RAG o Vector Database - Familiarità con Git, CI/CD e pratiche DataOps - Buona conoscenza della lingua inglese Cosa offriamo: - Inserimento in un contesto ad alto profilo tecnologico; - Ambiente di lavoro giovane, dinamico e flessibile; - Academy gratuita per profili junior; - Formazione continua con possibilità di acquisire certificazioni professionali (Oracle, Java SE, Microsoft Azure, AWS, PMP, Project Management Professional, ecc.) e partecipare a workshop tecnici; - Crescita professionale tramite un piano carriera ben strutturato; - Possibilità di lavorare in Smart Working. Dettagli dell'opportunità: Sede di lavoro: Torino/Milano (modalità ibrida o full remote) Contratto: Tempo indeterminato RAL: da €24.000 a € 29.000 esperienza junior da €29.000 a € 35.000 esperienza middle da €35.000 a € 43.000 esperienza advanced A parità di requisiti, sarà data precedenza ai candidati appartenenti alle categorie protette (L. 68/99). Perché candidarsi? Ciò che ci contraddistingue è sicuramente la passione con cui svolgiamo il nostro lavoro, la sinergia che caratterizza le collaborazioni con i nostri clienti e la ricerca di nuove soluzioni per migliorare metodologie di progettazione e pianificazione. La nostra forza è basata sul Capitale Umano; crediamo fortemente nelle competenze e nelle abilità dei nostri dipendenti che vengono seguiti passo dopo passo nel percorso di crescita personale e professionale all’interno dell’azienda. In Bit avrai modo di sentirti parte integrante dell’azienda grazie ad eventi vari di team building organizzati durante l’anno e, grazie anche alla collaborazione e alla disponibilità dei professionisti che ne fanno parte. Dunque, cosa aspetti? Invia il tuo cv. Ti aspettiamo! La ricerca è rivolta a candidati ",
+   "data": "2026-09-02T11:59:49Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "data ai engineer|bit|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": true,
+   "escluso": "settore non adatto"
+  },
+  "Talent.com:640646251352294315": {
+   "id": "Talent.com:640646251352294315",
+   "fonte": "Talent.com",
+   "titolo": "AI Architect",
+   "azienda": "Reply",
+   "luogo": "Torino",
+   "url": "https://it.talent.com/view?id=640646251352294315",
+   "descrizione": "Descrizione dell’offerta di lavoro Do you have solid experience in designing complex systems? Do you want to define the intelligent architectures that will shape the market in the future? Join Reply! WHAT YOU WILL FIND Enterprise AI Design . You will be the go-to person for our clients, designing end-to-end AI ecosystems that integrate legacy systems and new technologies. Tech Leadership . You will lead technology decisions, selecting the providers, frameworks and models best suited to business objectives. Governance and Standards . You will define guidelines for AI development within the organization, ensuring scalability, maintainability and security. Technological Excellence . At Reply, innovation is in our DNA. You will work in an environment that allows you to experiment with the latest technologies in real and complex contexts. Mentoring, collaboration, and continuous growth. You will work alongside experienced industry professionals, exchange knowledge, and contribute to complex projects while continuously expanding your technical and consulting expertise. WHAT WE OFFER We value your talent. Joining Reply means becoming part of a network of specialized companies operating across different industries, united by a shared ecosystem of technological expertise and domain knowledge. This opportunity is designed for professionals with a range of experience levels and seniority. Together, we'll identify the Reply company and role that best match your profile, skills, and career ambitions. An offer tailored to your experience. Your compensation package will be defined based on the role identified, your professional experience, technical expertise, the level of responsibility associated with the position, and the organizational context in which you will join. The collective labour agreement (CCNL) mainly applied within Reply is the Italian Metalworking Industry Agreement. The position is expected to start from the B2 level, with a gross annual salary (RAL) ranging from 33,200€ to 65,000€. Previous experience with cutting-edge technologies such as Agentic AI, Model Context Protocol (MCP), Context Engineering, Retrieval-Augmented Generation (RAG), as well as in the development and optimization of Foundation Models and Large Language Models (LLMs) will be considered a strong asset. A structured career path. Our Career Path offers opportunities to grow both as a technical specialist and as a future leader. Your ambitions, the skills you develop, and the results you achieve will shape your professional journey. Continuous learning. Technology evolves rapidly - and so do we. You will join an environment that encourages curiosity, continuous learning, and the exploration of new ideas and emerging technologies. The benefits of being a Replyer. You will also have access to the benefits and initiatives dedicated to our community. WHAT WE NEED Academic background . You have built your academic background in Computer Science, Computer Engineering, Telecommunica",
+   "data": "2026-10-07T22:59:35Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "ai architect|reply|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "Talent.com:619903029179194466": {
+   "id": "Talent.com:619903029179194466",
+   "fonte": "Talent.com",
+   "titolo": "AI Frontend Engineer",
+   "azienda": "M.C. Engineering Srl",
+   "luogo": "Rivalta di Torino, Italy",
+   "url": "https://it.talent.com/view?id=619903029179194466",
+   "descrizione": "Descrizione dell’offerta di lavoro MC Engineering è una dinamica società di consulenza informatica , con sedi a Torino, Milano, Roma e Bari. Lavoriamo a stretto contatto con realtà innovative nel mondo ICT, portando avanti progetti che spaziano tra vari settori. Per noi, le persone sono al centro di tutto : puntiamo su un continuo aggiornamento, sulla crescita costante e sull’ eccellenza , per affrontare insieme sfide innovative e fare la differenza nel nostro settore. Cosa farai con noi? Come AI Frontend Engineer avrai l’opportunità di lavorare su progetti innovativi orientati allo sviluppo di interfacce intelligenti e soluzioni AI-driven. Sarai coinvolto nella progettazione e realizzazione di frontend moderni integrati con Large Language Model (LLM), AI Agents e servizi di Intelligenza Artificiale Generativa, contribuendo allo sviluppo di applicazioni evolute ad alta interazione utente. Ti occuperai dello sviluppo di componenti frontend avanzati, integrando sistemi AI tramite API e servizi enterprise, collaborando con team multidisciplinari per garantire qualità, performance e user experience delle soluzioni implementate. Opererai in un contesto collaborativo e strutturato, orientato alla qualità e all’innovazione, dove il tuo contributo sarà valorizzato attraverso un percorso di crescita professionale. Competenze richieste Laurea o diploma tecnico Esperienza di almeno 3 anni nello sviluppo frontend o software engineering Ottima conoscenza di JavaScript e TypeScript Ottima conoscenza di framework frontend moderni (React, Angular o Vue.js) Esperienza nello sviluppo di interfacce responsive e user-centric Esperienza nell’integrazione di API REST e servizi backend Buona conoscenza dei Large Language Model (LLM) e delle architetture AI-driven Familiarità con piattaforme AI come OpenAI, Azure OpenAI o soluzioni analoghe Conoscenza di architetture frontend moderne e microfrontend Esperienza con strumenti DevOps e CI/CD Capacità di troubleshooting e ottimizzazione delle performance applicative. Lingua inglese Buona conoscenza della lingua inglese (livello B2) Modalità e/o Sede di Lavoro Modalità Full Remote Completano il profilo Un’elevata attitudine al lavoro in team Doti di precisione e flessibilità mentale Capacità proattiva nella gestione delle problematiche professionali Forte orientamento all’innovazione e all’apprendimento continuo Ottime capacità comunicative verso interlocutori tecnici e business. Cosa offriamo Inserimento in organico con un inquadramento commisurato all’esperienza professionale pregressa e una retribuzione in linea con le reali capacità del candidato. Se sei una persona appassionata di tecnologia, desiderosa di crescere in un ambiente che promuove l’eccellenza nel settore Automotive, questa è l’occasione che fa per te! Unisciti a MC Engineering: dove le idee diventano innovazione! Il presente annuncio è rivolto ad entrambi i sessi, ai sensi delle leggi 903/77 e 125/91, e a persone di tutte le età e tutte le nazionalità, ai s",
+   "data": "2026-05-18T16:27:52Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "ai frontend engineer|mcengineerin|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "programmazione",
+   "nascosto": true
+  },
+  "Talent.com:643799963058973479": {
+   "id": "Talent.com:643799963058973479",
+   "fonte": "Talent.com",
+   "titolo": "Generative AI Software Engineer | AI for Software Development",
+   "azienda": "Open Smart Services Srl",
+   "luogo": "Torino",
+   "url": "https://it.talent.com/view?id=643799963058973479",
+   "descrizione": "Descrizione dell’offerta di lavoro Ti appassiona lo sviluppo software e stai già utilizzando l'AI per scrivere, analizzare o migliorare il codice? Cerchiamo un/una Generative AI Software Engineer che voglia contribuire all'introduzione concreta dell'Intelligenza Artificiale nei processi di sviluppo software di una importante realtà enterprise. Non cerchiamo chi si occupa esclusivamente di Machine Learning o di addestramento di modelli AI, ma una persona con solide basi di sviluppo software, curiosità verso la GenAI e voglia di sperimentare nuove soluzioni per rendere il lavoro dei team tecnici più efficace. CHI SIAMO Open Smart Services, società del gruppo R&A Holding, è specializzata in servizi IT e outsourcing tecnologico. Affianchiamo le aziende nella gestione e nell'evoluzione dei sistemi informativi, valorizzando competenze tecniche e innovazione. COSA FARAI Lavorerai a stretto contatto con i team di sviluppo per portare l'AI nelle attività quotidiane di Software Engineering, passando dalla sperimentazione alla realizzazione di soluzioni concretamente utilizzabili. In particolare: Sperimenterai e integrerai strumenti di Generative AI e AI Coding Assistant nei processi di sviluppo. Svilupperai automazioni, tool e acceleratori AI a supporto dei developer. Utilizzerai strumenti AI per analizzare codice esistente, comprendere applicazioni complesse e generare documentazione tecnica. Contribuirai alla modernizzazione di applicazioni enterprise e sistemi legacy. Individuerai nuovi casi d'uso dell'AI nelle fasi di sviluppo, testing, manutenzione e software delivery. Collaborerai con i team tecnici per condividere soluzioni, sperimentazioni e best practice. Contribuirai a valutare i benefici delle soluzioni introdotte in termini di produttività e qualità del software. COSA CERCHIAMO Esperienza professionale nello sviluppo software, preferibilmente su applicazioni enterprise. Conoscenza del ciclo di vita del software, di Git e delle principali pratiche di sviluppo. Esperienza pratica nell'utilizzo di strumenti Generative AI applicati alla programmazione, come GitHub Copilot, Claude, Cursor o equivalenti. Capacità di sviluppare script, automazioni o strumenti a supporto dei processi tecnici. Interesse concreto per l'evoluzione dell'AI applicata al Software Engineering. Autonomia, problem solving e predisposizione a collaborare con altri sviluppatori. COSTITUISCONO UN PLUS Conoscenza di Python. Esperienza con LLM, AI Agent, API e Function Calling. Utilizzo dell'AI per code analysis, reverse engineering o documentazione automatizzata. Familiarità con pipeline CI/CD e strumenti DevOps. Esperienza su sistemi legacy, anche COBOL/Mainframe. Esperienza in contesti bancari, assicurativi o enterprise. COSA OFFRIAMO Contratto a tempo indeterminato, CCNL Metalmeccanico. RAL 35.000–45.000 €, commisurata all'esperienza. Modalità di lavoro full remote. Opportunità di lavorare su casi d'uso reali di Generative AI applicata allo sviluppo software. Possibilità di cont",
+   "data": "2026-10-29T20:58:20Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "generative ai software engineer ai for software development|opensmartser|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "programmazione",
+   "nascosto": true
+  },
+  "Talent.com:640646277769659174": {
+   "id": "Talent.com:640646277769659174",
+   "fonte": "Talent.com",
+   "titolo": "AI Agent System Engineer",
+   "azienda": "Generali Italia",
+   "luogo": "Torino",
+   "url": "https://it.talent.com/view?id=640646277769659174",
+   "descrizione": "Descrizione dell’offerta di lavoro Siamo alla ricerca di un/una AI Agent System Engineer che guidi la progettazione, lo sviluppo e il deployment di sistemi multi-agenti. Avrai un ruolo chiave nell’utilizzo e messa a terra di soluzioni AI per risolvere sfide complesse e generare un impatto significativo in tutta l'organizzazione. Si tratta un’opportunità per lavorare con delle tecnologie all’avanguardia nel campo dell’AI e contribuire alla creazione di sistemi intelligenti e autonomi per migliorare le pipeline di lavoro IT. Responsabilità: Progettare e definire architetture robuste e scalabili per sistemi multi-agent utilizzando framework come Copilot Studio, Strands o LangGraph Sviluppare, implementare e testare skill e soluzioni per facilitare lo sviluppo e la manutenzione del codice mediante AI coding assistant come Claude Code e Github Copilot Sviluppare, implementare e testare agenti AI e le loro interazioni tramite Python Integrare ed effettuare il deployment di sistemi multi-agent su piattaforme cloud (AWS), garantendo scalabilità, affidabilità e sicurezza Utilizzo di framework e principi fondamentali di AI per addestrare agenti Utilizzo di tecnologie di knowledge graph, in particolare Cheshire Cat, per potenziare il ragionamento degli agenti e il reperimento delle informazioni Eseguire il deployment e gestire applicazioni containerizzate utilizzando Kubernetes Collaborare a stretto contatto con team cross-funzionali, inclusi data scientist, machine learning engineer e product manager per definire requisiti e realizzare soluzioni Contribuire alla ricerca e alla valutazione di nuove tecnologie e metodologie per agenti AI Documentare architetture, processi di sviluppo e procedure SDLC Analizzare e risolvere problemi relativi ai sistemi multi-agent negli ambienti di sviluppo e produzione Mantenersi aggiornati sugli ultimi progressi nel campo degli agenti AI, nei sistemi multi-agent e nelle tecnologie cloud Laurea triennale o magistrale in Computer Science, Artificial Intelligence, Engineering o ambito correlato Esperienza comprovata nella progettazione e nello sviluppo di applicazioni e sistemi AI Ottima padronanza della programmazione in Python Conoscenza di Javascript, Typescript o Java Esperienza pratica con framework di programmazione multi-agent come Crew AI o Microsoft Copilot Studio (o simili) Solida comprensione dei concetti e dei framework fondamentali di AI/ML (ad es. Langchain, Transformers) Esperienza pratica con piattaforme cloud (AWS, GCP o Azure), incluso il deployment e la gestione delle applicazioni Familiarità con tecnologie di knowledge graph es. Cheshire Cat Esperienza con tecnologie di containerizzazione e orchestrazione tramite Kubernetes Eccellenti capacità di problem solving, analisi e comunicazione Capacità di lavorare in autonomia e in team all’interno di un ambiente dinamico Forte passione per l'AI e per lo sviluppo software Qualifiche preferenziali: Conoscenza di diversi protocolli di comunicazione e architetture pe",
+   "data": "2026-10-07T23:00:34Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "ai agent system engineer|generali|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "Talent.com:644723801088921579": {
+   "id": "Talent.com:644723801088921579",
+   "fonte": "Talent.com",
+   "titolo": "AI Engineer",
+   "azienda": "Randstad Italy",
+   "luogo": "Torino, Piemonte, Italia",
+   "url": "https://it.talent.com/view?id=644723801088921579",
+   "descrizione": "Descrizione dell’offerta di lavoro Randstad Digital, divisione specializzata nei servizi di consulenza ICT e soluzioni tecnologiche avanzate, seleziona per conto di una realtà d’eccellenza nel settore dell'innovazione tecnologica un AI Developer – Gen AI & Agentic Systems. In questo ruolo non ti limiterai all'integrazione di API esistenti, ma sarai l'architetto di soluzioni intelligenti, progettando e distribuendo in produzione applicazioni scalabili basate su Generative AI, con un focus verticale su Agenti AI autonomi e architetture RAG complesse. Cosa Offriamo: Inserimento diretto a tempo Indeterminato, CCNL Metalmeccanico RAL: fino a 50.000 €. Premio di risultato/Bonus: fino a 7.000 € annui legati al raggiungimento degli obiettivi. Benefit: Buoni pasto da 8,00 € al giorno. Retribuzione annua: 40000€ - 50000€ esperienza da 3 a 5 anni Requisiti Richiesti Titolo di Studio e Percorso Accademico Laurea ad indirizzo STEM (Informatica, Ingegneria Informatica, Data Science, Matematica, Fisica o discipline affini). Votazione minima di laurea: ≥ 102/110 per il percorso Triennale, oppure ≥ 98/110 per il percorso Magistrale/Specialistica. Competenze Tecniche Padronanza di Python: ottima conoscenza del linguaggio e dei principali framework di sviluppo backend/API (FastAPI, Flask) e manipolazione dati (NumPy, Pandas). Esperienza GenAI: comprovata esperienza nella progettazione e nel deployment in produzione di applicazioni che integrano Large Language Models. Agentic Frameworks: familiarità operativa con librerie e strumenti per l'orchestrazione di agenti e flussi complessi (es. LangChain, LangGraph, CrewAI, Semantic Kernel o analoghi). Esperienza su sistemi RAG. Software Engineering: solida padronanza di Git, metodologie CI/CD e principi di clean code. Il presente annuncio è rivolto a persone di genere femminile (F), maschile (M) e non binario (NB) ai sensi della Legge n. 300/1970, del Decreto Legislativo n. 198/2006 e del Decreto Legislativo n. 96/2026 ed è aperta a qualsiasi persona nel rispetto della diversity e dell'inclusività. Ti preghiamo di leggere l'informativa sulla privacy Randstad (https://www.randstad.it/privacy/) ai sensi dell'art. 13 del Regolamento (UE) 2016/679 sulla protezione dei dati (GDPR). Responsabilità Principali Integrazione LLM: sviluppare soluzioni integrate con i principali foundation model commerciali e open-source di mercato. Orchestrazione di Agenti: progettare sistemi multi-agente, tool invocation e workflow decisionali complessi attraverso framework dedicati. Data Pipelines & RAG: costruire e ottimizzare pipeline di recupero dati avanzate, sfruttando database vettoriali per incrementare pertinenza e qualità delle risposte dei modelli. Ottimizzazione & Monitoring: monitorare costantemente le metriche operative (latenza, throughput, costi computazionali, precision/recall), implementando strategie avanzate di prompt engineering, evaluation framework ed eventuale fine-tuning.",
+   "data": "2026-11-05T17:35:55Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "ai engineer|randstadital|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "Talent.com:641488859522466731": {
+   "id": "Talent.com:641488859522466731",
+   "fonte": "Talent.com",
+   "titolo": "AI Engineer",
+   "azienda": "TeamSystem",
+   "luogo": "Torino",
+   "url": "https://it.talent.com/view?id=641488859522466731",
+   "descrizione": "Descrizione dell’offerta di lavoro We are the leading Tech Company in Europe , supporting digital innovation for over 45 years. We are committed to bringing digital technology into every business . How? By putting customers first and becoming the go-to partner for professionals, small, medium and large companies, offering customised solutions and services to optimise business processes. from HR and customer relations to e-invoicing and digital payments. In Data, AI & Analytics Dept., we are dedicated to the evolution and optimization of the entire data-related value chain. We ensure structured and strategic management of the IT assets, defining the most advanced architectures and analysis methodologies to oversee the main drivers of efficiency and innovation. We are committed to strengthening a function that is increasingly focused on generating value, embedded in core business processes and capable of generating a concrete impact on the Group's strategy and growth. Join a team where young talents and professionals work side by side on innovative projects in the field of AI Engineering, with the aim of building intelligent, scalable solutions that create real impact through technology. In particular, you will: Develop, maintain, and evolve AI-powered platforms and scalable software architectures, enabling advanced capabilities across Data, AI, and Analytics domains. Design and integrate data pipelines for structured and unstructured data, connect with relational and vector databases, and implement AI solutions leveraging LLMs, prompting techniques, and model customization. Manage AI solutions throughout their lifecycle, from design and development to production deployment, monitoring, maintenance, and continuous improvement, ensuring reliability, security, compliance, and high-quality documentation. What skills are we looking for? At least 4 years of experience in AI Engineering, Machine Learning, or related software engineering roles. Strong proficiency in Python and experience working with modern AI frameworks, Large Language Models (LLMs), and Generative AI solutions. Experience designing and developing scalable software applications, APIs, and microservices within cloud environments (AWS, Azure, or GCP). Knowledge of data architectures, including relational and vector databases, data pipelines, and the management of structured and unstructured data. Familiarity with containerization technologies and modern software development practices (Docker, Kubernetes, Git, and CI/CD). Ability to design, develop, deploy, and operate AI-powered solutions with a focus on scalability, reliability, and security. Advanced proficiency in English (C1 level). Do you recognize yourself in the skills we’re looking for? That’s a great start. We’re looking for people who reflect our values through their growth mindset and their ability to turn challenges into opportunities. ENTREPRENEURSHIP - is the engine that drives us to excel, innovate and challenge ourselves fo",
+   "data": "2026-10-14T15:24:00Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "ai engineer|teamsystem|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "Talent.com:629334911750118603": {
+   "id": "Talent.com:629334911750118603",
+   "fonte": "Talent.com",
+   "titolo": "AI Security Architect Senior",
+   "azienda": "Intesa Sanpaolo",
+   "luogo": "Torino",
+   "url": "https://it.talent.com/view?id=629334911750118603",
+   "descrizione": "Descrizione dell’offerta di lavoro Overview Entrerai in un team altamente specializzato che si occupa della definizione e del disegno dei presidi e dei processi di sicurezza da applicare su tutte le iniziative che prevedono l'utilizzo di AI all'interno del gruppo. Definirai gli standard architetturali e requisiti di sicurezza, assicurando che i modelli di Machine Learning e le applicazioni basate su LLM siano resilienti contro attacchi avversari, fughe di dati e violazioni della privacy, in stretta conformità con l'EU AI Act e con tutta la normativa di riferimento. Quali saranno le tue attività Definire e implementare l'architettura di sicurezza di riferimento per l'intero ciclo di vita dell'AI (Secure MLOps) Condurre l'attività di Threat Modeling specifiche per l'Intelligenza Artificiale (es. utilizzando il framework MITRE ATLAS) per identificare e mitigare rischi come data poisoning, model evasion e prompt injection Progettare controlli di sicurezza (guardrails) per le applicazioni di Generative AI, prevenendo la divulgazione involontaria di dati sensibili (DLP) e garantendo l'isolamento dei tenant Valutare le soluzioni AI fornite da terze parti definendo i presidi di sicurezza per l'integrazione nel perimetro bancario Chi stiamo cercando Se hai le seguenti caratteristiche, ti stiamo aspettando: Almeno 5 anni di esperienza nel ruolo di Cybersecurity Architect Conoscenza approfondita delle vulnerabilità dei modelli LLM, OWASP Top 10 for LLMs e tecniche di Adversarial Machine Learning Esperienza nella sicurezza di piattaforme AI cloud quali Azure OpenAI, AWS Bedrock e Vertex AI Familiarità con normative e standard quali EU AI Act e NIST AI RMF Conoscenza di scenari di attacco, vulnerabilità e minacce che possono compromettere sistemi bancari e applicazioni Ottima conoscenza della lingua inglese Costituiscono titolo preferenziale certificazioni: CISSP, CSSLP, Security+, CISM, CSX, OSCP, OSCE, OPST, OPSA, ISO 27001, ISO 22301 e certificazioni Cloud Security. Cosa ti offriamo Retribuzione annua lorda a partire da 50.000 € Il Gruppo prevede una componente variabile della remunerazione così come disciplinata dalle Politiche di Remunerazione consultabili sul sito di Gruppo Elementi complementari disciplinati dal Contratto Collettivo Nazionale del Credito e accordi aziendali di secondo livello Iniziative di sviluppo professionale a supporto della crescita delle nostre persone Ampia offerta formativa tramite la Corporate Academy dedicata allo sviluppo continuo delle competenze professionali, manageriali e trasversali a tutti i livelli Possibilità di aderire al lavoro flessibile e alla settimana corta 4x9 Sistema moderno e integrato di welfare aziendale ([link](#)) Copertura sanitaria e previdenza complementare a decorrere dall’assunzione Vantaggi sui prodotti e servizi bancari del Gruppo Chi siamo Siamo leader in Italia e uno dei principali gruppi bancari in Europa. Unisciti a noi e fai parte della nostra storia di successo! Con oltre 20 milioni di clien",
+   "data": "2026-11-02T17:40:13Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "ai security architect senior|intesasanpao|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "Talent.com:534434521314363366": {
+   "id": "Talent.com:534434521314363366",
+   "fonte": "Talent.com",
+   "titolo": "Personal Trainer a Torino",
+   "azienda": "Cronoshare.it",
+   "luogo": "Torino, Torino, it",
+   "url": "https://it.talent.com/view?id=534434521314363366",
+   "descrizione": "Descrizione dell’offerta di lavoro Cronoshare è una piattaforma online per professionisti che conseguire nuovi clienti. Cerchiamo a Personal Trainer a Torino e dintorni. Entrare a far parte delle rete di professiuonisti di Cronoshare è gratuito e riceverai nuovi clienti in base alle tua competenze, in maniera personalizzata. Requisiti: Conoscenze pregresse per sviluppare funzioni di Personal Trainer . Organizzazione, buona relazione con il cliente e gestione del tempo. Professionalità e proattività. Che offriamo: Richieste di lavori dfa parte di potenziali clienti della tua zona che hanno bisogno diPersonal Trainer . Libera gestione dei propri clienti e dei profitti. Senza intermediari: Fissi tu il prezzo o la tua tariffa oraria Come funziona Cronoshare? Grazie alla nostra piattaforma di gestione clienti potrai accettare o rifiutare richieste di lavoro nella tua zona, inviando preventivi solo ai clienti che più ti interessano. Non pagherai abbonamenti o canoni mensili e non dovrai nemmeno pagare commissioni per ogni cliente che ottieni grazie a noi. Per ottenere nuovi clienti, devi solo sostenere un piccolo investimento e potrai accedere a queste richieste. Inizia a far crescere la tua attività. Se sei un libero professionista, un lavoratore autonomo, una PMI o una piccola impresa, ti aspettiamo.",
+   "data": "2025-05-22T01:55:23Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "personal trainer torino|cronoshareit|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "fuori dal tuo campo",
+   "nascosto": true
+  },
+  "Talent.com:629360576299933172": {
+   "id": "Talent.com:629360576299933172",
+   "fonte": "Talent.com",
+   "titolo": "Personal Trainer Online – Orari Flessibili",
+   "azienda": "LeTueLezioni",
+   "luogo": "Turin, Piedmont, Italy",
+   "url": "https://it.talent.com/view?id=629360576299933172",
+   "descrizione": "Descrizione dell’offerta di lavoro Cerchiamo Personal Trainer online per lezioni individuali su Letuelezioni. Non serve esperienza pregressa: contano motivazione, affidabilità e passione. Flessibilità totale e lavoro da remoto. Cosa farai Valutazione iniziale (obiettivi, livello, eventuali limitazioni). Programmazione di allenamenti personalizzati (forza, HIIT, tonificazione, dimagrimento, posturale). Conduzione di lezioni 1:1 in videochiamata e monitoraggio dei progressi. Feedback puntuali e adattamento del piano in base ai risultati. Requisiti Non è richiesta esperienza precedente come Personal Trainer. Ottime doti comunicative e motivazionali. Affidabilità/puntualità; PC o smartphone con webcam/microfono e buona connessione. (Plus facoltativo) Certificazioni o esperienza sportiva. Offerta Flessibilità oraria totale e lavoro da remoto . Community di studenti su Letuelezioni e possibilità di crescere rapidamente. Compenso: 15–30 €/ora in base a profilo e tipologia di lezioni/pacchetti. Come candidarti su Letuelezioni Iscriviti a questa offerta creando il tuo primo annuncio e comincia a trovare allevi interessati alle tue lezioni. Aggiorna il profilo con foto, bio chiara, aree di competenza (forza, HIIT, posturale, dimagrimento), disponibilità e tariffa",
+   "data": "2026-07-22T13:26:47Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "personal trainer online orari flessibili|letuelezioni|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": true,
+   "escluso": "fuori dal tuo campo"
+  },
+  "Talent.com:642676891033472241": {
+   "id": "Talent.com:642676891033472241",
+   "fonte": "Talent.com",
+   "titolo": "AI Developer",
+   "azienda": "MSC Technology",
+   "luogo": "Torino",
+   "url": "https://it.talent.com/view?id=642676891033472241",
+   "descrizione": "Descrizione dell’offerta di lavoro AI Developer The Artificial Intelligence Engineer is responsible for designing, developing, and implementing innovative AI solutions that support the organization's digital transformation initiatives. Working as part of a global and multicultural team, the role focuses on delivering scalable Generative AI applications, integrating AI capabilities with enterprise systems, and contributing to the continuous evolution of AI engineering practices across the organization. Key Responsibilities Design, develop, and implement medium to complex Generative AI solutions aligned with business and technology requirements. Build and maintain technical components, ensuring high standards of quality, scalability, and maintainability. Contribute to all phases of the software development lifecycle, including planning, analysis, design, implementation, testing, deployment, and continuous improvement. Develop Retrieval-Augmented Generation (RAG) solutions for large-scale document collections. Design and implement AI solutions integrating Large Language Models (LLMs) with enterprise databases and business applications. Develop API integrations and tooling to enable automated execution of AI-driven actions and workflows. Collaborate daily with global cross-functional teams to ensure timely delivery and adherence to quality standards. Participate in the definition of software components and their integration within the enterprise architecture. Produce and maintain technical documentation for AI applications and solutions. Contribute to Communities of Practice by providing technical input, reviewing implementations, sharing best practices, and supporting continuous improvement initiatives. Support knowledge sharing and training activities through the preparation of technical materials and documentation.",
+   "data": "2026-10-22T00:09:12Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "ai developer|msctechnolog|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "programmazione",
+   "nascosto": true
+  },
+  "Talent.com:629334955605826539": {
+   "id": "Talent.com:629334955605826539",
+   "fonte": "Talent.com",
+   "titolo": "AI Engineer",
+   "azienda": "Capgemini",
+   "luogo": "Turin",
+   "url": "https://it.talent.com/view?id=629334955605826539",
+   "descrizione": "Descrizione dell’offerta di lavoro Scegliere Capgemini significa scegliere un’azienda in cui sarà possibile plasmare la propria carriera nel modo desiderato, dove si sarà supportati e ispirati da una comunità collaborativa di colleghi in tutto il mondo e dove si potrà reinventare ciò che è possibile. Unisciti a noi e contribuisci ad aiutare le principali organizzazioni globali a sbloccare il valore della tecnologia e a costruire un mondo più sostenibile e più inclusivo. IL TUO RUOLO Come AI Engineer presso Capgemini ti occuperai di progettare e sviluppare soluzioni AI cloud-native basate sull’ecosistema Microsoft, con particolare focus sull’integrazione di Large Language Model (LLM) e architetture RAG (Retrieval-Augmented Generation) , contribuendo alla realizzazione di soluzioni innovative e scalabili in ambiente cloud. In questo ruolo sarai un elemento chiave nelle seguenti attività: Progettare e sviluppare soluzioni AI cloud-native basate sull’ecosistema Microsoft Azure Sviluppare e integrare soluzioni basate su LLM e architetture RAG Progettare e sviluppare servizi backend serverless tramite Azure Function App e Python Creare e integrare agenti AI attraverso Microsoft Copilot Studio Collaborare alla progettazione e all’evoluzione di architetture e servizi AI in ambiente cloud LE TUE CARATTERISTICHE Esperienza di almeno 3 anni nel ruolo di riferimento e nello sviluppo di soluzioni in ambito AI Esperienza nello sviluppo e nell’integrazione di soluzioni basate su LLM e architetture RAG Conoscenza dell’ecosistema Microsoft Azure e delle architetture Azure Serverless, con particolare riferimento ad Azure Function App Buona conoscenza di Python per lo sviluppo di servizi e soluzioni AI cloud-native Esperienza nell’utilizzo di Microsoft Copilot Studio per la creazione e l’integrazione di agenti AI e conoscenza delle tecnologie e architetture cloud Note: Sono richiesti diploma e/o Laurea in discipline tecnico scientifiche e propensione alla mobilità. PERCHE' TI PIACERA' LAVORARE CON NOI Riconosciamo l’importanza di soluzioni di lavoro flessibili per offrirti supporto. Che si tratti di lavoro da remoto, orari flessibili o entrambi, troverai un ambiente che favorisce l’equilibrio tra vita privata e vita lavorativa; Al centro della nostra missione c'è la tua carriera, attraverso percorsi di crescita professionale pensati per supportarti nell'esplorare un mondo di opportunità; Ci impegniamo a promuovere la responsabilità sociale creando un ambiente di lavoro inclusivo, dove talenti diversi sono valorizzati. La diversità è un pilastro della nostra cultura aziendale, arricchendo il nostro lavoro attraverso esperienze, culture, etnie, stili di comunicazione e comportamenti; In Capgemini, avrai l’opportunità di lavorare su progetti tecnologici di grande impatto, sperimentare nuovi strumenti, linguaggi e ambienti, e accedere a percorsi di certificazione dedicati che ti permetteranno di crescere rapidamente come professionista—dalla specializzazione tecnica fi",
+   "data": "2026-11-12T16:04:25Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "ai engineer|capgemini|Torino",
+   "trovato_il": "2026-11-14T18:04:52",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
+  },
+  "Talent.com:587319401381831731": {
+   "id": "Talent.com:587319401381831731",
+   "fonte": "Talent.com",
+   "titolo": "OPERAIO/OPERAIA DI PRODUZIONE - FONDERIA",
+   "azienda": "Generazione Vincente S.p.A.",
+   "luogo": "Orbassano, Italy",
+   "url": "https://it.talent.com/view?id=587319401381831731",
+   "descrizione": "Descrizione dell’offerta di lavoro Generazione Vincente filiale di Torino ricerca, per importante azienda del settore metalmeccanico specializzata nella lavorazione dell'alluminio, che offre soluzioni innovative e di alta qualità, 1 operaio/a di produzione da inserire nel reparto fonderia, in possesso di attestato per la conduzione del carrello elevatore. L'operaio/a di Fonderia, addetto/a alla colatura di alluminio si occuperà di: Gestire e operare su macchinari per la colatura dell'alluminio, assicurando un processo di produzione efficiente e sicuro. Monitorare e controllare il ciclo produttivo, verificando costantemente la qualità del prodotto. Movimentazione materiale con ausilio di carrello elevatore o carroponte. Effettuare attività di manutenzione ordinaria e pulizia dei forni e delle attrezzature. Collaborare con il team per ottimizzare i tempi di produzione e minimizzare i difetti. Rispettare le normative di sicurezza sul lavoro e i regolamenti aziendali. Esperienza di almeno un anno in ambito produttivo, preferibilmente all'interno di fonderie. Conoscenza delle tecniche e lavorazione dell'alluminio. Esperienza nell'utilizzo di carroponte e/o carrello elevatore e possesso dei relativi attestati in corso di validità. Capacità di lavorare in modo autonomo e in team, con attenzione ai dettagli e alla qualità. Disponibilità a lavorare a ciclo continuo su tre turni (6-14/ 14-22/ 22-6) dal lunedì alla domenica con riposi infrasettimanali. Si offre contratto in somministrazione della durata di 15 giorni prorogabile e finalizzata all'assunzione a tempo indeterminato. CCNL: Metalmeccanica Industria, livello D2, RAL 24K Luogo di lavoro: Volpiano (TO) Orario di lavoro: 40 ore settimanali, su tre turni (6-14/ 14-22/ 22-6) dal lunedì alla domenica con riposi infrasettimanali Il presente annuncio è rivolto a candidati ambosessi (L.903/77 - D. Lgs. n.198/2006) I candidati ambosessi L. 903/77 – D.Lgs. n. 198/2006, sono invitati a leggere informativa privacy ex art.13 REG. UE 2016/679",
+   "data": "2026-11-02T15:19:27Z",
+   "comune": "Orbassano",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "operaio operaia di produzione fonderia|generazionev|Orbassano",
+   "trovato_il": "2026-11-14T18:05:32",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "",
    "nascosto": true
   }
  },
@@ -12281,17 +13011,30 @@
   "addetto vendite gamelife cc shopville le gru|gamelife|Torino",
   "addetto vendite gamelife|gamelife|Torino",
   "addetto vendite gaming collezionismo weekend|gamelife|Beinasco",
+  "addetto vendite in eventi punti commerciali prima esperienza formazione inclusa|blackstarmar|Torino",
   "addetto vendite piante||Beinasco",
   "additive manufacturing technical sales curricular internship|bosch|Torino",
   "aer redattore redattrice pubblicazioni tecniche manuali operativi velivoli trainers velivoli fighters|leonardo|Torino",
   "aer redattore redattrice pubblicazioni tecniche manuali operativi velivoli trainers velivoli|leonardo|Torino",
   "agente di commercio professionista 30 000 40 000 all anno senza esperienza|pmiitaliana|Torino",
   "aggiustatore meccanico|gi|Beinasco",
+  "ai agent system engineer|generali|Torino",
+  "ai architect|reply|Torino",
   "ai augmented developer stage extra curriculare|intesasanpao|Torino",
   "ai automation engineer|conceptquali|Torino",
+  "ai developer|mscmediterra|Torino",
+  "ai developer|msctechnolog|Torino",
+  "ai engineer|capgemini|Torino",
   "ai engineer|italgas|Torino",
+  "ai engineer|randstadital|Torino",
   "ai engineer|randstad|Torino",
+  "ai engineer|teamsystem|Torino",
+  "ai engineer|txtesolution|Torino",
+  "ai engineer|txt|Torino",
+  "ai frontend engineer|mcengineerin|Torino",
   "ai prompt engineer stage extra curriculare|intesasanpao|Torino",
+  "ai security architect senior|intesasanpao|Torino",
+  "ai software engineer|jethr|Torino",
   "ai video creator generative comfyui|davidkennedy|Torino",
   "aircraft systems engineers|txtesolution|Torino",
   "aircraft systems engineers|txt|Torino",
@@ -12363,6 +13106,9 @@
   "chef de rang cannavacciuolo bistrot torino|cannavacciuo|Torino",
   "chimico in stage|synergie|Torino",
   "clinical research coordinator|actalent|Torino",
+  "cloud data ai engineer|nttdataeurop|Torino",
+  "commerciale percorso di sviluppo verso ruoli di responsabilita eismann|eismann|Torino",
+  "commerciale percorso di sviluppo verso ruoli di responsabilita eismann|finefoodspha|Torino",
   "commerciale venditore venditrice torino|cpmitaly|Torino",
   "commesso commessa in stage settimo torinese|claytonessem|Beinasco",
   "commesso pet store|gph|Torino",
@@ -12413,6 +13159,7 @@
   "cybersecurity network security specialist senior associate torino ots|pwc|Torino",
   "cys edgewing data architect|leonardo|Torino",
   "data ai engineer|accenture|Torino",
+  "data ai engineer|bit|Torino",
   "data analyst legge 68 99|adecco|Torino",
   "data analyst ufficio marketing|randstad|Torino",
   "data analyst|randstad|Torino",
@@ -12428,6 +13175,8 @@
   "data entry|gigroup|Torino",
   "data entry|gi|Torino",
   "data it specialist hybrid remote growth focus|winclusion|Torino",
+  "data scientist computer vision automotive|amarisconsul|Torino",
+  "data scientist databricks|mcengineerin|Torino",
   "data scientist hybrid|prima|Torino",
   "data strategy data governance expert|capgemini|Torino",
   "data support specialist|targatelemat|Torino",
@@ -12479,6 +13228,7 @@
   "experienced sap finance|deloitte|Torino",
   "experienced sap supply chain|deloitte|Torino",
   "field account manager|sartorius|Torino",
+  "field retail trainer elevate customer experience italy|swatch|Torino",
   "first principles modeling of kagome materials|italianminis|Torino",
   "first product designer for ai powered b2b saas|pointout|Torino",
   "food runner|majorfoodbra|Piossasco",
@@ -12492,6 +13242,7 @@
   "full stack developer front end oriented|bit|Torino",
   "full stack developer|zucchetti|Torino",
   "gallo italic inscriptions survey edition analysis|italianminis|Torino",
+  "generative ai software engineer ai for software development|opensmartser|Torino",
   "geoint it field technician tier 2 3 on site vicenza|accentureplc|Torino",
   "global customer service intern|lavazza|Torino",
   "global customs invoicing intern|giorgioarman|Torino",
@@ -12571,6 +13322,7 @@
   "junior embedded software testing engineer automotive|star7|Torino",
   "junior environmental specialist controllo ambien cpi di torino|agenziapiemo|Torino",
   "junior fullstack developer c|wora|Torino",
+  "junior hr specialist formazione apprendisti categorie protette l 68 99|alten|Torino",
   "junior ict support grow in it help desk endpoints|facile|Torino",
   "junior ict support|facile|Torino",
   "junior ingegnere gestionale assistente pianificazione produzione|talentonboar|Torino",
@@ -12606,6 +13358,8 @@
   "lavapiatti|clubmed|Torino",
   "lavapiatti|relizont|Torino",
   "legal trainee diritto commerciale societario torino|pirolapennut|Torino",
+  "lifevest clinical trainer customer advocate|zollcardiacm|Torino",
+  "llm fine tuning engineer|bloxspace|Torino",
   "loacker assume addetti confezionamento wafer anche senza esperienza|loacker|Torino",
   "luxury ai content editor asset production lead|prada|Torino",
   "m365 it operations lead hands on team lead milan|coreview|Torino",
@@ -12620,11 +13374,13 @@
   "maritime business analyst internship|accenture|Torino",
   "marketing automation specialist copywriter|aliaservizia|Torino",
   "marketing social media tirocinio curriculare|orbyta|Torino",
+  "marketing tirocinio curriculare internship|orbyta|Orbassano",
   "marketing tirocinio curriculare internship|orbyta|Torino",
   "montatore meccanico|michaelpage|Torino",
   "montatore trasfertista|areajob|Torino",
   "multilingual customer support lisbon|fhcollective|Torino",
   "muratore intonacatore coibentazione industriale|randstadunit|Torino",
+  "music critic ai trainer|mercor|Torino",
   "neolaureati in ingegneria tesi progetti in c|teoresi|Torino",
   "neolaureato in informatica ingegneria informatica|gi|Torino",
   "neolaureato ingegneria meccanica railway|teoresi|Torino",
@@ -12647,6 +13403,7 @@
   "operaio generico art 1 l 68 99|randstad|Torino",
   "operaio generico|randstad|Torino",
   "operaio manovale in stage|randstad|Beinasco",
+  "operaio operaia di produzione fonderia|generazionev|Orbassano",
   "operaio sellatore jn 102026 790492|adecco|Torino",
   "operaio turnista da lun ven|casappa|Orbassano",
   "operatore di produzione junior|joinrs|Torino",
@@ -12659,6 +13416,10 @@
   "packaging coordinator italy skf vertevo|skfvertevo|Torino",
   "parts operations internship supply chain engineering|iveco|Torino",
   "perito informatico settimo torinese to|manhandwork|Torino",
+  "personal trainer elite da one to one store manager|storefit|Torino",
+  "personal trainer one to one premium percorso manager|storefit|Torino",
+  "personal trainer online orari flessibili|letuelezioni|Torino",
+  "personal trainer torino|cronoshareit|Torino",
   "personale stagione invernale|synergie|Torino",
   "pianificatore produzione junior|adhrtorino|Torino",
   "plc programmer|agap2|Torino",
@@ -12666,6 +13427,8 @@
   "poland marketing intern|lavazza|Torino",
   "portiere notturno|bestwesterns|Torino",
   "praticante commercialista|mawmenwork|Torino",
+  "premium 1 1 personal trainer path to store manager|storefit|Torino",
+  "premium one to one personal trainer path to store manager|storefit|Torino",
   "presentatore domiciliare soluzioni casa auto propria|blueconsulti|Torino",
   "prima esperienza torino eventi flessibilita oraria|nextmarketin|Torino",
   "process engineer tirocinio tesi jn 112026 797355|adecco|Torino",
@@ -12698,12 +13461,14 @@
   "remote seo geo content writer growth impact|algofy|Torino",
   "research activities and support for the technical scientific and organisational management of the agropesca project|italianminis|Torino",
   "research activity on rare endocrine conditions and neuroendocrine tumors|italianminis|Torino",
+  "research positions in ai for advanced materials engineering design postdoctoral phd research fellowships internships|theitalianin|Torino",
   "responsabile di progetto it pmo|grupposicis|Torino",
   "responsabile di sala|almondotratt|Torino",
   "responsabile gestione elettronica dei documenti cpi di torino|agenziapiemo|Torino",
   "responsabile inserimento dati|wayhr|Torino",
   "retail consumer products industry junior specialist|reply|Torino",
   "revisore junior financial services torino adt|pwc|Torino",
+  "rspp hse consultant trainer torino smart working|tharsos|Torino",
   "sales academy graduate programme|jethr|Torino",
   "sales account enterprise piemonte|tuotempo|Torino",
   "sales account specialist|servicekey|Torino",
@@ -12711,6 +13476,7 @@
   "sales ambassador torino|cosineitaly|Torino",
   "sales ambassador vendite pagamenti door to door|cpmitaly|Torino",
   "sales assistant torino garibaldi|originalmari|Torino",
+  "sales commerciale|jobtechitaly|Torino",
   "sales credit consultant|prestito24|Torino",
   "sales intern tirocinio|camplus|Torino",
   "sarti di produzione capospalla|gruppofloren|Torino",
@@ -12725,6 +13491,7 @@
   "senior net developer|randstadnv|Torino",
   "senior proposal specialist|wehunt|Torino",
   "senior sap pp mes specialist production it link|k2partnering|Torino",
+  "senior technical trainer machine learning|jobgether|Torino",
   "service desk it l1 multilingua italiano francese terza lingua|etjcaaosta|Torino",
   "service desk specialist it specialist|esprimo|Torino",
   "service specialist torino to dream|rstore|Torino",
@@ -12784,11 +13551,14 @@
   "sviluppatore java spring boot|opensmartser|Torino",
   "sviluppatore junior php|f1consulting|Torino",
   "sviluppatore software junior python django|randstad|Torino",
+  "swatch flik flak retail trainer|swatch|Torino",
   "system administrator|teoresi|Torino",
   "technical buyer|maticafintec|Torino",
   "technical help desk in service support engineer|experis|Torino",
   "technical help desk|zucchetti|Torino",
+  "technical trainer torino|gruppofos|Torino",
   "technical trainer torino|inrebustechn|Torino",
+  "technical training specialist|iveco|Torino",
   "technical training vehicle documentation designer|msxinternati|Torino",
   "technical writer junior categoria protetta l 68 99 sede torino italia professione funzione redattore manualistica tecnica|star7|Torino",
   "technical writer junior diplomato perito elettrico elettronico sede torino italia professione funzione redattore manualistica tecnica|star7|Torino",
@@ -12854,5 +13624,5 @@
   "watch content creator social video editing|iwsitalianwa|Torino"
  ],
  "primo_avvio_fatto": true,
- "ultimo_controllo": "2026-11-14T18:00:06"
+ "ultimo_controllo": "2026-11-14T18:06:49"
 }
