@@ -293,6 +293,10 @@ class Filtri:
         self.serale = self._rx(sp.get("orari_serali_notturni"))
         self.serali_ok = set(sp.get("serali_ok_solo_a", []))
         self.dubbi = self._rx(cfg.get("escludi_se_testo_contiene"))
+        self.settori = self._rx(cfg.get("settori_non_adatti"))
+        self.eccezioni = self._rx(cfg.get("eccezioni_settori"))
+        self.requisiti = self._rx(cfg.get("requisiti_mancanti"))
+        self.con_settori = {n for n, d in cfg["lavori"].items() if d.get("escludi_settori_non_adatti")}
 
     def comune(self, a):
         luogo = normalizza(a["luogo"])
@@ -323,6 +327,12 @@ class Filtri:
         testo = normalizza(a["titolo"] + " " + a["descrizione"])
         if self.dubbi and self.dubbi.search(testo):
             return "offerta dubbia"
+        titolo = normalizza(a["titolo"])
+        if (self.settori and a.get("lavoro") in self.con_settori and self.settori.search(titolo)
+                and not (self.eccezioni and self.eccezioni.search(titolo))):
+            return "settore non adatto"
+        if self.requisiti and self.requisiti.search(testo):
+            return "requisiti mancanti"
         if self.auto and self.auto.search(testo):
             return "richiede auto"
         if self.serale and a.get("comune") not in self.serali_ok and self.serale.search(testo):
