@@ -57,13 +57,14 @@
       "escludi_settori_non_adatti": true
     },
     "Informatica (senza esperienza)": {
+      "_nota": "Niente programmazione: helpdesk, supporto, data entry e lavori in cui si usa l'IA.",
       "ricerche": [
         "helpdesk",
         "tecnico informatico",
         "data entry",
-        "sviluppatore junior"
+        "AI trainer"
       ],
-      "regex": "help ?desk|service desk|tecnic[oaie]+ informatic|supporto (it|informatico|tecnico)|assistenza (it|informatica|tecnica)|it support|data entry|inserimento dati|sviluppat|programmat|developer|sistemist|web designer",
+      "regex": "help ?desk|service desk|tecnic[oaie]+ informatic|supporto (it|ict|informatico|tecnico)|assistenza (it|informatica|tecnica)|\\b(it|ict) support|data entry|inserimento dati|ai trainer|addestrament[oi] (ia|ai)|intelligenza artificiale|annotat|data labell?ing|valutator[ei] (ia|ai)|\\brater\\b",
       "solo_torino": true,
       "solo_senza_esperienza": true
     },
@@ -97,8 +98,8 @@
       "gaming", "\\bgame", "gamelife", "intrattenimento", "spettacol", "teatr", "eventi", "\\bevent", "ufficio stampa",
       "giornal", "\\bblog", "creativ", "storytell", "podcast", "\\bradio", "fotograf", "grafic", "illustrat",
       "informatic", "\\bit\\b", "\\bict\\b", "help ?desk", "service desk", "supporto (tecnico|it|informatico)",
-      "assistenza (tecnica|it|informatica)", "tecnico (pc|hardware|informatico)", "sviluppat", "developer", "programmat",
-      "software", "\\bweb\\b", "sistemi informativi", "sistemist", "data entry", "inserimento dati"
+      "assistenza (tecnica|it|informatica)", "tecnico (pc|hardware|informatico)", "\\b(it|ict) support",
+      "data entry", "inserimento dati", "ai trainer", "intelligenza artificiale", "annotat", "data labell?ing"
     ],
     "per_tutti": [
       "vendit", "\\bsales (assistant|associate|advisor|intern|stage)", "commess", "cassier", "\\bcassa\\b", "banconist",
@@ -107,7 +108,9 @@
       "promoter", "promozion", "animat", "staff", "camerier", "barist", "\\bbar\\b", "lavapiatti", "cucina",
       "aiuto cuoc", "pizz", "ristorazion", "mensa", "pulizi", "facchin", "manoval", "operai[oa]? generic",
       "operatore di produzione", "addett[oaie]+ (alla )?produzione", "confezionament", "imballagg", "volantin",
-      "consegn", "fattorin", "negozio", "store", "supermercat", "punto vendita"
+      "consegn", "fattorin", "negozio", "inventari", "merchandis", "allestiment", "portier", "guardaroba",
+      "\\bmaschera", "bigliett", "autolavagg", "lavaggio auto", "baby ?sitter", "dog ?sitter", "runner", "commis",
+      "aiuto", "apprendist", "operai", "store", "supermercat", "punto vendita"
     ]
   },
   "settori_non_adatti": [
@@ -255,6 +258,8 @@
     "cinese",
     "albo",
     "abilitazion",
+    "perit[oa] (elettric|elettronic|elettrotecnic|meccanic|chimic|agrari|industrial)",
+    "agente (di commercio|immobiliare|monomandatario|plurimandatario)",
     "68/99",
     "68/1999",
     "categorie protette",
@@ -341,10 +346,13 @@
     "frasi_per_lavoro": {}
   },
   "eccezioni_settori": [
-    "developer",
-    "sviluppat",
-    "\\bweb\\b",
     "\\bit\\b support",
     "ict support"
+  ],
+  "_nota_mai": "Esclusi in tutte le categorie: lavori di programmazione.",
+  "escludi_programmazione": [
+    "sviluppat", "developer", "programmat", "software", "full ?stack", "front ?end", "back ?end", "sistemist",
+    "devops", "coding", "\\bjava", "python", "\\bsap\\b", "web (designer|developer|master)", "sistemi informativi",
+    "cloud", "cobol", "data engineer", "\\bprompt engineer"
   ]
 }

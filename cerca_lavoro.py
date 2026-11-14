@@ -293,6 +293,7 @@ class Filtri:
         self.serale = self._rx(sp.get("orari_serali_notturni"))
         self.serali_ok = set(sp.get("serali_ok_solo_a", []))
         self.dubbi = self._rx(cfg.get("escludi_se_testo_contiene"))
+        self.programmazione = self._rx(cfg.get("escludi_programmazione"))
         self.settori = self._rx(cfg.get("settori_non_adatti"))
         self.eccezioni = self._rx(cfg.get("eccezioni_settori"))
         adatti = cfg.get("lavori_adatti", {})
@@ -330,6 +331,8 @@ class Filtri:
         if self.dubbi and self.dubbi.search(testo):
             return "offerta dubbia"
         titolo = normalizza(a["titolo"])
+        if self.programmazione and self.programmazione.search(titolo):
+            return "programmazione"
         if (self.settori and a.get("lavoro") in self.con_settori and self.settori.search(titolo)
                 and not (self.eccezioni and self.eccezioni.search(titolo))):
             return "settore non adatto"

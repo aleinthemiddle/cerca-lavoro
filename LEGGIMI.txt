@@ -8,8 +8,8 @@ COSA FA
 - Cerca: lavapiatti, cameriere, scaffalista, volantinaggio, addetto vendite GameLife,
   e stage/tirocini di qualsiasi settore (questi sono sempre considerati
   "senza esperienza").
-- In più, SOLO se senza esperienza: lavori di informatica (helpdesk, data entry,
-  tecnico/sviluppatore junior), scrittura e audiovisivo (copywriter, redattore,
+- In più, SOLO se senza esperienza: lavori di informatica SENZA programmazione
+  (helpdesk, supporto IT, data entry, AI trainer / annotazione dati), scrittura e audiovisivo (copywriter, redattore,
   assistente di produzione, content creator, comparse...) e qualsiasi altro
   annuncio che dica esplicitamente "senza esperienza".
 - Quando esce un annuncio nuovo ti manda una notifica sul PC e sul telefono.
@@ -64,6 +64,8 @@ FILTRI PERSONALI
   (vendita, cassa, customer care, accoglienza, magazzino, ristorazione,
   promoter, animazione, produzione...). Liste "lavori_adatti" e
   "settori_non_adatti" in config.json.
+- Tutte le categorie: scarta i lavori di programmazione (developer,
+  sviluppatore, software...; lista "escludi_programmazione").
 - Tutte le categorie: scarta chi chiede laurea, iscrizione all'università
   (stage curriculari), inglese avanzato, altre lingue o iscrizione a un albo
   (lista "requisiti_mancanti"). Gli stage extracurriculari restano.
