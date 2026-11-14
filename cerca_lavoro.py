@@ -271,6 +271,7 @@ def dettaglio_adzuna(annuncio):
 FONTI = [fonte_linkedin, fonte_jobrapido, fonte_talent, fonte_adzuna, fonte_randstad]
 DETTAGLI = {"LinkedIn": dettaglio_linkedin, "Talent.com": dettaglio_talent, "Adzuna": dettaglio_adzuna}
 MAX_DETTAGLI = {"LinkedIn": 10, "Talent.com": 25, "Adzuna": 25}  # per ciclo, per non essere bloccati
+FONTI_BLOCCATE_NEL_CLOUD = {fonte_adzuna}  # Adzuna rifiuta i server di GitHub (HTTP 405)
 
 
 # ----------------------------------------------------------------------------- filtri
@@ -581,6 +582,8 @@ def controlla(cfg, notifica=True):
         for parola in lavoro["ricerche"]:
             for comune in comuni_ricerca:
                 for fonte in FONTI:
+                    if NEL_CLOUD and fonte in FONTI_BLOCCATE_NEL_CLOUD:
+                        continue
                     try:
                         trovati = fonte(parola, comune)
                     except Exception as e:  # un portale che cambia layout non deve fermare gli altri

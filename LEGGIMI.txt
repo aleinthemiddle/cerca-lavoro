@@ -3,7 +3,8 @@ CERCA LAVORO - avvisi annunci a Torino, Orbassano, Beinasco, Piossasco
 
 COSA FA
 - Ogni 10 minuti controlla: LinkedIn, Jobrapido (che raccoglie anche Indeed,
-  Subito, agenzie, ecc.), Talent.com, Adzuna e Randstad.
+  Subito, agenzie, ecc.), Talent.com e Randstad. (Adzuna solo dalla versione
+  sul PC: blocca i server di GitHub.)
 - Cerca: lavapiatti, cameriere, scaffalista, volantinaggio, addetto vendite GameLife,
   e stage/tirocini di qualsiasi settore (questi sono sempre considerati
   "senza esperienza").
@@ -14,13 +15,29 @@ COSA FA
 - Quando esce un annuncio nuovo ti manda una notifica sul PC e sul telefono.
 - Gli annunci "senza esperienza" arrivano per primi, con la stella ⭐ e una
   notifica più insistente sul telefono. Gli altri arrivano comunque.
-- Tutti gli annunci trovati sono nella pagina annunci.html (doppio clic su
-  "APRI ANNUNCI.bat"), con i filtri per tipo di lavoro.
+- Tutti gli annunci trovati sono nella pagina online (vedi sotto), con i
+  filtri per tipo di lavoro.
 
 
-SUL PC
-Doppio clic su INSTALLA.bat (una volta sola). Da quel momento parte da solo
-a ogni accensione, senza finestre aperte.
+DOVE GIRA: SU GITHUB (anche a PC spento)
+- Il controllo gira su GitHub ogni ~10 minuti:
+  https://github.com/aleinthemiddle/cerca-lavoro/actions
+- Lista annunci (anche dal telefono, salvala nei preferiti):
+  https://aleinthemiddle.github.io/cerca-lavoro/
+  È una pagina pubblica: la lettera lì ha [Nome e Cognome] ecc. al posto
+  dei tuoi dati.
+- I tuoi dati sono nei "segreti" del repository (Settings > Secrets and
+  variables > Actions): PRIVATO_JSON (= contenuto di privato.json),
+  CV_PASSWORD (chiave del CV cifrato cv.pdf.enc), SMTP_PASSWORD_APP.
+- Se cambi privato.json, aggiorna il segreto:  gh secret set PRIVATO_JSON < privato.json
+- Se cambi CV: cifralo di nuovo (chiedi a Claude) e carica cv.pdf.enc.
+- Se modifichi config.json o il codice, fai commit e push: vale dal giro dopo.
+- Se il repository resta senza attività per 60 giorni GitHub sospende i
+  controlli e manda un'email: basta riattivarli dalla pagina Actions.
+
+VERSIONE SUL PC (alternativa, solo se non usi GitHub)
+Doppio clic su INSTALLA.bat. Parte da solo a ogni accensione.
+Non usarla insieme a GitHub, altrimenti ricevi ogni notifica due volte.
 
 
 SUL TELEFONO (2 minuti)
@@ -53,10 +70,13 @@ INVIO DEL CV
    a. Su Google attiva la verifica in 2 passaggi, poi vai su
       https://myaccount.google.com/apppasswords e crea una "password per le
       app" (16 lettere). NON è la tua password di Gmail.
-   b. Apri config.json, sezione "candidature": incolla quella password in
-      "smtp_password_app" e metti "attivo": true.
-   c. Prova: python cerca_lavoro.py --prova-email   (ti arriva il CV su Gmail)
-   d. Riavvia il PC (o DISINSTALLA.bat e poi INSTALLA.bat).
+   b. Su GitHub: Settings > Secrets and variables > Actions >
+      - "Secrets": nuovo segreto SMTP_PASSWORD_APP con quella password;
+      - "Variables": nuova variabile CANDIDATURE_ATTIVE = true.
+      (Per la versione sul PC: mettila in privato.json, "smtp_password_app",
+      e "attivo": true.)
+   c. Prova dal PC: python cerca_lavoro.py --prova-email (ti arriva il CV su
+      Gmail; sul PC serve la password anche in privato.json).
    Nota: solo una parte degli annunci riporta l'email; la maggior parte
    chiede di candidarsi dal sito.
 2) Dal SITO: in annunci.html ogni annuncio ha "Candidati sul sito" e
