@@ -29,6 +29,12 @@
       ],
       "regex": "camerier|commis (de rang|di sala)|chef de rang|addett[oaie]+ (alla )?sala|runner di sala"
     },
+    "Barista": {
+      "ricerche": [
+        "barista"
+      ],
+      "regex": "barist|bar ?man|bar ?lady|caffetteria|banconist[aei]+ (bar|caffetteria)|addett[oaie]+ (al )?bar"
+    },
     "Scaffalista": {
       "ricerche": [
         "scaffalista"

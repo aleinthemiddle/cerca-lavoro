@@ -304,6 +304,7 @@ class Filtri:
     def comune(self, a):
         luogo = normalizza(a["luogo"])
         testo = luogo or normalizza(a["titolo"] + " " + a["descrizione"])
+        testo = re.sub(r"\brivalta di torino\b", " ", testo)  # comune diverso, non è Torino
         for nome, rx in self.comuni.items():
             if rx.search(testo):
                 return nome
