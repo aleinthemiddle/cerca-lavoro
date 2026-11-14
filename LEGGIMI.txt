@@ -5,7 +5,9 @@ COSA FA
 - Ogni 10 minuti controlla: LinkedIn, Jobrapido (che raccoglie anche Indeed,
   Subito, agenzie, ecc.), Talent.com e Randstad. (Adzuna solo dalla versione
   sul PC: blocca i server di GitHub.)
-- Cerca: lavapiatti, cameriere, scaffalista, volantinaggio, addetto vendite GameLife,
+- Comuni: Torino, Orbassano, Beinasco, Piossasco, Rivalta.
+- Cerca: lavapiatti, cameriere, barista, scaffalista, volantinaggio,
+  addetto vendite GameLife, stage/tirocini in Avio Aero (solo quelli fattibili),
   e stage/tirocini di qualsiasi settore (questi sono sempre considerati
   "senza esperienza").
 - In più, SOLO se senza esperienza: lavori di informatica SENZA programmazione

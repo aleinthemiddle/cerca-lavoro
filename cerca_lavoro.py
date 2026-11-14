@@ -770,7 +770,7 @@ h2 a {{ color:var(--accent); text-decoration:none; }}
 </style></head><body>
 <header>
   <h1>Annunci di lavoro</h1>
-  <p class="sub">{len(annunci)} annunci · Torino, Orbassano, Beinasco, Piossasco · ultimo controllo {ultimo}</p>
+  <p class="sub">{len(annunci)} annunci · {html.escape(', '.join(cfg['comuni']))} · ultimo controllo {ultimo}</p>
   <div class="filtri"><button data-f="" class="on">Tutti</button><button data-f="__esp">⭐ Senza esperienza</button>{bottoni}</div>
 </header>
 <main>{''.join(riga(a) for a in annunci) or '<p class="vuoto">Nessun annuncio ancora.</p>'}</main>
