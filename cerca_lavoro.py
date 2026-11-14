@@ -283,9 +283,11 @@ class Filtri:
             for nome, alias in cfg["comuni"].items()
         }
         self.lavori = {
-            nome: (re.compile(d["regex"]), d.get("cerca_anche_in_azienda", False))
+            nome: (re.compile(d["regex"]), d.get("cerca_anche_in_azienda", False),
+                   re.compile(d["azienda_regex"]) if d.get("azienda_regex") else None)
             for nome, d in cfg["lavori"].items()
         }
+        self.senza_filtri_profilo = {n for n, d in cfg["lavori"].items() if d.get("salta_filtri_profilo")}
         self.escludi = [normalizza(x) for x in cfg.get("escludi_se_titolo_contiene", [])]
         self.senza_esp = re.compile("|".join(normalizza(f) for f in cfg["frasi_senza_esperienza"]))
         sp = cfg.get("spostamenti", {})
@@ -304,7 +306,7 @@ class Filtri:
     def comune(self, a):
         luogo = normalizza(a["luogo"])
         testo = luogo or normalizza(a["titolo"] + " " + a["descrizione"])
-        testo = re.sub(r"\brivalta di torino\b", " ", testo)  # comune diverso, non è Torino
+        testo = re.sub(r"\brivalta di torino\b", "rivalta", testo)  # comune a sé, non Torino città
         for nome, rx in self.comuni.items():
             if rx.search(testo):
                 return nome
@@ -314,8 +316,11 @@ class Filtri:
         titolo = normalizza(a["titolo"])
         if any(x in titolo for x in self.escludi):
             return None
-        for nome, (rx, anche_azienda) in self.lavori.items():
-            if rx.search(titolo) or (anche_azienda and rx.search(normalizza(a["azienda"]))):
+        azienda = normalizza(a["azienda"])
+        for nome, (rx, anche_azienda, rx_azienda) in self.lavori.items():
+            if rx_azienda and not (rx_azienda.search(azienda) or rx_azienda.search(titolo)):
+                continue  # categoria legata a un'azienda precisa
+            if rx.search(titolo) or (anche_azienda and rx.search(azienda)):
                 return nome
         return None
 
@@ -331,7 +336,13 @@ class Filtri:
         testo = normalizza(a["titolo"] + " " + a["descrizione"])
         if self.dubbi and self.dubbi.search(testo):
             return "offerta dubbia"
+        if self.auto and self.auto.search(testo):
+            return "richiede auto"
+        if self.serale and a.get("comune") not in self.serali_ok and self.serale.search(testo):
+            return "orario serale/notturno"
         titolo = normalizza(a["titolo"])
+        if a.get("lavoro") in self.senza_filtri_profilo:
+            return ""
         if self.programmazione and self.programmazione.search(titolo):
             return "programmazione"
         if (self.settori and a.get("lavoro") in self.con_settori and self.settori.search(titolo)
@@ -341,10 +352,6 @@ class Filtri:
             return "fuori dal tuo campo"
         if self.requisiti and self.requisiti.search(testo):
             return "requisiti mancanti"
-        if self.auto and self.auto.search(testo):
-            return "richiede auto"
-        if self.serale and a.get("comune") not in self.serali_ok and self.serale.search(testo):
-            return "orario serale/notturno"
         return ""
 
 
