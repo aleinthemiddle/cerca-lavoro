@@ -7,7 +7,10 @@ COSA FA
   sul PC: blocca i server di GitHub.)
 - Comuni: Torino, Orbassano, Beinasco, Piossasco, Rivalta.
 - Cerca: lavapiatti, cameriere, barista, scaffalista, volantinaggio,
-  addetto vendite GameLife, stage/tirocini in Avio Aero (solo quelli fattibili),
+  addetto vendite GameLife, fast food (McDonald's, Burger King, KFC...),
+  cinema (The Space, UCI...), negozi e supermercati (Esselunga, Carrefour,
+  Lidl, Decathlon, H&M...: solo vendita/cassa/magazzino, niente manager),
+  stage/tirocini in Avio Aero (solo quelli fattibili),
   e stage/tirocini di qualsiasi settore (questi sono sempre considerati
   "senza esperienza").
 - In più, SOLO se senza esperienza: lavori di informatica SENZA programmazione
@@ -60,6 +63,8 @@ FILTRI PERSONALI
 - Scarta i turni serali/notturni, tranne a Piossasco.
   ("pranzo e cena" non viene scartato: decidi tu.)
 - Scarta offerte dubbie (network marketing, solo provvigioni, partita IVA...).
+- Scarta aiuto cuoco / aiuto cucina e i lavapiatti con mansioni di cucina o
+  "crescita ad aiuto cuoco".
 - Stage e "altri senza esperienza": tiene SOLO quelli del tuo campo
   (scrittura, audiovisivo, comunicazione, social/contenuti, fumetti,
   videogiochi, eventi, informatica di base) e i lavori che può fare chiunque
