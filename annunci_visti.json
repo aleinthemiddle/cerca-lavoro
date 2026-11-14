@@ -16,7 +16,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4487812069": {
    "id": "LinkedIn:4487812069",
@@ -34,7 +34,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "LinkedIn:4489971594": {
    "id": "LinkedIn:4489971594",
@@ -52,7 +52,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4489455330": {
    "id": "LinkedIn:4489455330",
@@ -70,7 +70,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4479794680": {
    "id": "LinkedIn:4479794680",
@@ -88,7 +88,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4489955959": {
    "id": "LinkedIn:4489955959",
@@ -105,7 +105,7 @@
    "trovato_il": "2026-11-14T17:20:10",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4489110484": {
    "id": "LinkedIn:4489110484",
@@ -123,7 +123,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:3569437541415256064": {
    "id": "Jobrapido:3569437541415256064",
@@ -517,7 +517,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964794977": {
    "id": "Adzuna:5964794977",
@@ -535,7 +535,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5959619449": {
    "id": "Adzuna:5959619449",
@@ -621,7 +621,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5948184284": {
    "id": "Adzuna:5948184284",
@@ -727,7 +727,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:2904206858849878016": {
    "id": "Jobrapido:2904206858849878016",
@@ -745,7 +745,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Jobrapido:602578861821001728": {
    "id": "Jobrapido:602578861821001728",
@@ -781,7 +781,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4488394593": {
    "id": "LinkedIn:4488394593",
@@ -833,7 +833,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4490772294": {
    "id": "LinkedIn:4490772294",
@@ -868,7 +868,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4489040635": {
    "id": "LinkedIn:4489040635",
@@ -886,7 +886,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4489051243": {
    "id": "LinkedIn:4489051243",
@@ -904,7 +904,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:636581911745003520": {
    "id": "Jobrapido:636581911745003520",
@@ -1263,7 +1263,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:534434470224136166": {
    "id": "Talent.com:534434470224136166",
@@ -1315,7 +1315,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964807035": {
    "id": "Adzuna:5964807035",
@@ -1351,7 +1351,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964806354": {
    "id": "Adzuna:5964806354",
@@ -1387,7 +1387,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "orario serale/notturno"
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964803925": {
    "id": "Adzuna:5964803925",
@@ -1456,7 +1456,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Randstad:93a6d1c1-7beb-4ff4-b89d-a5f88abd10eb": {
    "id": "Randstad:93a6d1c1-7beb-4ff4-b89d-a5f88abd10eb",
@@ -1474,7 +1474,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Randstad:c0f39b3c-737f-4aaa-a6fe-e0477eb0297a": {
    "id": "Randstad:c0f39b3c-737f-4aaa-a6fe-e0477eb0297a",
@@ -1597,7 +1597,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4490593806": {
    "id": "LinkedIn:4490593806",
@@ -1633,7 +1633,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4488284700": {
    "id": "LinkedIn:4488284700",
@@ -1651,7 +1651,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4487687675": {
    "id": "LinkedIn:4487687675",
@@ -1668,7 +1668,7 @@
    "trovato_il": "2026-11-14T17:21:19",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:3919389312029818880": {
    "id": "Jobrapido:3919389312029818880",
@@ -1722,7 +1722,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:2830183234942271488": {
    "id": "Jobrapido:2830183234942271488",
@@ -1740,7 +1740,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:8198728665148686336": {
    "id": "Jobrapido:8198728665148686336",
@@ -1811,7 +1811,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:6937681187066347520": {
    "id": "Jobrapido:6937681187066347520",
@@ -1829,7 +1829,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "orario serale/notturno"
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:9118335176731000832": {
    "id": "Jobrapido:9118335176731000832",
@@ -1882,7 +1882,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964808035": {
    "id": "Adzuna:5964808035",
@@ -1918,7 +1918,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5964804813": {
    "id": "Adzuna:5964804813",
@@ -2025,7 +2025,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:6788024460386500608": {
    "id": "Jobrapido:6788024460386500608",
@@ -2043,7 +2043,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:734834717479665664": {
    "id": "Jobrapido:734834717479665664",
@@ -2061,7 +2061,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:5063595675158052864": {
    "id": "Jobrapido:5063595675158052864",
@@ -2079,7 +2079,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:3555099944148795392": {
    "id": "Jobrapido:3555099944148795392",
@@ -2097,7 +2097,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:5135538507669831680": {
    "id": "Jobrapido:5135538507669831680",
@@ -2115,7 +2115,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:8663483296677625856": {
    "id": "Jobrapido:8663483296677625856",
@@ -2133,7 +2133,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:1641374357999583232": {
    "id": "Jobrapido:1641374357999583232",
@@ -2151,7 +2151,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:6914011965895475200": {
    "id": "Jobrapido:6914011965895475200",
@@ -2169,7 +2169,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5963982149": {
    "id": "Adzuna:5963982149",
@@ -2205,7 +2205,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:4795963687280050176": {
    "id": "Jobrapido:4795963687280050176",
@@ -2223,7 +2223,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:8056237283948363776": {
    "id": "Jobrapido:8056237283948363776",
@@ -2259,7 +2259,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5965372727": {
    "id": "Adzuna:5965372727",
@@ -2295,7 +2295,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:1735372431691874304": {
    "id": "Jobrapido:1735372431691874304",
@@ -2313,7 +2313,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Jobrapido:7860214976558923776": {
    "id": "Jobrapido:7860214976558923776",
@@ -2349,7 +2349,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4486690756": {
    "id": "LinkedIn:4486690756",
@@ -2367,7 +2367,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4481556306": {
    "id": "LinkedIn:4481556306",
@@ -2385,7 +2385,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4487418367": {
    "id": "LinkedIn:4487418367",
@@ -2403,7 +2403,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4489231546": {
    "id": "LinkedIn:4489231546",
@@ -2421,7 +2421,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4489595447": {
    "id": "LinkedIn:4489595447",
@@ -2456,7 +2456,7 @@
    "trovato_il": "2026-11-14T17:21:55",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4488913557": {
    "id": "LinkedIn:4488913557",
@@ -2474,7 +2474,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4487906284": {
    "id": "LinkedIn:4487906284",
@@ -2492,7 +2492,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:2993230226542034944": {
    "id": "Jobrapido:2993230226542034944",
@@ -2527,7 +2527,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:5099989750555607040": {
    "id": "Jobrapido:5099989750555607040",
@@ -2581,7 +2581,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:6368465391756247040": {
    "id": "Jobrapido:6368465391756247040",
@@ -2599,7 +2599,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "richiede auto"
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:2126007197686038528": {
    "id": "Jobrapido:2126007197686038528",
@@ -2759,7 +2759,7 @@
    "trovato_il": "2026-11-14T17:22:03",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "LinkedIn:4487900364": {
    "id": "LinkedIn:4487900364",
@@ -2777,7 +2777,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4477393523": {
    "id": "LinkedIn:4477393523",
@@ -2795,7 +2795,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4489901138": {
    "id": "LinkedIn:4489901138",
@@ -2813,7 +2813,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4489901090": {
    "id": "LinkedIn:4489901090",
@@ -2831,7 +2831,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4489694256": {
    "id": "LinkedIn:4489694256",
@@ -2849,7 +2849,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4438411559": {
    "id": "LinkedIn:4438411559",
@@ -2867,7 +2867,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4487898922": {
    "id": "LinkedIn:4487898922",
@@ -2885,7 +2885,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:4450531184333553664": {
    "id": "Jobrapido:4450531184333553664",
@@ -3107,7 +3107,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4489962757": {
    "id": "LinkedIn:4489962757",
@@ -3124,7 +3124,7 @@
    "trovato_il": "2026-11-14T17:23:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "LinkedIn:4487145353": {
    "id": "LinkedIn:4487145353",
@@ -3141,7 +3141,7 @@
    "trovato_il": "2026-11-14T17:23:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4490353315": {
    "id": "LinkedIn:4490353315",
@@ -3158,7 +3158,7 @@
    "trovato_il": "2026-11-14T17:23:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4490308801": {
    "id": "LinkedIn:4490308801",
@@ -3175,7 +3175,7 @@
    "trovato_il": "2026-11-14T17:23:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4489609159": {
    "id": "LinkedIn:4489609159",
@@ -3210,7 +3210,7 @@
    "trovato_il": "2026-11-14T17:23:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:4235185612920979456": {
    "id": "Jobrapido:4235185612920979456",
@@ -3228,7 +3228,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:3238794085116411904": {
    "id": "Jobrapido:3238794085116411904",
@@ -3245,7 +3245,7 @@
    "trovato_il": "2026-11-14T17:23:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:7706495691853398016": {
    "id": "Jobrapido:7706495691853398016",
@@ -3262,7 +3262,7 @@
    "trovato_il": "2026-11-14T17:23:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:3900425450870013952": {
    "id": "Jobrapido:3900425450870013952",
@@ -3347,7 +3347,7 @@
    "trovato_il": "2026-11-14T17:23:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:2618274668158648320": {
    "id": "Jobrapido:2618274668158648320",
@@ -3382,7 +3382,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:5465708655351431168": {
    "id": "Jobrapido:5465708655351431168",
@@ -3417,7 +3417,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:3237453886742593536": {
    "id": "Jobrapido:3237453886742593536",
@@ -3435,7 +3435,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:1165677833427615744": {
    "id": "Jobrapido:1165677833427615744",
@@ -3452,7 +3452,7 @@
    "trovato_il": "2026-11-14T17:23:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:7137673556065779712": {
    "id": "Jobrapido:7137673556065779712",
@@ -3470,7 +3470,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:642670018041485587": {
    "id": "Talent.com:642670018041485587",
@@ -3487,7 +3487,7 @@
    "trovato_il": "2026-11-14T17:23:14",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:641491421712879500": {
    "id": "Talent.com:641491421712879500",
@@ -3521,7 +3521,7 @@
    "trovato_il": "2026-11-14T17:23:14",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:636081740702622580": {
    "id": "Talent.com:636081740702622580",
@@ -3572,7 +3572,7 @@
    "trovato_il": "2026-11-14T17:23:14",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:645583555100023104": {
    "id": "Talent.com:645583555100023104",
@@ -3623,7 +3623,7 @@
    "trovato_il": "2026-11-14T17:23:14",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:627463842025375945": {
    "id": "Talent.com:627463842025375945",
@@ -3640,7 +3640,7 @@
    "trovato_il": "2026-11-14T17:23:14",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:640646238642701227": {
    "id": "Talent.com:640646238642701227",
@@ -3657,7 +3657,7 @@
    "trovato_il": "2026-11-14T17:23:14",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:643979783982419947": {
    "id": "Talent.com:643979783982419947",
@@ -3674,7 +3674,7 @@
    "trovato_il": "2026-11-14T17:23:14",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:643399821001949341": {
    "id": "Talent.com:643399821001949341",
@@ -3708,7 +3708,7 @@
    "trovato_il": "2026-11-14T17:23:14",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5964806971": {
    "id": "Adzuna:5964806971",
@@ -3776,7 +3776,7 @@
    "trovato_il": "2026-11-14T17:23:16",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5962865357": {
    "id": "Adzuna:5962865357",
@@ -3793,7 +3793,7 @@
    "trovato_il": "2026-11-14T17:23:16",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5948187968": {
    "id": "Adzuna:5948187968",
@@ -3810,7 +3810,7 @@
    "trovato_il": "2026-11-14T17:23:16",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5948185611": {
    "id": "Adzuna:5948185611",
@@ -3844,7 +3844,7 @@
    "trovato_il": "2026-11-14T17:23:16",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5927698331": {
    "id": "Adzuna:5927698331",
@@ -3878,7 +3878,7 @@
    "trovato_il": "2026-11-14T17:23:16",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:48e0428e-29d5-45e7-9e7e-0dd30ab1df93": {
    "id": "Randstad:48e0428e-29d5-45e7-9e7e-0dd30ab1df93",
@@ -3895,7 +3895,7 @@
    "trovato_il": "2026-11-14T17:23:18",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:af75bda3-880d-4f94-bdd3-76d3cf4b4d01": {
    "id": "Randstad:af75bda3-880d-4f94-bdd3-76d3cf4b4d01",
@@ -3946,7 +3946,7 @@
    "trovato_il": "2026-11-14T17:23:18",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:682668800616693760": {
    "id": "Jobrapido:682668800616693760",
@@ -3964,7 +3964,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:6347218188542935040": {
    "id": "Jobrapido:6347218188542935040",
@@ -3998,7 +3998,7 @@
    "trovato_il": "2026-11-14T17:23:22",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:642551548139480165": {
    "id": "Talent.com:642551548139480165",
@@ -4015,7 +4015,7 @@
    "trovato_il": "2026-11-14T17:23:22",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:636486589463069968": {
    "id": "Talent.com:636486589463069968",
@@ -4049,7 +4049,7 @@
    "trovato_il": "2026-11-14T17:23:22",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Randstad:c5a429b8-3298-444d-90a7-2ceace64cea0": {
    "id": "Randstad:c5a429b8-3298-444d-90a7-2ceace64cea0",
@@ -4066,7 +4066,7 @@
    "trovato_il": "2026-11-14T17:23:27",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Randstad:5098bfa2-3417-4319-b04c-c11893acb191": {
    "id": "Randstad:5098bfa2-3417-4319-b04c-c11893acb191",
@@ -4084,7 +4084,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:640397862193207493": {
    "id": "Talent.com:640397862193207493",
@@ -4101,7 +4101,7 @@
    "trovato_il": "2026-11-14T17:23:30",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:640646283143807915": {
    "id": "Talent.com:640646283143807915",
@@ -4118,7 +4118,7 @@
    "trovato_il": "2026-11-14T17:23:30",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:642428561871284857": {
    "id": "Talent.com:642428561871284857",
@@ -4135,7 +4135,7 @@
    "trovato_il": "2026-11-14T17:23:39",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4481363865": {
    "id": "LinkedIn:4481363865",
@@ -4152,7 +4152,7 @@
    "trovato_il": "2026-11-14T17:23:46",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4488851177": {
    "id": "LinkedIn:4488851177",
@@ -4170,7 +4170,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4481902348": {
    "id": "LinkedIn:4481902348",
@@ -4205,7 +4205,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4488946290": {
    "id": "LinkedIn:4488946290",
@@ -4241,7 +4241,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:5999534538617782272": {
    "id": "Jobrapido:5999534538617782272",
@@ -4259,7 +4259,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:231356489011298304": {
    "id": "Jobrapido:231356489011298304",
@@ -4311,7 +4311,7 @@
    "trovato_il": "2026-11-14T17:23:48",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:6757883960451137536": {
    "id": "Jobrapido:6757883960451137536",
@@ -4328,7 +4328,7 @@
    "trovato_il": "2026-11-14T17:23:48",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:641226695537328128": {
    "id": "Jobrapido:641226695537328128",
@@ -4363,7 +4363,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:787099865267044352": {
    "id": "Jobrapido:787099865267044352",
@@ -4381,7 +4381,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:6105044976867999744": {
    "id": "Jobrapido:6105044976867999744",
@@ -4399,7 +4399,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:8342790077012770816": {
    "id": "Jobrapido:8342790077012770816",
@@ -4417,7 +4417,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:639810725966512422": {
    "id": "Talent.com:639810725966512422",
@@ -4451,7 +4451,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Talent.com:642670053831022867": {
    "id": "Talent.com:642670053831022867",
@@ -4468,7 +4468,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:644899571357585448": {
    "id": "Talent.com:644899571357585448",
@@ -4485,7 +4485,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:636487246616861392": {
    "id": "Talent.com:636487246616861392",
@@ -4502,7 +4502,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:640646274219639590": {
    "id": "Talent.com:640646274219639590",
@@ -4519,7 +4519,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:619321687772175458": {
    "id": "Talent.com:619321687772175458",
@@ -4536,7 +4536,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:643979397788543783": {
    "id": "Talent.com:643979397788543783",
@@ -4553,7 +4553,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:615901669479884649": {
    "id": "Talent.com:615901669479884649",
@@ -4587,7 +4587,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:644338242077010727": {
    "id": "Talent.com:644338242077010727",
@@ -4621,7 +4621,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:645802131187960338": {
    "id": "Talent.com:645802131187960338",
@@ -4638,7 +4638,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5957354387": {
    "id": "Adzuna:5957354387",
@@ -4655,7 +4655,7 @@
    "trovato_il": "2026-11-14T17:23:52",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5953153352": {
    "id": "Adzuna:5953153352",
@@ -4672,7 +4672,7 @@
    "trovato_il": "2026-11-14T17:23:52",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5938151137": {
    "id": "Adzuna:5938151137",
@@ -4689,7 +4689,7 @@
    "trovato_il": "2026-11-14T17:23:52",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:1176455624360198144": {
    "id": "Jobrapido:1176455624360198144",
@@ -4707,7 +4707,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:6611596824593563648": {
    "id": "Jobrapido:6611596824593563648",
@@ -4725,7 +4725,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:6362833830637731840": {
    "id": "Jobrapido:6362833830637731840",
@@ -4743,7 +4743,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:2278784613243420672": {
    "id": "Jobrapido:2278784613243420672",
@@ -4761,7 +4761,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:645802144679594514": {
    "id": "Talent.com:645802144679594514",
@@ -4778,7 +4778,7 @@
    "trovato_il": "2026-11-14T17:23:59",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:636603598549883600": {
    "id": "Talent.com:636603598549883600",
@@ -4795,7 +4795,7 @@
    "trovato_il": "2026-11-14T17:23:59",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:644338297327201063": {
    "id": "Talent.com:644338297327201063",
@@ -4812,7 +4812,7 @@
    "trovato_il": "2026-11-14T17:23:59",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:627463843679242441": {
    "id": "Talent.com:627463843679242441",
@@ -4829,7 +4829,7 @@
    "trovato_il": "2026-11-14T17:23:59",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:cc1b8ef2-701b-4c72-bed4-98092c93c915": {
    "id": "Randstad:cc1b8ef2-701b-4c72-bed4-98092c93c915",
@@ -4846,7 +4846,7 @@
    "trovato_il": "2026-11-14T17:24:04",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:e616e3d6-31ef-48ef-9ad0-458e3b9e44e6": {
    "id": "Randstad:e616e3d6-31ef-48ef-9ad0-458e3b9e44e6",
@@ -4864,7 +4864,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:641372184258219916": {
    "id": "Talent.com:641372184258219916",
@@ -4881,7 +4881,7 @@
    "trovato_il": "2026-11-14T17:24:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:1890234796173426688": {
    "id": "Jobrapido:1890234796173426688",
@@ -4899,7 +4899,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:5635890480983048192": {
    "id": "Jobrapido:5635890480983048192",
@@ -4917,7 +4917,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:584983639485459795": {
    "id": "Talent.com:584983639485459795",
@@ -5037,7 +5037,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4463865708": {
    "id": "LinkedIn:4463865708",
@@ -5091,7 +5091,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4486244377": {
    "id": "LinkedIn:4486244377",
@@ -5127,7 +5127,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4488607650": {
    "id": "LinkedIn:4488607650",
@@ -5145,7 +5145,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4488220315": {
    "id": "LinkedIn:4488220315",
@@ -5163,7 +5163,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:8934802562297626624": {
    "id": "Jobrapido:8934802562297626624",
@@ -5181,7 +5181,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:1856038644519796736": {
    "id": "Jobrapido:1856038644519796736",
@@ -5199,7 +5199,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:7666476317239410688": {
    "id": "Jobrapido:7666476317239410688",
@@ -5235,7 +5235,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:4896338069419982848": {
    "id": "Jobrapido:4896338069419982848",
@@ -5271,7 +5271,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:7356539351393632256": {
    "id": "Jobrapido:7356539351393632256",
@@ -5289,7 +5289,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:4484072164495982592": {
    "id": "Jobrapido:4484072164495982592",
@@ -5324,7 +5324,7 @@
    "trovato_il": "2026-11-14T17:24:28",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:7661137538672754688": {
    "id": "Jobrapido:7661137538672754688",
@@ -5395,7 +5395,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:6379250638752055296": {
    "id": "Jobrapido:6379250638752055296",
@@ -5449,7 +5449,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:272329305562808320": {
    "id": "Jobrapido:272329305562808320",
@@ -5574,7 +5574,7 @@
    "trovato_il": "2026-11-14T17:24:31",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Adzuna:5893717518": {
    "id": "Adzuna:5893717518",
@@ -5663,7 +5663,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4488684203": {
    "id": "LinkedIn:4488684203",
@@ -5681,7 +5681,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Jobrapido:5003435552846905344": {
    "id": "Jobrapido:5003435552846905344",
@@ -5699,7 +5699,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:7504990704091791360": {
    "id": "Jobrapido:7504990704091791360",
@@ -5771,7 +5771,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:643464435351424291": {
    "id": "Talent.com:643464435351424291",
@@ -5789,7 +5789,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:640646401100874260": {
    "id": "Talent.com:640646401100874260",
@@ -5807,7 +5807,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:645019057929719110": {
    "id": "Talent.com:645019057929719110",
@@ -5824,7 +5824,7 @@
    "trovato_il": "2026-11-14T17:24:41",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:645802120681490962": {
    "id": "Talent.com:645802120681490962",
@@ -5842,7 +5842,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:644899328968297798": {
    "id": "Talent.com:644899328968297798",
@@ -5878,7 +5878,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:640238598789795567": {
    "id": "Talent.com:640238598789795567",
@@ -5914,7 +5914,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:630576416481937746": {
    "id": "Talent.com:630576416481937746",
@@ -5932,7 +5932,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:643904268796764135": {
    "id": "Talent.com:643904268796764135",
@@ -5950,7 +5950,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:640646248591655851": {
    "id": "Talent.com:640646248591655851",
@@ -5968,7 +5968,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:534434487404529638": {
    "id": "Talent.com:534434487404529638",
@@ -6004,7 +6004,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5964807996": {
    "id": "Adzuna:5964807996",
@@ -6022,7 +6022,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964801841": {
    "id": "Adzuna:5964801841",
@@ -6040,7 +6040,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964799655": {
    "id": "Adzuna:5964799655",
@@ -6058,7 +6058,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964799820": {
    "id": "Adzuna:5964799820",
@@ -6076,7 +6076,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5964794899": {
    "id": "Adzuna:5964794899",
@@ -6094,7 +6094,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5964758062": {
    "id": "Adzuna:5964758062",
@@ -6112,7 +6112,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5964174294": {
    "id": "Adzuna:5964174294",
@@ -6130,7 +6130,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964046883": {
    "id": "Adzuna:5964046883",
@@ -6148,7 +6148,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5963981775": {
    "id": "Adzuna:5963981775",
@@ -6166,7 +6166,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:7c218db8-24ca-455b-a45e-1697f1dd436a": {
    "id": "Randstad:7c218db8-24ca-455b-a45e-1697f1dd436a",
@@ -6184,7 +6184,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:a9c1a53e-219b-46bc-90cb-0d68d1fbb67d": {
    "id": "Randstad:a9c1a53e-219b-46bc-90cb-0d68d1fbb67d",
@@ -6202,7 +6202,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Randstad:e3dec9b7-c688-4a52-a34c-5164986223a1": {
    "id": "Randstad:e3dec9b7-c688-4a52-a34c-5164986223a1",
@@ -6220,7 +6220,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:d30019bd-cfbe-4027-8b35-66144c8bb737": {
    "id": "Randstad:d30019bd-cfbe-4027-8b35-66144c8bb737",
@@ -6238,7 +6238,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:90779952-5fba-4958-a10e-30cd575d37e3": {
    "id": "Randstad:90779952-5fba-4958-a10e-30cd575d37e3",
@@ -6255,7 +6255,7 @@
    "trovato_il": "2026-11-14T17:24:47",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:cdc68a60-c729-424a-8596-039b53f7aaa7": {
    "id": "Randstad:cdc68a60-c729-424a-8596-039b53f7aaa7",
@@ -6273,7 +6273,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:e18d02c9-9a7f-4de6-a1e2-517ba0e0ef8f": {
    "id": "Randstad:e18d02c9-9a7f-4de6-a1e2-517ba0e0ef8f",
@@ -6290,7 +6290,7 @@
    "trovato_il": "2026-11-14T17:24:47",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:1441a076-e69f-43c2-8fd2-394836c78207": {
    "id": "Randstad:1441a076-e69f-43c2-8fd2-394836c78207",
@@ -6307,7 +6307,7 @@
    "trovato_il": "2026-11-14T17:24:47",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:bffb282f-630d-4575-b6b1-4b2b9f4bd3a1": {
    "id": "Randstad:bffb282f-630d-4575-b6b1-4b2b9f4bd3a1",
@@ -6325,7 +6325,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:59000dde-a595-4167-be60-33b50bd6d29a": {
    "id": "Randstad:59000dde-a595-4167-be60-33b50bd6d29a",
@@ -6343,7 +6343,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:51319adf-86b6-4e79-bc1f-41c053b372f5": {
    "id": "Randstad:51319adf-86b6-4e79-bc1f-41c053b372f5",
@@ -6361,7 +6361,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4486692432": {
    "id": "LinkedIn:4486692432",
@@ -6397,7 +6397,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4489598148": {
    "id": "LinkedIn:4489598148",
@@ -6415,7 +6415,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4489687498": {
    "id": "LinkedIn:4489687498",
@@ -6433,7 +6433,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4490382658": {
    "id": "LinkedIn:4490382658",
@@ -6451,7 +6451,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4488397236": {
    "id": "LinkedIn:4488397236",
@@ -6469,7 +6469,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4489481554": {
    "id": "LinkedIn:4489481554",
@@ -6487,7 +6487,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:4275811777293320192": {
    "id": "Jobrapido:4275811777293320192",
@@ -6505,7 +6505,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Jobrapido:6362067058716311552": {
    "id": "Jobrapido:6362067058716311552",
@@ -6523,7 +6523,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:2484491934446387200": {
    "id": "Jobrapido:2484491934446387200",
@@ -6541,7 +6541,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:1455528305603117056": {
    "id": "Jobrapido:1455528305603117056",
@@ -6559,7 +6559,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:681227203433725952": {
    "id": "Jobrapido:681227203433725952",
@@ -6577,7 +6577,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:5809240308851933184": {
    "id": "Jobrapido:5809240308851933184",
@@ -6595,7 +6595,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:3575107722879696896": {
    "id": "Jobrapido:3575107722879696896",
@@ -6629,7 +6629,7 @@
    "trovato_il": "2026-11-14T17:24:51",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:650653083600158720": {
    "id": "Jobrapido:650653083600158720",
@@ -6647,7 +6647,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:8245943893468643328": {
    "id": "Jobrapido:8245943893468643328",
@@ -6665,7 +6665,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:1222750973764567040": {
    "id": "Jobrapido:1222750973764567040",
@@ -6683,7 +6683,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:1245060889325862912": {
    "id": "Jobrapido:1245060889325862912",
@@ -6701,7 +6701,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:1962839672124080128": {
    "id": "Jobrapido:1962839672124080128",
@@ -6719,7 +6719,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:6724601606039404544": {
    "id": "Jobrapido:6724601606039404544",
@@ -6737,7 +6737,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:629334925543742667": {
    "id": "Talent.com:629334925543742667",
@@ -6773,7 +6773,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Talent.com:643979794081452011": {
    "id": "Talent.com:643979794081452011",
@@ -6791,7 +6791,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:640646400914293268": {
    "id": "Talent.com:640646400914293268",
@@ -6809,7 +6809,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:644557037389349021": {
    "id": "Talent.com:644557037389349021",
@@ -6845,7 +6845,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:640646227452101547": {
    "id": "Talent.com:640646227452101547",
@@ -6863,7 +6863,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:640008602971212610": {
    "id": "Talent.com:640008602971212610",
@@ -6899,7 +6899,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:645574381101843709": {
    "id": "Talent.com:645574381101843709",
@@ -6917,7 +6917,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:645019072601001286": {
    "id": "Talent.com:645019072601001286",
@@ -6934,7 +6934,7 @@
    "trovato_il": "2026-11-14T17:24:55",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:643979817637908459": {
    "id": "Talent.com:643979817637908459",
@@ -6952,7 +6952,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:644914879485251624": {
    "id": "Talent.com:644914879485251624",
@@ -6970,7 +6970,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:643904305197096935": {
    "id": "Talent.com:643904305197096935",
@@ -6988,7 +6988,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:644899569899802664": {
    "id": "Talent.com:644899569899802664",
@@ -7006,7 +7006,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:644899352182459718": {
    "id": "Talent.com:644899352182459718",
@@ -7024,7 +7024,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5964808214": {
    "id": "Adzuna:5964808214",
@@ -7132,7 +7132,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964806154": {
    "id": "Adzuna:5964806154",
@@ -7150,7 +7150,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5964314206": {
    "id": "Adzuna:5964314206",
@@ -7168,7 +7168,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:df7d5787-7c33-40a4-9c0d-66ed7e90a3f8": {
    "id": "Randstad:df7d5787-7c33-40a4-9c0d-66ed7e90a3f8",
@@ -7186,7 +7186,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:ea5bcfb9-4db3-40b3-9b7a-99141f3fd897": {
    "id": "Randstad:ea5bcfb9-4db3-40b3-9b7a-99141f3fd897",
@@ -7204,7 +7204,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:2605ae02-32fb-4df7-916c-2832abc0c9f8": {
    "id": "Randstad:2605ae02-32fb-4df7-916c-2832abc0c9f8",
@@ -7221,7 +7221,7 @@
    "trovato_il": "2026-11-14T17:25:00",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Randstad:38f284e5-c40c-41fa-bf1f-bac63e0a7289": {
    "id": "Randstad:38f284e5-c40c-41fa-bf1f-bac63e0a7289",
@@ -7239,7 +7239,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Randstad:c6bece3f-99b7-4cf2-81a9-9d2877e6b833": {
    "id": "Randstad:c6bece3f-99b7-4cf2-81a9-9d2877e6b833",
@@ -7256,7 +7256,7 @@
    "trovato_il": "2026-11-14T17:25:00",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Randstad:58b9c283-d189-426b-bdb0-be007424e2fc": {
    "id": "Randstad:58b9c283-d189-426b-bdb0-be007424e2fc",
@@ -7274,7 +7274,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4427708776": {
    "id": "LinkedIn:4427708776",
@@ -7328,7 +7328,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4489014420": {
    "id": "LinkedIn:4489014420",
@@ -7364,7 +7364,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4488916559": {
    "id": "LinkedIn:4488916559",
@@ -7382,7 +7382,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4487162665": {
    "id": "LinkedIn:4487162665",
@@ -7400,7 +7400,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4481328143": {
    "id": "LinkedIn:4481328143",
@@ -7436,7 +7436,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:8496239881511501824": {
    "id": "Jobrapido:8496239881511501824",
@@ -7557,7 +7557,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:4268695909837045760": {
    "id": "Jobrapido:4268695909837045760",
@@ -7574,7 +7574,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:1844142169225428992": {
    "id": "Jobrapido:1844142169225428992",
@@ -7591,7 +7591,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:2172732043820007424": {
    "id": "Jobrapido:2172732043820007424",
@@ -7608,7 +7608,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:2796953828887363584": {
    "id": "Jobrapido:2796953828887363584",
@@ -7625,7 +7625,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:5984364370530926592": {
    "id": "Jobrapido:5984364370530926592",
@@ -7659,7 +7659,7 @@
    "trovato_il": "2026-11-14T17:25:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:59029005": {
    "id": "Jobrapido:59029005",
@@ -7693,7 +7693,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:643904292159234023": {
    "id": "Talent.com:643904292159234023",
@@ -7710,7 +7710,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:643819952959717533": {
    "id": "Talent.com:643819952959717533",
@@ -7727,7 +7727,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:643707690591322269": {
    "id": "Talent.com:643707690591322269",
@@ -7762,7 +7762,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:641370953518023595": {
    "id": "Talent.com:641370953518023595",
@@ -7779,7 +7779,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:642233684261536938": {
    "id": "Talent.com:642233684261536938",
@@ -7796,7 +7796,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:640805630497197964": {
    "id": "Talent.com:640805630497197964",
@@ -7848,7 +7848,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:621096621837129254": {
    "id": "Talent.com:621096621837129254",
@@ -7883,7 +7883,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:640646222716404518": {
    "id": "Talent.com:640646222716404518",
@@ -7900,7 +7900,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:629335830943957414": {
    "id": "Talent.com:629335830943957414",
@@ -7917,7 +7917,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:640923437501448998": {
    "id": "Talent.com:640923437501448998",
@@ -7934,7 +7934,7 @@
    "trovato_il": "2026-11-14T17:25:09",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5965566312": {
    "id": "Adzuna:5965566312",
@@ -7951,7 +7951,7 @@
    "trovato_il": "2026-11-14T17:25:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5965179270": {
    "id": "Adzuna:5965179270",
@@ -7968,7 +7968,7 @@
    "trovato_il": "2026-11-14T17:25:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5965179184": {
    "id": "Adzuna:5965179184",
@@ -7985,7 +7985,7 @@
    "trovato_il": "2026-11-14T17:25:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5964806280": {
    "id": "Adzuna:5964806280",
@@ -8002,7 +8002,7 @@
    "trovato_il": "2026-11-14T17:25:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964758058": {
    "id": "Adzuna:5964758058",
@@ -8019,7 +8019,7 @@
    "trovato_il": "2026-11-14T17:25:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5964313085": {
    "id": "Adzuna:5964313085",
@@ -8036,7 +8036,7 @@
    "trovato_il": "2026-11-14T17:25:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5964308706": {
    "id": "Adzuna:5964308706",
@@ -8054,7 +8054,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5963985778": {
    "id": "Adzuna:5963985778",
@@ -8071,7 +8071,7 @@
    "trovato_il": "2026-11-14T17:25:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5962865729": {
    "id": "Adzuna:5962865729",
@@ -8088,7 +8088,7 @@
    "trovato_il": "2026-11-14T17:25:11",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5961864836": {
    "id": "Adzuna:5961864836",
@@ -8105,7 +8105,7 @@
    "trovato_il": "2026-11-14T17:25:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:6365dbde-5d11-4c2e-87d5-482d1978b717": {
    "id": "Randstad:6365dbde-5d11-4c2e-87d5-482d1978b717",
@@ -8122,7 +8122,7 @@
    "trovato_il": "2026-11-14T17:25:20",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:4f33402b-f26b-4a66-bc2d-2730879c649f": {
    "id": "Randstad:4f33402b-f26b-4a66-bc2d-2730879c649f",
@@ -8139,7 +8139,7 @@
    "trovato_il": "2026-11-14T17:25:20",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:49cafb3e-4720-4392-adf5-1543f8703426": {
    "id": "Randstad:49cafb3e-4720-4392-adf5-1543f8703426",
@@ -8156,7 +8156,7 @@
    "trovato_il": "2026-11-14T17:25:20",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:1a3dd86d-c6bf-4da1-a403-013c415aaf9a": {
    "id": "Randstad:1a3dd86d-c6bf-4da1-a403-013c415aaf9a",
@@ -8173,7 +8173,7 @@
    "trovato_il": "2026-11-14T17:25:20",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:3f1b44b6-5434-4af6-af99-a7af7ca9e3d0": {
    "id": "Randstad:3f1b44b6-5434-4af6-af99-a7af7ca9e3d0",
@@ -8190,7 +8190,7 @@
    "trovato_il": "2026-11-14T17:25:20",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Randstad:3b241c7b-7b74-4d34-901a-2d59e5753ec8": {
    "id": "Randstad:3b241c7b-7b74-4d34-901a-2d59e5753ec8",
@@ -8207,7 +8207,7 @@
    "trovato_il": "2026-11-14T17:25:20",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:d565d9e0-9baf-4b4b-a505-e2152e46793e": {
    "id": "Randstad:d565d9e0-9baf-4b4b-a505-e2152e46793e",
@@ -8224,7 +8224,7 @@
    "trovato_il": "2026-11-14T17:25:20",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Randstad:eb04ad55-85d3-4ee5-8246-101516f83600": {
    "id": "Randstad:eb04ad55-85d3-4ee5-8246-101516f83600",
@@ -8242,7 +8242,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4490598323": {
    "id": "LinkedIn:4490598323",
@@ -8278,7 +8278,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4489627663": {
    "id": "LinkedIn:4489627663",
@@ -8313,7 +8313,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4485869437": {
    "id": "LinkedIn:4485869437",
@@ -8403,7 +8403,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:1155905889476018176": {
    "id": "Jobrapido:1155905889476018176",
@@ -8455,7 +8455,7 @@
    "trovato_il": "2026-11-14T17:25:24",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Jobrapido:2414046808570331136": {
    "id": "Jobrapido:2414046808570331136",
@@ -8527,7 +8527,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:2817118975219990528": {
    "id": "Jobrapido:2817118975219990528",
@@ -8581,7 +8581,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:1043492633474760704": {
    "id": "Jobrapido:1043492633474760704",
@@ -8671,7 +8671,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:629360529927511540": {
    "id": "Talent.com:629360529927511540",
@@ -8741,7 +8741,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5957409653": {
    "id": "Adzuna:5957409653",
@@ -8794,7 +8794,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5953149033": {
    "id": "Adzuna:5953149033",
@@ -8811,7 +8811,7 @@
    "trovato_il": "2026-11-14T17:25:29",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5953148860": {
    "id": "Adzuna:5953148860",
@@ -8829,7 +8829,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5953147275": {
    "id": "Adzuna:5953147275",
@@ -8847,7 +8847,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Adzuna:5953146646": {
    "id": "Adzuna:5953146646",
@@ -8882,7 +8882,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4489025398": {
    "id": "LinkedIn:4489025398",
@@ -8900,7 +8900,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:360754473431203840": {
    "id": "Jobrapido:360754473431203840",
@@ -9077,7 +9077,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:533300936257306624": {
    "id": "Jobrapido:533300936257306624",
@@ -9095,7 +9095,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:2766810305295024128": {
    "id": "Jobrapido:2766810305295024128",
@@ -9363,7 +9363,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4488226425": {
    "id": "LinkedIn:4488226425",
@@ -9381,7 +9381,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4490747167": {
    "id": "LinkedIn:4490747167",
@@ -9399,7 +9399,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4487162047": {
    "id": "LinkedIn:4487162047",
@@ -9417,7 +9417,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4488953010": {
    "id": "LinkedIn:4488953010",
@@ -9435,7 +9435,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4487487942": {
    "id": "LinkedIn:4487487942",
@@ -9453,7 +9453,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4482832849": {
    "id": "LinkedIn:4482832849",
@@ -9471,7 +9471,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:6424341198290288640": {
    "id": "Jobrapido:6424341198290288640",
@@ -9488,7 +9488,7 @@
    "trovato_il": "2026-11-14T17:25:49",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:621096639312433176": {
    "id": "Talent.com:621096639312433176",
@@ -9506,7 +9506,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:629334941030751211": {
    "id": "Talent.com:629334941030751211",
@@ -9541,7 +9541,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:638350461234841832": {
    "id": "Talent.com:638350461234841832",
@@ -9558,7 +9558,7 @@
    "trovato_il": "2026-11-14T17:25:52",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:639810785825259814": {
    "id": "Talent.com:639810785825259814",
@@ -9594,7 +9594,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:644900041195849396": {
    "id": "Talent.com:644900041195849396",
@@ -9630,7 +9630,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964807922": {
    "id": "Adzuna:5964807922",
@@ -9648,7 +9648,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964805754": {
    "id": "Adzuna:5964805754",
@@ -9666,7 +9666,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964803935": {
    "id": "Adzuna:5964803935",
@@ -9684,7 +9684,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964802047": {
    "id": "Adzuna:5964802047",
@@ -9756,7 +9756,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5964046912": {
    "id": "Adzuna:5964046912",
@@ -9792,7 +9792,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:f7f910e0-897a-4faa-a067-65c3777572df": {
    "id": "Randstad:f7f910e0-897a-4faa-a067-65c3777572df",
@@ -9810,7 +9810,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Randstad:dabbc1e8-69bb-4ea6-a0f0-a7dcc04daf19": {
    "id": "Randstad:dabbc1e8-69bb-4ea6-a0f0-a7dcc04daf19",
@@ -9932,7 +9932,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4488844699": {
    "id": "LinkedIn:4488844699",
@@ -9950,7 +9950,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:4722805585181933568": {
    "id": "Jobrapido:4722805585181933568",
@@ -10128,7 +10128,7 @@
    "trovato_il": "2026-11-14T17:26:00",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:2112141531426062336": {
    "id": "Jobrapido:2112141531426062336",
@@ -10200,7 +10200,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:7246358318745124864": {
    "id": "Jobrapido:7246358318745124864",
@@ -10307,7 +10307,7 @@
    "trovato_il": "2026-11-14T17:26:03",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Talent.com:640646266695520140": {
    "id": "Talent.com:640646266695520140",
@@ -10343,7 +10343,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:640646446772257300": {
    "id": "Talent.com:640646446772257300",
@@ -10361,7 +10361,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:640646221283328806": {
    "id": "Talent.com:640646221283328806",
@@ -10378,7 +10378,7 @@
    "trovato_il": "2026-11-14T17:26:03",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:644338283919911719": {
    "id": "Talent.com:644338283919911719",
@@ -10396,7 +10396,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:627452378791749552": {
    "id": "Talent.com:627452378791749552",
@@ -10414,7 +10414,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:613107279741521571": {
    "id": "Talent.com:613107279741521571",
@@ -10432,7 +10432,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:643400290474396963": {
    "id": "Talent.com:643400290474396963",
@@ -10485,7 +10485,7 @@
    "trovato_il": "2026-11-14T17:26:03",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:643707696090710173": {
    "id": "Talent.com:643707696090710173",
@@ -10503,7 +10503,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:643277488096941946": {
    "id": "Talent.com:643277488096941946",
@@ -10539,7 +10539,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:645843367496194368": {
    "id": "Talent.com:645843367496194368",
@@ -10575,7 +10575,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Talent.com:594442310649848182": {
    "id": "Talent.com:594442310649848182",
@@ -10611,7 +10611,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Adzuna:5944147371": {
    "id": "Adzuna:5944147371",
@@ -10664,7 +10664,7 @@
    "trovato_il": "2026-11-14T17:26:10",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4431945414": {
    "id": "LinkedIn:4431945414",
@@ -10682,7 +10682,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4488943711": {
    "id": "LinkedIn:4488943711",
@@ -10699,7 +10699,7 @@
    "trovato_il": "2026-11-14T17:26:10",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4488360860": {
    "id": "LinkedIn:4488360860",
@@ -10717,7 +10717,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4480059315": {
    "id": "LinkedIn:4480059315",
@@ -10735,7 +10735,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4489572972": {
    "id": "LinkedIn:4489572972",
@@ -10752,7 +10752,7 @@
    "trovato_il": "2026-11-14T17:26:10",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4487469278": {
    "id": "LinkedIn:4487469278",
@@ -10769,7 +10769,7 @@
    "trovato_il": "2026-11-14T17:26:10",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "LinkedIn:4487804116": {
    "id": "LinkedIn:4487804116",
@@ -10786,7 +10786,7 @@
    "trovato_il": "2026-11-14T17:26:10",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4480444992": {
    "id": "LinkedIn:4480444992",
@@ -10803,7 +10803,7 @@
    "trovato_il": "2026-11-14T17:26:10",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:4348816463159623680": {
    "id": "Jobrapido:4348816463159623680",
@@ -10820,7 +10820,7 @@
    "trovato_il": "2026-11-14T17:26:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:3755185737276850176": {
    "id": "Jobrapido:3755185737276850176",
@@ -10890,7 +10890,7 @@
    "trovato_il": "2026-11-14T17:26:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:9192776649416900608": {
    "id": "Jobrapido:9192776649416900608",
@@ -10924,7 +10924,7 @@
    "trovato_il": "2026-11-14T17:26:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:1906207401590128640": {
    "id": "Jobrapido:1906207401590128640",
@@ -10941,7 +10941,7 @@
    "trovato_il": "2026-11-14T17:26:11",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:6404274423888609280": {
    "id": "Jobrapido:6404274423888609280",
@@ -10958,7 +10958,7 @@
    "trovato_il": "2026-11-14T17:26:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:7624896845147275264": {
    "id": "Jobrapido:7624896845147275264",
@@ -10976,7 +10976,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:2318602464770654208": {
    "id": "Jobrapido:2318602464770654208",
@@ -10994,7 +10994,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:628544209905790216": {
    "id": "Talent.com:628544209905790216",
@@ -11011,7 +11011,7 @@
    "trovato_il": "2026-11-14T17:26:13",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:534434452052969446": {
    "id": "Talent.com:534434452052969446",
@@ -11046,7 +11046,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:641708837279826726": {
    "id": "Talent.com:641708837279826726",
@@ -11082,7 +11082,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:643464415749803299": {
    "id": "Talent.com:643464415749803299",
@@ -11152,7 +11152,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5930856597": {
    "id": "Adzuna:5930856597",
@@ -11170,7 +11170,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5919239832": {
    "id": "Adzuna:5919239832",
@@ -11188,7 +11188,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5919239764": {
    "id": "Adzuna:5919239764",
@@ -11206,7 +11206,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Adzuna:5919239754": {
    "id": "Adzuna:5919239754",
@@ -11223,7 +11223,7 @@
    "trovato_il": "2026-11-14T17:26:16",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5919239794": {
    "id": "Adzuna:5919239794",
@@ -11241,7 +11241,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5919239808": {
    "id": "Adzuna:5919239808",
@@ -11259,7 +11259,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5919239597": {
    "id": "Adzuna:5919239597",
@@ -11277,7 +11277,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Adzuna:5919239499": {
    "id": "Adzuna:5919239499",
@@ -11295,7 +11295,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:66d4a772-2c9e-4f07-9c9a-af55a5df1f5b": {
    "id": "Randstad:66d4a772-2c9e-4f07-9c9a-af55a5df1f5b",
@@ -11313,7 +11313,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Randstad:5a3ad65b-19bd-4bc8-ab14-f5b0b8966e38": {
    "id": "Randstad:5a3ad65b-19bd-4bc8-ab14-f5b0b8966e38",
@@ -11331,7 +11331,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Randstad:4c531b13-7180-408f-bf63-719887260263": {
    "id": "Randstad:4c531b13-7180-408f-bf63-719887260263",
@@ -11366,7 +11366,7 @@
    "trovato_il": "2026-11-14T17:31:45",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Jobrapido:3914565582720073728": {
@@ -11402,7 +11402,7 @@
    "trovato_il": "2026-11-14T17:34:15",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Talent.com:629334923247295691": {
@@ -11420,7 +11420,7 @@
    "trovato_il": "2026-11-14T17:34:36",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:567593235451483242": {
    "id": "Talent.com:567593235451483242",
@@ -11472,7 +11472,7 @@
    "trovato_il": "2026-11-14T17:34:53",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Jobrapido:7399258367429967872": {
@@ -11508,7 +11508,7 @@
    "trovato_il": "2026-11-14T17:34:53",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Jobrapido:8674622861295484928": {
@@ -11561,7 +11561,7 @@
    "trovato_il": "2026-11-14T17:35:10",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Talent.com:640646246704939947": {
@@ -11579,7 +11579,7 @@
    "trovato_il": "2026-11-14T17:35:10",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Talent.com:631226638480443730": {
@@ -11597,7 +11597,7 @@
    "trovato_il": "2026-11-14T17:35:10",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Talent.com:645454325098946568": {
@@ -11615,7 +11615,7 @@
    "trovato_il": "2026-11-14T17:35:34",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "LinkedIn:4446854800": {
    "id": "LinkedIn:4446854800",
@@ -11632,7 +11632,7 @@
    "trovato_il": "2026-11-14T17:35:50",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Talent.com:607321796383544785": {
@@ -11650,7 +11650,7 @@
    "trovato_il": "2026-11-14T17:36:06",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "richiede auto",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Talent.com:596031174161074842": {
@@ -11668,7 +11668,7 @@
    "trovato_il": "2026-11-14T17:36:06",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Talent.com:628298672764814337": {
@@ -11686,7 +11686,7 @@
    "trovato_il": "2026-11-14T17:36:06",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Talent.com:628156996434078984": {
@@ -11704,7 +11704,7 @@
    "trovato_il": "2026-11-14T17:36:19",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "requisiti mancanti",
    "nascosto": true
   },
   "Jobrapido:1270275127270965248": {
@@ -11740,7 +11740,7 @@
    "trovato_il": "2026-11-14T17:36:30",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:592040836675152046": {
    "id": "Talent.com:592040836675152046",
@@ -11757,7 +11757,7 @@
    "trovato_il": "2026-11-14T17:36:30",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Talent.com:640743865901712166": {
@@ -11810,7 +11810,7 @@
    "trovato_il": "2026-11-14T16:40:32",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Jobrapido:1124721193870426112": {
@@ -11864,7 +11864,7 @@
    "trovato_il": "2026-11-14T16:43:08",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "settore non adatto",
    "nascosto": true
   },
   "Jobrapido:8164381021408591872": {
@@ -11882,7 +11882,7 @@
    "trovato_il": "2026-11-14T16:43:27",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:1881703444935344128": {
    "id": "Jobrapido:1881703444935344128",
@@ -11899,7 +11899,7 @@
    "trovato_il": "2026-11-14T16:43:27",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:644801523534408487": {
    "id": "Talent.com:644801523534408487",
@@ -11916,7 +11916,7 @@
    "trovato_il": "2026-11-14T16:43:37",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Talent.com:641370936474796971": {
    "id": "Talent.com:641370936474796971",
@@ -11933,7 +11933,7 @@
    "trovato_il": "2026-11-14T16:43:47",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:7596523432196440064": {
    "id": "Jobrapido:7596523432196440064",
@@ -11950,7 +11950,7 @@
    "trovato_il": "2026-11-14T16:43:53",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Talent.com:588887940377609798": {
@@ -11968,7 +11968,7 @@
    "trovato_il": "2026-11-14T16:44:49",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "requisiti mancanti"
   },
   "Talent.com:630575313800527952": {
    "id": "Talent.com:630575313800527952",
@@ -11985,7 +11985,7 @@
    "trovato_il": "2026-11-14T16:45:33",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:6857176320070123520": {
    "id": "Jobrapido:6857176320070123520",
@@ -12019,7 +12019,7 @@
    "trovato_il": "2026-11-14T17:51:25",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:609921709708935168": {
    "id": "Jobrapido:609921709708935168",
@@ -12036,7 +12036,7 @@
    "trovato_il": "2026-11-14T17:51:32",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori dal tuo campo"
   },
   "Jobrapido:8945583792425271296": {
    "id": "Jobrapido:8945583792425271296",
@@ -12087,7 +12087,7 @@
    "trovato_il": "2026-11-14T17:52:08",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Talent.com:631039716613687598": {
    "id": "Talent.com:631039716613687598",
@@ -12104,7 +12104,7 @@
    "trovato_il": "2026-11-14T17:52:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "settore non adatto"
   },
   "Jobrapido:8745764871385120768": {
    "id": "Jobrapido:8745764871385120768",
@@ -12121,7 +12121,7 @@
    "trovato_il": "2026-11-14T17:52:39",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori dal tuo campo",
    "nascosto": true
   },
   "Talent.com:641375523255091732": {
@@ -12139,7 +12139,7 @@
    "trovato_il": "2026-11-14T17:52:53",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "settore non adatto",
    "nascosto": true
   },
   "Talent.com:644338306214931239": {
@@ -12157,7 +12157,60 @@
    "trovato_il": "2026-11-14T17:53:04",
    "doppione": false,
    "senza_esperienza": true,
+   "escluso": "settore non adatto"
+  },
+  "Jobrapido:4501547424350732288": {
+   "id": "Jobrapido:4501547424350732288",
+   "fonte": "Jobrapido",
+   "titolo": "Elevated Sommelier: Wine, Sake & Champagne",
+   "azienda": "Major Food Brand",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/4501547424350732288/?w=cameriere&l=beinasco&oc=sponsored&k=web.1.1.18&uuid=itF001a1dafc9783307c&page_item_id=-885010955",
+   "descrizione": "",
+   "data": "06 nov",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "elevated sommelier wine sake champagne|majorfoodbra|Torino",
+   "trovato_il": "2026-11-14T17:55:49",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "fuori dal tuo campo",
+   "nascosto": true
+  },
+  "Jobrapido:8626035167586156544": {
+   "id": "Jobrapido:8626035167586156544",
+   "fonte": "Jobrapido",
+   "titolo": "Customer Service - Tirocinio (JN -112026-797319)",
+   "azienda": "Adecco Italia",
+   "luogo": "Torino",
+   "url": "https://open.app.jobrapido.com/it/8626035167586156544/?w=tirocinio&l=piossasco&oc=sponsored&k=web.1.1.17&uuid=itF001a1dafe9f463d7b&page_item_id=1877551655",
+   "descrizione": "",
+   "data": "12 nov",
+   "comune": "Torino",
+   "lavoro": "Stage / Tirocinio",
+   "impronta": "customer service tirocinio jn 112026 797319|adecco|Torino",
+   "trovato_il": "2026-11-14T17:58:02",
+   "doppione": false,
+   "senza_esperienza": true,
    "escluso": ""
+  },
+  "Talent.com:631220972784582736": {
+   "id": "Talent.com:631220972784582736",
+   "fonte": "Talent.com",
+   "titolo": "Tecnico Teleriscaldamento",
+   "azienda": "Synergie Italia S.p.a.",
+   "luogo": "Beinasco, Italy",
+   "url": "https://it.talent.com/view?id=631220972784582736",
+   "descrizione": "Descrizione dell’offerta di lavoro Synergie Italia seleziona per IREN ENERGIA, Società del Gruppo Iren attiva nella produzione di energia elettrica, nella produzione e distribuzione di energia termica per il teleriscaldamento e nei servizi tecnologici UNA/UN ASSITENTE LAVORI RETE per attività di costruzione, rinnovo e allaccio della rete e delle sottostazioni del teleriscaldamento della città di Torino. La figura si occuperà delle seguenti attività: -verifica dell’avanzamento e sviluppo di cantieri di costruzione, rinnovo e allaccio di reti e sottostazioni del teleriscaldamento -programmazione, gestione e coordinamento operativo dei cantieri (programmazione e monitoraggio dei lavori di posa della rete e costruzione e conduzione delle sottostazioni del teleriscaldamento, assistenza nelle fasi di collaudo degli impianti, verifica delle anomalie delle sottostazioni e gestione dei guasti e degli interventi di manutenzione, organizzazione di incontri e sopralluoghi con le ditte appaltatrici, esecuzione di rilievi idraulici funzionali degli impianti esistenti presso le centrali termiche dei clienti) e assistenza alla Direzione Lavori -verifica di massima dei progetti esecutivi degli appaltatori in accordo alla specifica tecnica, verifica del rispetto dei termini contrattuali, costruzione e utilizzo del sistema cartografico delle reti e del sistema di telegestione delle sottostazioni -gestione della documentazione e delle pratiche amministrative e contabili relative ai lavori, supervisione delle pratiche di richiesta di manomissione del suolo pubblico, delle notifiche preliminari e gestione delle pratiche con Enti terzi, emissione di ordini di lavoro -Diploma a indirizzo tecnico (preferibile geometra, termotecnico) -Precedente esperienza di lavoro maturata presso cantieri di realizzazione e manutenzione di impianti termici e di condizionamento in ambito civile e industriale -Conoscenze in materia di qualità, ambiente e sicurezza -Conoscenza di Autocad e dei principali applicativi del Pacchetto Office -Abilitazione alla conduzione di impianti termici -Patente di guida di categoria B -Disponibilità all’esecuzione di turnazioni di reperibilità settimanale Costituirà requisito preferenziale la conoscenza di sistemi di modellazione CAD 2D -Contratto a tempo indeterminato -CCNL Gas Acqua -Retribuzione annua lorda compresa tra 35.000 e 38.500 euro -Premio di risultato in base agli obiettivi aziendali -Buoni pasto o mensa aziendale -Welfare aziendale SEDE DI LAVORO: TORINO L'offerta è rivolta a candidatə nel rispetto del Dlgs 198/2006 e dei Dlgs 215/2003 e 216/2003 e della PdR 125/2022. Le persone interessate sono invitate a leggere l' informativa privacy ex artt. 13 e 14 del Reg. UE 2016/679. Aut. Min. Prot. N. 1207 – SG del 16/12/2004",
+   "data": "2026-08-04T13:40:09Z",
+   "comune": "Beinasco",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "tecnico teleriscaldamento|synergie|Beinasco",
+   "trovato_il": "2026-11-14T17:58:53",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "fuori dal tuo campo",
+   "nascosto": true
   }
  },
  "impronte": [
@@ -12352,6 +12405,7 @@
   "culture politics and intellectuals in the twentieth century|italianminis|Torino",
   "cuoco|eataly|Torino",
   "customer service settore spedizioni tirocinio under 30|axl|Torino",
+  "customer service tirocinio jn 112026 797319|adecco|Torino",
   "customer success manager web marketing d|zeppelin|Torino",
   "customer success manager website d|zeppelin|Torino",
   "cyber and infrastructure security audit stage extra curriculare|intesasanpao|Torino",
@@ -12402,6 +12456,7 @@
   "electrical systems design engineer|avlinitaly|Torino",
   "elettricista civile junior|adecco|Torino",
   "elettricista junior|generazionev|Torino",
+  "elevated sommelier wine sake champagne|majorfoodbra|Torino",
   "end of line manager eol manager||Torino",
   "end to end videomaker shoot edit tell stories|palcomm|Torino",
   "engineer i senior technician i technical customer care|schneiderele|Torino",
@@ -12756,6 +12811,7 @@
   "tecnico iphone in presidio cliente supporto it ios|adecco|Torino",
   "tecnico operaio rivoli torino|gi|Torino",
   "tecnico tecnica gestione progetti nord ovest|italgas|Torino",
+  "tecnico teleriscaldamento|synergie|Beinasco",
   "tecnico teleriscaldamento|synergie|Torino",
   "tecnico trasfertista|etjcaagenzia|Torino",
   "tecnico|safety40|Torino",
@@ -12798,5 +12854,5 @@
   "watch content creator social video editing|iwsitalianwa|Torino"
  ],
  "primo_avvio_fatto": true,
- "ultimo_controllo": "2026-11-14T17:54:11"
+ "ultimo_controllo": "2026-11-14T18:00:06"
 }
