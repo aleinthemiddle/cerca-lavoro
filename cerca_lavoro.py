@@ -213,11 +213,21 @@ def fonte_jobrapido(parola, comune):
         link = sr.get("openAdvertUrl", "")
         if not titolo:
             continue
+        luogo = sr.get("location", "") or ", ".join(sr.get("locations") or [])
         risultati.append(nuovo_annuncio(
-            "Jobrapido", id_, titolo, sr.get("company", ""),
-            sr.get("location", "") or ", ".join(sr.get("locations") or []),
-            link, sr.get("bodyHighlighted") or "", sr.get("date") or ""))
+            "Jobrapido", id_, titolo, sr.get("company", ""), luogo,
+            link_jobrapido(titolo, luogo or comune), sr.get("bodyHighlighted") or "",
+            sr.get("date") or ""))
     return risultati
+
+
+def link_jobrapido(titolo, luogo):
+    # Il link diretto (open.app.jobrapido.com) vale solo dentro la ricerca da cui
+    # è uscito: aperto dopo dice sempre "annuncio non disponibile". Rimando quindi
+    # alla ricerca di Jobrapido con titolo e comune: l'annuncio è in cima alla lista.
+    citta = re.split(r"[,(]", luogo or "Torino")[0].strip() or "Torino"
+    return (f"https://it.jobrapido.com/?w={quote_plus(titolo[:90])}"
+            f"&l={quote_plus(citta)}&r=auto&shm=all")
 
 
 def fonte_randstad(parola, comune):
@@ -755,6 +765,8 @@ def controlla(cfg, notifica=True):
             log.warning("Dettaglio non letto per %s: %s", a["url"], e)
 
     for a in dati["annunci"].values():
+        if a["fonte"] == "Jobrapido" and "open.app.jobrapido" in a["url"]:
+            a["url"] = link_jobrapido(a["titolo"], a["luogo"])  # vecchi link che non funzionano
         a["senza_esperienza"] = filtri.senza_esperienza(a)
         comune = filtri.comune(a)  # ricalcolato ogni volta: le regole sul luogo possono cambiare
         if comune:
