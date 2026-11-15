@@ -272,9 +272,19 @@ FONTI = [fonte_linkedin, fonte_jobrapido, fonte_talent, fonte_adzuna, fonte_rand
 DETTAGLI = {"LinkedIn": dettaglio_linkedin, "Talent.com": dettaglio_talent, "Adzuna": dettaglio_adzuna}
 MAX_DETTAGLI = {"LinkedIn": 10, "Talent.com": 25, "Adzuna": 25}  # per ciclo, per non essere bloccati
 FONTI_BLOCCATE_NEL_CLOUD = {fonte_adzuna}  # Adzuna rifiuta i server di GitHub (HTTP 405)
+# Talent.com, se cerchi un paese piccolo, gli assegna anche annunci di altri paesi
+FONTI_SOLO_TORINO = {fonte_talent}
 
 
 # ----------------------------------------------------------------------------- filtri
+
+# sigle di provincia italiane diverse da TO, scritte tra parentesi nel titolo
+PROVINCIA_DIVERSA = re.compile(
+    r"\((ag|al|an|ao|ap|aq|ar|at|av|ba|bg|bi|bl|bn|bo|br|bs|bt|bz|ca|cb|ce|ch|cl|cn|co|cr|cs|ct|cz|en|fc|fe|fg|"
+    r"fi|fm|fr|ge|go|gr|im|is|kr|lc|le|li|lo|lt|lu|mb|mc|me|mi|mn|mo|ms|mt|na|no|nu|or|pa|pc|pd|pe|pg|pi|pn|po|"
+    r"pr|pu|pv|pz|ra|rc|re|rg|ri|rm|rn|ro|sa|si|so|sp|sr|ss|su|sv|ta|te|tn|tp|tr|ts|tv|ud|va|vb|vc|ve|vi|vr|"
+    r"vt|vv)\)")
+ANNUNCIO_ESTERO = re.compile(r"m ?/ ?w ?/ ?d|gastgeber|gaste|karriere|mitarbeiter|\bund\b|stelle\b|\bschweiz|\bsuisse")
 
 class Filtri:
     def __init__(self, cfg):
@@ -291,6 +301,8 @@ class Filtri:
         self.senza_filtri_profilo = {n for n, d in cfg["lavori"].items() if d.get("salta_filtri_profilo")}
         self.escludi = [normalizza(x) for x in cfg.get("escludi_se_titolo_contiene", [])]
         self.senza_esp = re.compile("|".join(normalizza(f) for f in cfg["frasi_senza_esperienza"]))
+        altri = [normalizza(x) for x in cfg.get("altri_comuni_e_centri", [])]
+        self.altri = re.compile(r"\b(" + "|".join(altri) + r")\b") if altri else None
         sp = cfg.get("spostamenti", {})
         self.auto = self._rx(sp.get("escludi_se_richiede_auto"))
         self.serale = self._rx(sp.get("orari_serali_notturni"))
@@ -304,14 +316,55 @@ class Filtri:
         self.requisiti = self._rx(cfg.get("requisiti_mancanti"))
         self.con_settori = {n for n, d in cfg["lavori"].items() if d.get("escludi_settori_non_adatti")}
 
-    def comune(self, a):
-        luogo = normalizza(a["luogo"])
-        testo = luogo or normalizza(a["titolo"] + " " + a["descrizione"])
+    def _nostro(self, testo):
         testo = re.sub(r"\brivalta di torino\b", "rivalta", testo)  # comune a sé, non Torino città
         for nome, rx in self.comuni.items():
             if rx.search(testo):
                 return nome
         return None
+
+    def _altro_comune(self, testo):
+        """True se il testo indica un comune che NON è tra i nostri."""
+        if self.altri and self.altri.search(testo):
+            return True
+        for m in re.finditer(r"([a-z']+(?: [a-z']+)?) \((?:to|torino)\)", testo):  # es. "pinerolo (to)"
+            if not self._nostro(m.group(1)):
+                return True
+        if PROVINCIA_DIVERSA.search(testo):  # es. "carlentini (sr)"
+            return True
+        if ANNUNCIO_ESTERO.search(testo):    # annunci tedeschi finiti tra quelli italiani
+            return True
+        return False
+
+    def comune(self, a):
+        """Il comune vero dell'annuncio, solo se è uno dei nostri; altrimenti None."""
+        luogo = normalizza(a["luogo"])
+        titolo = normalizza(a["titolo"])
+
+        # Talent.com etichetta con il paese cercato anche annunci di altri paesi
+        if a.get("fonte") == "Talent.com" and re.fullmatch(
+                r"(orbassano|beinasco|piossasco|rivalta|rivalta di torino), (italy|italia)", luogo):
+            return None
+
+        # 1) titolo o "sede di lavoro" che nominano un altro paese o centro commerciale
+        da_controllare = [titolo]
+        sede = re.search(r"(?:sede|luogo|zona) di lavoro\s*:?\s*([a-z' ]{3,30})", normalizza(a["descrizione"]))
+        if sede:
+            da_controllare.append(sede.group(1))
+        if any(self._altro_comune(t) for t in da_controllare):
+            return None
+
+        # 2) località: conta il primo pezzo che indica una città
+        #    ("Collegno, Torino, Italy" è Collegno, non Torino)
+        for pezzo in re.split(r"[,;/|]", luogo):
+            citta = re.sub(r"\(.*?\)", " ", pezzo).strip()
+            if not citta or re.search(r"citta metropolitana|metropolitan|provinc|area metropolitana|"
+                                      r"^(piemonte|piedmont|piemont|italia|italy|it|to)$", citta):
+                continue
+            return self._nostro(citta)
+
+        # 3) località assente o generica ("Città metropolitana di Torino"): decide il titolo
+        return self._nostro(titolo)
 
     def lavoro(self, a):
         titolo = normalizza(a["titolo"])
@@ -613,6 +666,8 @@ def controlla(cfg, notifica=True):
                 for fonte in FONTI:
                     if NEL_CLOUD and fonte in FONTI_BLOCCATE_NEL_CLOUD:
                         continue
+                    if fonte in FONTI_SOLO_TORINO and comune != "Torino":
+                        continue
                     try:
                         trovati = fonte(parola, comune)
                     except Exception as e:  # un portale che cambia layout non deve fermare gli altri
@@ -656,7 +711,12 @@ def controlla(cfg, notifica=True):
 
     for a in dati["annunci"].values():
         a["senza_esperienza"] = filtri.senza_esperienza(a)
-        a["escluso"] = filtri.motivo_esclusione(a)
+        comune = filtri.comune(a)  # ricalcolato ogni volta: le regole sul luogo possono cambiare
+        if comune:
+            a["comune"] = comune
+            a["escluso"] = filtri.motivo_esclusione(a)
+        else:
+            a["escluso"] = "fuori zona"
 
     # categorie in cui interessano solo gli annunci senza esperienza
     for a in nuovi:

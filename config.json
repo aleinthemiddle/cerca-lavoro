@@ -458,6 +458,21 @@
   "escludi_se_titolo_contiene": [
     "ai piani"
   ],
+  "_nota_altri_comuni": "Se il titolo (o la 'sede di lavoro') nomina uno di questi paesi o centri commerciali, l'annuncio è fuori zona anche se la località dice Torino.",
+  "altri_comuni_e_centri": [
+    "pinerolo", "bardonecchia", "settimo", "nichelino", "grugliasco", "collegno", "rivoli", "moncalieri", "venaria",
+    "chieri", "caselle", "leini", "borgaro", "san mauro", "chivasso", "ivrea", "carmagnola", "vinovo", "candiolo",
+    "volvera", "bruino", "sangano", "trana", "giaveno", "avigliana", "alpignano", "pianezza", "druento", "rivarolo",
+    "cirie", "cuorgne", "susa", "bussoleno", "castagnole", "airasca", "cumiana", "frossasco", "villastellone",
+    "santena", "trofarello", "cambiano", "la loggia", "carignano", "poirino", "gassino", "volpiano", "mappano",
+    "robassomero", "lanzo", "sestriere", "oulx", "san sicario", "sauze", "cesana", "claviere", "pragelato",
+    "pino torinese", "baldissero", "pecetto", "rosta", "buttigliera", "reano", "villarbasse", "almese", "vigone",
+    "pancalieri", "osasco", "bricherasio", "luserna", "torre pellice",
+    "biella", "asti", "cuneo", "novara", "vercelli", "alessandria", "aosta", "milano", "genova", "\\bbra\\b",
+    "\\balba\\b", "savigliano", "fossano", "saluzzo", "mondovi",
+    "le gru", "shopville", "45 ?nord", "45° ?nord", "mondojuve", "i viali", "i portali", "gli orsi",
+    "caselle center", "urban center", "outlet village", "torino outlet", "cpi di (?!torino|orbassano)"
+  ],
   "escludi_se_testo_contiene": [
     "network marketing",
     "multi ?level",

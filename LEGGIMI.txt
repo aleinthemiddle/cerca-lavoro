@@ -5,7 +5,11 @@ COSA FA
 - Ogni 10 minuti controlla: LinkedIn, Jobrapido (che raccoglie anche Indeed,
   Subito, agenzie, ecc.), Talent.com e Randstad. (Adzuna solo dalla versione
   sul PC: blocca i server di GitHub.)
-- Comuni: Torino, Orbassano, Beinasco, Piossasco, Rivalta.
+- Comuni: Torino, Orbassano, Beinasco, Piossasco, Rivalta. Controllo stretto:
+  "Collegno, Torino" è Collegno; se il titolo nomina un altro paese
+  ("PINEROLO (TO)"), un centro commerciale fuori zona (Le Gru, 45 Nord,
+  Mondojuve...) o un'altra provincia ("(SR)", "(MI)") l'annuncio è scartato.
+  Elenco modificabile: "altri_comuni_e_centri" in config.json.
 - Cerca: lavapiatti, cameriere, barista, scaffalista, volantinaggio,
   addetto vendite GameLife, fast food (McDonald's, Burger King, KFC...),
   cinema (The Space, UCI...), negozi e supermercati (Esselunga, Carrefour,
