@@ -10,6 +10,9 @@ COSA FA
   ("PINEROLO (TO)"), un centro commerciale fuori zona (Le Gru, 45 Nord,
   Mondojuve...) o un'altra provincia ("(SR)", "(MI)") l'annuncio è scartato.
   Elenco modificabile: "altri_comuni_e_centri" in config.json.
+- Annunci Jobrapido non più disponibili: spariscono dalla pagina quando non
+  compaiono più nelle ricerche di Jobrapido da 3 giorni, o se sono stati
+  pubblicati più di 30 giorni fa.
 - Cerca: lavapiatti, cameriere, barista, scaffalista, volantinaggio,
   addetto vendite GameLife, fast food (McDonald's, Burger King, KFC...),
   cinema (The Space, UCI...), negozi e supermercati (Esselunga, Carrefour,

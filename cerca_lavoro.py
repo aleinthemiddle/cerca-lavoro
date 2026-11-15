@@ -647,6 +647,45 @@ def candidature_automatiche(cfg, dati, nuovi):
         time.sleep(5)
 
 
+# ----------------------------------------------------------------------------- annunci scaduti
+
+# Jobrapido non dice se un annuncio è chiuso (la pagina dell'annuncio è protetta
+# contro i programmi e risponde sempre "non più disponibile"). Si capisce così:
+# - un annuncio tolto smette di comparire nelle ricerche;
+# - gli annunci pubblicati da più di un mese sono quasi sempre chiusi.
+GIORNI_SENZA_VEDERLO = 3
+GIORNI_MASSIMI_JOBRAPIDO = 30
+MESI = {m: i for i, m in enumerate(
+    ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"], 1)}
+
+
+def data_pubblicazione(testo):
+    """'08 nov' -> data (l'anno è quello più recente che non sta nel futuro)."""
+    m = re.fullmatch(r"\s*(\d{1,2}) ([a-z]{3})\w*\s*", normalizza(testo or ""))
+    if not m or m.group(2) not in MESI:
+        return None
+    oggi = datetime.now().date()
+    try:
+        d = oggi.replace(month=MESI[m.group(2)], day=int(m.group(1)))
+    except ValueError:
+        return None
+    if d > oggi + timedelta(days=1):
+        d = d.replace(year=d.year - 1)
+    return d
+
+
+def non_piu_disponibile(a, jobrapido_letto):
+    if a.get("fonte") != "Jobrapido":
+        return False
+    pubblicato = data_pubblicazione(a.get("data"))
+    if pubblicato and (datetime.now().date() - pubblicato).days > GIORNI_MASSIMI_JOBRAPIDO:
+        return True
+    if not jobrapido_letto:  # Jobrapido non ha risposto in questo giro: non posso dirlo
+        return bool(a.get("scaduto"))
+    visto = datetime.fromisoformat(a.get("visto_il") or a["trovato_il"])
+    return datetime.now() - visto > timedelta(days=GIORNI_SENZA_VEDERLO)
+
+
 # ----------------------------------------------------------------------------- controllo
 
 def controlla(cfg, notifica=True):
@@ -656,6 +695,8 @@ def controlla(cfg, notifica=True):
     impronte = set(dati.get("impronte", []))
     nuovi = []
     errori_fonti = 0
+    jobrapido_letto = False
+    adesso = datetime.now().isoformat(timespec="seconds")
 
     for nome_lavoro, lavoro in cfg["lavori"].items():
         # per le categorie generiche basta cercare su Torino: il filtro sul luogo
@@ -674,9 +715,13 @@ def controlla(cfg, notifica=True):
                         errori_fonti += 1
                         log.exception("Errore in %s (%s, %s): %s", fonte.__name__, parola, comune, e)
                         continue
+                    if fonte is fonte_jobrapido and trovati:
+                        jobrapido_letto = True
                     for a in trovati:
                         if a["id"] in dati["annunci"]:
+                            dati["annunci"][a["id"]]["visto_il"] = adesso
                             continue
+                        a["visto_il"] = adesso
                         a["comune"] = filtri.comune(a)
                         a["lavoro"] = filtri.lavoro(a)
                         if not a["comune"] or not a["lavoro"]:
@@ -717,6 +762,9 @@ def controlla(cfg, notifica=True):
             a["escluso"] = filtri.motivo_esclusione(a)
         else:
             a["escluso"] = "fuori zona"
+        a["scaduto"] = non_piu_disponibile(a, jobrapido_letto)
+        if a["scaduto"] and not a["escluso"]:
+            a["escluso"] = "non più disponibile"
 
     # categorie in cui interessano solo gli annunci senza esperienza
     for a in nuovi:
