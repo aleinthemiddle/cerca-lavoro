@@ -781,7 +781,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "LinkedIn:4488394593": {
    "id": "LinkedIn:4488394593",
@@ -1211,7 +1211,7 @@
    "trovato_il": "2026-11-14T17:20:45",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:619903003953798242": {
    "id": "Talent.com:619903003953798242",
@@ -1579,7 +1579,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "offerta dubbia"
+   "escluso": "fuori zona"
   },
   "LinkedIn:4490346682": {
    "id": "LinkedIn:4490346682",
@@ -1864,7 +1864,7 @@
    "trovato_il": "2026-11-14T17:21:24",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Adzuna:5965179376": {
    "id": "Adzuna:5965179376",
@@ -1990,7 +1990,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Adzuna:5957771502": {
    "id": "Adzuna:5957771502",
@@ -2007,7 +2007,7 @@
    "trovato_il": "2026-11-14T17:21:27",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:5276151991729389568": {
    "id": "Jobrapido:5276151991729389568",
@@ -2331,7 +2331,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "LinkedIn:4487405866": {
    "id": "LinkedIn:4487405866",
@@ -2902,7 +2902,7 @@
    "trovato_il": "2026-11-14T17:22:34",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:6907913971328614400": {
    "id": "Jobrapido:6907913971328614400",
@@ -2987,7 +2987,7 @@
    "trovato_il": "2026-11-14T17:22:39",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Adzuna:5925380054": {
    "id": "Adzuna:5925380054",
@@ -3004,7 +3004,7 @@
    "trovato_il": "2026-11-14T17:22:39",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Adzuna:5925380040": {
    "id": "Adzuna:5925380040",
@@ -3021,7 +3021,7 @@
    "trovato_il": "2026-11-14T17:22:39",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Adzuna:5925380030": {
    "id": "Adzuna:5925380030",
@@ -3038,7 +3038,7 @@
    "trovato_il": "2026-11-14T17:22:39",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Adzuna:5921659048": {
    "id": "Adzuna:5921659048",
@@ -3072,7 +3072,7 @@
    "trovato_il": "2026-11-14T17:22:39",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "LinkedIn:4469496735": {
    "id": "LinkedIn:4469496735",
@@ -3555,7 +3555,7 @@
    "trovato_il": "2026-11-14T17:23:14",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:642670059516929553": {
    "id": "Talent.com:642670059516929553",
@@ -3589,7 +3589,7 @@
    "trovato_il": "2026-11-14T17:23:14",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:641372784367371046": {
    "id": "Talent.com:641372784367371046",
@@ -3998,7 +3998,7 @@
    "trovato_il": "2026-11-14T17:23:22",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "Talent.com:642551548139480165": {
    "id": "Talent.com:642551548139480165",
@@ -4015,7 +4015,7 @@
    "trovato_il": "2026-11-14T17:23:22",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Talent.com:636486589463069968": {
    "id": "Talent.com:636486589463069968",
@@ -4101,7 +4101,7 @@
    "trovato_il": "2026-11-14T17:23:30",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Talent.com:640646283143807915": {
    "id": "Talent.com:640646283143807915",
@@ -4135,7 +4135,7 @@
    "trovato_il": "2026-11-14T17:23:39",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "LinkedIn:4481363865": {
    "id": "LinkedIn:4481363865",
@@ -4502,7 +4502,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "Talent.com:640646274219639590": {
    "id": "Talent.com:640646274219639590",
@@ -4519,7 +4519,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Talent.com:619321687772175458": {
    "id": "Talent.com:619321687772175458",
@@ -4638,7 +4638,7 @@
    "trovato_il": "2026-11-14T17:23:50",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Adzuna:5957354387": {
    "id": "Adzuna:5957354387",
@@ -4778,7 +4778,7 @@
    "trovato_il": "2026-11-14T17:23:59",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Talent.com:636603598549883600": {
    "id": "Talent.com:636603598549883600",
@@ -4795,7 +4795,7 @@
    "trovato_il": "2026-11-14T17:23:59",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "Talent.com:644338297327201063": {
    "id": "Talent.com:644338297327201063",
@@ -4934,7 +4934,7 @@
    "trovato_il": "2026-11-14T17:24:17",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:587319365056275507": {
    "id": "Talent.com:587319365056275507",
@@ -4951,7 +4951,7 @@
    "trovato_il": "2026-11-14T17:24:17",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:535844893252322221": {
    "id": "Talent.com:535844893252322221",
@@ -4968,7 +4968,7 @@
    "trovato_il": "2026-11-14T17:24:17",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:645325545007744692": {
    "id": "Talent.com:645325545007744692",
@@ -4985,7 +4985,7 @@
    "trovato_il": "2026-11-14T17:24:17",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:643709517872048935": {
    "id": "Talent.com:643709517872048935",
@@ -5002,7 +5002,7 @@
    "trovato_il": "2026-11-14T17:24:17",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:636081718108758900": {
    "id": "Talent.com:636081718108758900",
@@ -5019,7 +5019,7 @@
    "trovato_il": "2026-11-14T17:24:17",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Randstad:f00cf492-2000-4568-b139-0e8659247663": {
    "id": "Randstad:f00cf492-2000-4568-b139-0e8659247663",
@@ -5360,7 +5360,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:1821176700994584576": {
    "id": "Jobrapido:1821176700994584576",
@@ -5503,7 +5503,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Adzuna:5959904107": {
    "id": "Adzuna:5959904107",
@@ -5896,7 +5896,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:645797281607255293": {
    "id": "Talent.com:645797281607255293",
@@ -5968,7 +5968,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:534434487404529638": {
    "id": "Talent.com:534434487404529638",
@@ -6390,7 +6390,7 @@
    "url": "https://it.linkedin.com/jobs/view/addetto-a-ufficio-acquisti-settore-automotive-at-adecco-4488538446",
    "descrizione": "",
    "data": "2026-11-12",
-   "comune": "Torino",
+   "comune": "Rivalta",
    "lavoro": "Altri lavori senza esperienza",
    "impronta": "addetto ufficio acquisti settore automotive|adecco|Torino",
    "trovato_il": "2026-11-14T17:24:49",
@@ -6469,7 +6469,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "LinkedIn:4489481554": {
    "id": "LinkedIn:4489481554",
@@ -6552,7 +6552,7 @@
    "url": "https://open.app.jobrapido.com/it/1455528305603117056/?w=data%20entry&l=torino&oc=sponsored&k=web.1.1.6&uuid=itF001a1dae03c4854ca&page_item_id=-816791153",
    "descrizione": "",
    "data": "11 nov",
-   "comune": "Torino",
+   "comune": "Rivalta",
    "lavoro": "Altri lavori senza esperienza",
    "impronta": "addetto alla sorveglianza art 1 l 68 99|randstadnv|Torino",
    "trovato_il": "2026-11-14T17:24:51",
@@ -6640,7 +6640,7 @@
    "url": "https://open.app.jobrapido.com/it/650653083600158720/?w=data%20entry&l=torino&oc=sponsored&k=web.1.1.12&uuid=itF001a1dae03c4854ca&page_item_id=-870620232",
    "descrizione": "",
    "data": "07 nov",
-   "comune": "Torino",
+   "comune": "Rivalta",
    "lavoro": "Altri lavori senza esperienza",
    "impronta": "impiegato ufficio import spagnolo inglese doganali|battaglio|Torino",
    "trovato_il": "2026-11-14T17:24:51",
@@ -7215,7 +7215,7 @@
    "url": "https://www.randstad.it/offerte-lavoro/addetto-alla-sorveglianza-art-1-l-6899-mfnb_rivalta-di-torino_2605ae02-32fb-4df7-916c-2832abc0c9f8/",
    "descrizione": "operational addetto alla sorveglianza art 1 l. 68/99 (m/f/nb) rivalta di torino, piemonte tempo determinato 25.000 € - 28.000 € annuale Randstad Italia, ricerca, per azienda cliente, un addetto alla sorveglianza appartenente alle categorie protette Art.1 L. 68/99Retribuzione annua: 25000€ - 28000€esperienza1 anno mostra i dettagli 9 ottobre 2026",
    "data": "",
-   "comune": "Torino",
+   "comune": "Rivalta",
    "lavoro": "Altri lavori senza esperienza",
    "impronta": "addetto alla sorveglianza art 1 l 68 99|randstad|Torino",
    "trovato_il": "2026-11-14T17:25:00",
@@ -7687,7 +7687,7 @@
    "url": "https://it.talent.com/view?id=640646218975285132",
    "descrizione": "L’Ingegnere di Produzione è responsabile delle attività di industrializzazione dei processi produttivi dell’area assegnata.Si occuperà di sviluppare il piano di produzione e/o ottimizzando quello e... Mostra di più",
    "data": "2026-10-07T22:58:55Z",
-   "comune": "Torino",
+   "comune": "Rivalta",
    "lavoro": "Altri lavori senza esperienza",
    "impronta": "junior manufacturing engineer|gi|Torino",
    "trovato_il": "2026-11-14T17:25:09",
@@ -8224,7 +8224,7 @@
    "trovato_il": "2026-11-14T17:25:20",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "requisiti mancanti"
+   "escluso": "fuori zona"
   },
   "Randstad:eb04ad55-85d3-4ee5-8246-101516f83600": {
    "id": "Randstad:eb04ad55-85d3-4ee5-8246-101516f83600",
@@ -9202,7 +9202,7 @@
    "trovato_il": "2026-11-14T17:25:41",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Adzuna:5964806974": {
    "id": "Adzuna:5964806974",
@@ -9541,7 +9541,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Talent.com:638350461234841832": {
    "id": "Talent.com:638350461234841832",
@@ -9576,7 +9576,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:641973945918359567": {
    "id": "Talent.com:641973945918359567",
@@ -9605,7 +9605,7 @@
    "url": "https://it.talent.com/view?id=644900041195849396",
    "descrizione": "Lavoropiù spA, filiale di Collegno, ricerca per azienda strutturata operante nel settore industriale, Addetto/a al Magazzino – Logistica di Produzione La risorsa si occuperà delle attività di mov... Mostra di più",
    "data": "2026-11-06T01:21:14Z",
-   "comune": "Torino",
+   "comune": "Rivalta",
    "lavoro": "Altri lavori senza esperienza",
    "impronta": "addetto al magazzino logistica di produzione|lavoropiu|Torino",
    "trovato_il": "2026-11-14T17:25:52",
@@ -9932,7 +9932,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "LinkedIn:4488844699": {
    "id": "LinkedIn:4488844699",
@@ -10022,7 +10022,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:612181996377997312": {
    "id": "Jobrapido:612181996377997312",
@@ -10236,7 +10236,7 @@
    "doppione": false,
    "senza_esperienza": false,
    "nascosto": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:3423887215787245568": {
    "id": "Jobrapido:3423887215787245568",
@@ -11117,7 +11117,7 @@
    "trovato_il": "2026-11-14T17:26:13",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "offerta dubbia"
+   "escluso": "fuori zona"
   },
   "Adzuna:5957956451": {
    "id": "Adzuna:5957956451",
@@ -11437,7 +11437,7 @@
    "trovato_il": "2026-11-14T17:34:45",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:1771516127675940864": {
    "id": "Jobrapido:1771516127675940864",
@@ -11561,7 +11561,7 @@
    "trovato_il": "2026-11-14T17:35:10",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:640646246704939947": {
@@ -11615,7 +11615,7 @@
    "trovato_il": "2026-11-14T17:35:34",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "LinkedIn:4446854800": {
    "id": "LinkedIn:4446854800",
@@ -11650,7 +11650,7 @@
    "trovato_il": "2026-11-14T17:36:06",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "richiede auto",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:596031174161074842": {
@@ -11662,7 +11662,7 @@
    "url": "https://it.talent.com/view?id=596031174161074842",
    "descrizione": "Descrizione dell’offerta di lavoro Cronoshare è una piattaforma online per professionisti che conseguire nuovi clienti. Cerchiamo a Insegnante di scuole medie a Rivalta di Torino e dintorni. Entrare a far parte delle rete di professiuonisti di Cronoshare è gratuito e riceverai nuovi clienti in base alle tua competenze, in maniera personalizzata. Requisiti: Conoscenze pregresse per sviluppare funzioni di Insegnante di scuole medie. Organizzazione, buona relazione con il cliente e gestione del tempo. Professionalità e proattività. Che offriamo: Richieste di lavori dfa parte di potenziali clienti della tua zona che hanno bisogno diInsegnante di scuole medie. Libera gestione dei propri clienti e dei profitti. Senza intermediari: Fissi tu il prezzo o la tua tariffa oraria Come funziona Cronoshare? Grazie alla nostra piattaforma di gestione clienti potrai accettare o rifiutare richieste di lavoro nella tua zona, inviando preventivi solo ai clienti che più ti interessano. Non pagherai abbonamenti o canoni mensili e non dovrai nemmeno pagare commissioni per ogni cliente che ottieni grazie a noi. Per ottenere nuovi clienti, devi solo sostenere un piccolo investimento e potrai accedere a queste richieste. Inizia a far crescere la tua attività. Se sei un libero professionista, un lavoratore autonomo, una PMI o una piccola impresa, ti aspettiamo.",
    "data": "2026-11-05T07:28:06Z",
-   "comune": "Torino",
+   "comune": "Rivalta",
    "lavoro": "Altri lavori senza esperienza",
    "impronta": "insegnante di scuole medie rivalta di torino|cronoshareit|Torino",
    "trovato_il": "2026-11-14T17:36:06",
@@ -11686,7 +11686,7 @@
    "trovato_il": "2026-11-14T17:36:06",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "settore non adatto",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:628156996434078984": {
@@ -11740,7 +11740,7 @@
    "trovato_il": "2026-11-14T17:36:30",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:592040836675152046": {
    "id": "Talent.com:592040836675152046",
@@ -11757,7 +11757,7 @@
    "trovato_il": "2026-11-14T17:36:30",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:640743865901712166": {
@@ -11775,7 +11775,7 @@
    "trovato_il": "2026-11-14T17:36:30",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": "offerta dubbia"
+   "escluso": "fuori zona"
   },
   "Jobrapido:450211564100780032": {
    "id": "Jobrapido:450211564100780032",
@@ -11846,7 +11846,7 @@
    "trovato_il": "2026-11-14T16:40:56",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Jobrapido:8246323637297086464": {
@@ -11916,7 +11916,7 @@
    "trovato_il": "2026-11-14T16:43:37",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "Talent.com:641370936474796971": {
    "id": "Talent.com:641370936474796971",
@@ -11933,7 +11933,7 @@
    "trovato_il": "2026-11-14T16:43:47",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Jobrapido:7596523432196440064": {
    "id": "Jobrapido:7596523432196440064",
@@ -11985,7 +11985,7 @@
    "trovato_il": "2026-11-14T16:45:33",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "Jobrapido:6857176320070123520": {
    "id": "Jobrapido:6857176320070123520",
@@ -12070,7 +12070,7 @@
    "trovato_il": "2026-11-14T17:51:49",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:641375572742177300": {
    "id": "Talent.com:641375572742177300",
@@ -12087,7 +12087,7 @@
    "trovato_il": "2026-11-14T17:52:08",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Talent.com:631039716613687598": {
    "id": "Talent.com:631039716613687598",
@@ -12104,7 +12104,7 @@
    "trovato_il": "2026-11-14T17:52:08",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Jobrapido:8745764871385120768": {
    "id": "Jobrapido:8745764871385120768",
@@ -12192,7 +12192,7 @@
    "trovato_il": "2026-11-14T18:03:19",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "Jobrapido:8626035167586156544": {
    "id": "Jobrapido:8626035167586156544",
@@ -12226,7 +12226,7 @@
    "trovato_il": "2026-11-14T18:04:47",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "settore non adatto",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "LinkedIn:4489680803": {
@@ -12439,7 +12439,7 @@
    "trovato_il": "2026-11-14T18:04:49",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Jobrapido:4556262146605842432": {
@@ -12760,7 +12760,7 @@
    "trovato_il": "2026-11-14T18:04:52",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "programmazione",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:643799963058973479": {
@@ -12939,7 +12939,7 @@
    "trovato_il": "2026-11-14T18:05:32",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:627463993293022537": {
@@ -12974,7 +12974,7 @@
    "trovato_il": "2026-11-14T18:25:41",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:645325581193512628": {
    "id": "Talent.com:645325581193512628",
@@ -12991,7 +12991,7 @@
    "trovato_il": "2026-11-14T18:25:41",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:635476965985683797": {
    "id": "Talent.com:635476965985683797",
@@ -13008,7 +13008,7 @@
    "trovato_il": "2026-11-14T18:25:41",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:558787519001855284": {
    "id": "Talent.com:558787519001855284",
@@ -13025,7 +13025,7 @@
    "trovato_il": "2026-11-14T18:25:41",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:640646279469335334": {
    "id": "Talent.com:640646279469335334",
@@ -13078,7 +13078,7 @@
    "trovato_il": "2026-11-14T18:26:13",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:587319403196195891": {
@@ -13096,7 +13096,7 @@
    "trovato_il": "2026-11-14T18:26:37",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:534434426603309030": {
@@ -13149,7 +13149,7 @@
    "trovato_il": "2026-11-14T18:29:01",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "richiede auto"
+   "escluso": "fuori zona"
   },
   "Jobrapido:5288824169255927808": {
    "id": "Jobrapido:5288824169255927808",
@@ -13217,7 +13217,7 @@
    "trovato_il": "2026-11-14T18:29:13",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:2083027700473135104": {
    "id": "Jobrapido:2083027700473135104",
@@ -13234,7 +13234,7 @@
    "trovato_il": "2026-11-14T18:29:13",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:5335446485930606592": {
    "id": "Jobrapido:5335446485930606592",
@@ -13424,7 +13424,7 @@
    "trovato_il": "2026-11-14T18:29:15",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "richiede auto"
+   "escluso": "fuori zona"
   },
   "Talent.com:537448411445011599": {
    "id": "Talent.com:537448411445011599",
@@ -13441,7 +13441,7 @@
    "trovato_il": "2026-11-14T18:29:15",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "LinkedIn:4368447428": {
    "id": "LinkedIn:4368447428",
@@ -13633,7 +13633,7 @@
    "trovato_il": "2026-11-14T18:30:56",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "programmazione"
+   "escluso": "fuori zona"
   },
   "Talent.com:640646406517293588": {
    "id": "Talent.com:640646406517293588",
@@ -14005,7 +14005,7 @@
    "trovato_il": "2026-11-14T18:31:06",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:1683563443791069184": {
    "id": "Jobrapido:1683563443791069184",
@@ -14051,7 +14051,7 @@
    "url": "https://it.talent.com/view?id=534716375012215493",
    "descrizione": "Descrizione dell’offerta di lavoro MAW . agenzia per il lavoro, Filiale di Orbassano per azienda cliente operante nel settore della ristorazione veloce, ricerca un/una OPERATORE/TRICE FAST FOOD. La risorsa si occuperà di: accoglienza clienti, gestione delle ordinazioni e attività di cassa, preparazione e servizio prodotti, supporto nelle operazioni di riordino e pulizia del punto vendita. Requisiti richiesti: Gradita esperienza pregressa nel settore ristorazione o vendita; Disponibilità a lavorare su turni, compresi weekend e festivi; Flessibilità e capacità di lavorare in team; Buone doti relazionali e orientamento al cliente Orario di lavoro: Part time 15 ore settimanali, organizzato su 3 turni su ciclo continuo dal lunedì alla domenica, con 2 giorni di riposo settimanali. Sede di lavoro: Orbassano (TO). Tipologia contrattuale: a tempo determinato in somministrazione lavoro con finalità assuntiva. CCNL Pubblici Esercizi Maggiori, 6° livello 1491,58 lordi mensili full-time per 14 mensilità riproporzionati part-time 15h. #PRIOSOMM",
    "data": "2025-12-17T12:41:14Z",
-   "comune": "Torino",
+   "comune": "Orbassano",
    "lavoro": "Fast food",
    "impronta": "operatore trice fast food|maw|Torino",
    "trovato_il": "2026-11-14T18:31:08",
@@ -14074,7 +14074,7 @@
    "trovato_il": "2026-11-14T18:31:08",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:640646262417395596": {
@@ -14286,7 +14286,7 @@
    "trovato_il": "2026-11-14T18:31:18",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "LinkedIn:4486264126": {
@@ -14411,7 +14411,7 @@
    "trovato_il": "2026-11-14T18:31:26",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Talent.com:629364614635979174": {
    "id": "Talent.com:629364614635979174",
@@ -14464,7 +14464,7 @@
    "trovato_il": "2026-11-14T18:31:26",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "settore non adatto",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:641372772622926630": {
@@ -15051,7 +15051,7 @@
    "trovato_il": "2026-11-14T18:31:39",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "LinkedIn:4489966434": {
    "id": "LinkedIn:4489966434",
@@ -15189,7 +15189,7 @@
    "trovato_il": "2026-11-14T18:31:43",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:622237071331695620": {
@@ -15693,7 +15693,7 @@
    "trovato_il": "2026-11-14T18:31:52",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:636092643989719547": {
    "id": "Talent.com:636092643989719547",
@@ -15710,7 +15710,7 @@
    "trovato_il": "2026-11-14T18:31:52",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "LinkedIn:4488856296": {
    "id": "LinkedIn:4488856296",
@@ -16029,7 +16029,7 @@
    "trovato_il": "2026-11-14T18:32:01",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:634407739931034113": {
    "id": "Talent.com:634407739931034113",
@@ -16080,7 +16080,7 @@
    "trovato_il": "2026-11-14T18:32:01",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:636603548623444688": {
    "id": "Talent.com:636603548623444688",
@@ -16097,7 +16097,7 @@
    "trovato_il": "2026-11-14T18:32:01",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:646041954612937981": {
@@ -16133,7 +16133,7 @@
    "trovato_il": "2026-11-14T18:32:01",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:534434499846408166": {
@@ -16487,7 +16487,7 @@
    "trovato_il": "2026-11-14T18:32:47",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Talent.com:644899983050606260": {
    "id": "Talent.com:644899983050606260",
@@ -16731,7 +16731,7 @@
    "trovato_il": "2026-11-14T18:34:29",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:645567441099168064": {
@@ -16749,7 +16749,7 @@
    "trovato_il": "2026-11-14T18:35:17",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "settore non adatto",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Jobrapido:4323384106374135808": {
@@ -16818,7 +16818,7 @@
    "trovato_il": "2026-11-14T18:56:25",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "settore non adatto",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:644899576972972072": {
@@ -16836,7 +16836,7 @@
    "trovato_il": "2026-11-14T18:56:33",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:643799860081659883": {
    "id": "Talent.com:643799860081659883",
@@ -16853,7 +16853,7 @@
    "trovato_il": "2026-11-14T18:56:42",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:5426493061318311936": {
    "id": "Jobrapido:5426493061318311936",
@@ -17156,7 +17156,7 @@
    "trovato_il": "2026-11-14T18:57:24",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:636603565953784528": {
    "id": "Talent.com:636603565953784528",
@@ -17173,7 +17173,7 @@
    "trovato_il": "2026-11-14T18:57:24",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "requisiti mancanti",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:641833505042400426": {
@@ -17191,7 +17191,7 @@
    "trovato_il": "2026-11-14T18:58:45",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "Talent.com:644801544282778407": {
    "id": "Talent.com:644801544282778407",
@@ -17208,7 +17208,7 @@
    "trovato_il": "2026-11-14T18:58:54",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "Talent.com:642819431671212589": {
    "id": "Talent.com:642819431671212589",
@@ -17225,7 +17225,7 @@
    "trovato_il": "2026-11-14T18:58:54",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:642551547802100837": {
    "id": "Talent.com:642551547802100837",
@@ -17242,7 +17242,7 @@
    "trovato_il": "2026-11-14T18:58:54",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:640646219752673164": {
    "id": "Talent.com:640646219752673164",
@@ -17276,7 +17276,7 @@
    "trovato_il": "2026-11-14T18:59:32",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:635476922797787477": {
    "id": "Talent.com:635476922797787477",
@@ -17293,7 +17293,7 @@
    "trovato_il": "2026-11-14T18:59:32",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:584983644723227987": {
    "id": "Talent.com:584983644723227987",
@@ -17310,7 +17310,7 @@
    "trovato_il": "2026-11-14T18:59:32",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:644338299400563495": {
    "id": "Talent.com:644338299400563495",
@@ -17344,7 +17344,7 @@
    "trovato_il": "2026-11-14T19:00:19",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "programmazione",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:642233684301644970": {
@@ -17379,7 +17379,7 @@
    "trovato_il": "2026-11-14T19:00:45",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "settore non adatto",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:555136389650320139": {
@@ -17397,7 +17397,7 @@
    "trovato_il": "2026-11-14T19:01:03",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "offerta dubbia"
+   "escluso": "fuori zona"
   },
   "Talent.com:592040818875181230": {
    "id": "Talent.com:592040818875181230",
@@ -17414,7 +17414,7 @@
    "trovato_il": "2026-11-14T19:01:03",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:632360460799256536": {
@@ -17432,7 +17432,7 @@
    "trovato_il": "2026-11-14T19:30:20",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:644915025921181364": {
    "id": "Talent.com:644915025921181364",
@@ -17467,7 +17467,7 @@
    "trovato_il": "2026-11-14T19:32:30",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "offerta dubbia"
+   "escluso": "fuori zona"
   },
   "Talent.com:554381105457797030": {
    "id": "Talent.com:554381105457797030",
@@ -17484,7 +17484,7 @@
    "trovato_il": "2026-11-14T19:33:22",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:633192808307039886": {
    "id": "Talent.com:633192808307039886",
@@ -17501,7 +17501,7 @@
    "trovato_il": "2026-11-14T19:33:22",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:554317612906650604": {
@@ -17519,7 +17519,7 @@
    "trovato_il": "2026-11-14T19:34:18",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:641372169632747404": {
    "id": "Talent.com:641372169632747404",
@@ -17536,7 +17536,7 @@
    "trovato_il": "2026-11-14T19:35:11",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:631044575293147474": {
    "id": "Talent.com:631044575293147474",
@@ -17553,7 +17553,7 @@
    "trovato_il": "2026-11-14T19:35:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Talent.com:636092675208579579": {
    "id": "Talent.com:636092675208579579",
@@ -17570,7 +17570,7 @@
    "trovato_il": "2026-11-14T19:35:25",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:630100891221494729": {
    "id": "Talent.com:630100891221494729",
@@ -17587,7 +17587,7 @@
    "trovato_il": "2026-11-14T19:35:25",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:638482603390471114": {
    "id": "Talent.com:638482603390471114",
@@ -17604,7 +17604,7 @@
    "trovato_il": "2026-11-14T19:35:25",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "requisiti mancanti"
+   "escluso": "fuori zona"
   },
   "LinkedIn:4465802200": {
    "id": "LinkedIn:4465802200",
@@ -17639,7 +17639,7 @@
    "trovato_il": "2026-11-14T19:36:07",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "programmazione",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:534434571016210406": {
@@ -17657,7 +17657,7 @@
    "trovato_il": "2026-11-14T19:36:07",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:643277652622970147": {
@@ -17675,7 +17675,7 @@
    "trovato_il": "2026-11-14T19:36:51",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:642670072148138259": {
    "id": "Talent.com:642670072148138259",
@@ -17710,7 +17710,7 @@
    "trovato_il": "2026-11-14T20:21:15",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:587319382091375667": {
    "id": "Talent.com:587319382091375667",
@@ -17727,7 +17727,7 @@
    "trovato_il": "2026-11-14T20:23:47",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:644358059593040029": {
    "id": "Talent.com:644358059593040029",
@@ -17761,7 +17761,7 @@
    "trovato_il": "2026-11-14T20:25:20",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "Talent.com:642551508950983781": {
    "id": "Talent.com:642551508950983781",
@@ -17795,7 +17795,7 @@
    "trovato_il": "2026-11-14T20:25:58",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:643904282361995239": {
    "id": "Talent.com:643904282361995239",
@@ -17935,7 +17935,7 @@
    "trovato_il": "2026-11-14T21:04:56",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:584983896750628825": {
    "id": "Talent.com:584983896750628825",
@@ -17952,7 +17952,7 @@
    "trovato_il": "2026-11-14T21:04:56",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:644556990251991197": {
    "id": "Talent.com:644556990251991197",
@@ -18056,7 +18056,7 @@
    "trovato_il": "2026-11-14T21:38:58",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:627626612701529089": {
    "id": "Talent.com:627626612701529089",
@@ -18108,7 +18108,7 @@
    "trovato_il": "2026-11-14T22:18:52",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "offerta dubbia"
+   "escluso": "fuori zona"
   },
   "Talent.com:636603565807770320": {
    "id": "Talent.com:636603565807770320",
@@ -18125,7 +18125,7 @@
    "trovato_il": "2026-11-14T22:19:10",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:644723852774412267": {
    "id": "Talent.com:644723852774412267",
@@ -18142,7 +18142,7 @@
    "trovato_il": "2026-11-14T22:19:10",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:615460896660661892": {
@@ -18178,7 +18178,7 @@
    "trovato_il": "2026-11-14T22:20:44",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:638482621260041162": {
    "id": "Talent.com:638482621260041162",
@@ -18212,7 +18212,7 @@
    "trovato_il": "2026-11-14T22:21:37",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:635756992074942611": {
    "id": "Talent.com:635756992074942611",
@@ -18229,7 +18229,7 @@
    "trovato_il": "2026-11-14T22:22:05",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": "programmazione"
+   "escluso": "fuori zona"
   },
   "Talent.com:633916523777566680": {
    "id": "Talent.com:633916523777566680",
@@ -18246,7 +18246,7 @@
    "trovato_il": "2026-11-14T22:22:05",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Talent.com:640646225355866918": {
@@ -18264,7 +18264,7 @@
    "trovato_il": "2026-11-14T22:22:47",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "Talent.com:640743853797671718": {
    "id": "Talent.com:640743853797671718",
@@ -18298,7 +18298,7 @@
    "trovato_il": "2026-11-14T22:54:17",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:608252332764700974": {
    "id": "Talent.com:608252332764700974",
@@ -18315,7 +18315,7 @@
    "trovato_il": "2026-11-14T22:56:21",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Talent.com:644479194350157981": {
    "id": "Talent.com:644479194350157981",
@@ -18367,7 +18367,7 @@
    "trovato_il": "2026-11-14T22:59:23",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:584983656199892307": {
    "id": "Talent.com:584983656199892307",
@@ -18384,7 +18384,7 @@
    "trovato_il": "2026-11-14T22:59:23",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:635756952725751955": {
    "id": "Talent.com:635756952725751955",
@@ -18401,7 +18401,7 @@
    "trovato_il": "2026-11-14T23:00:03",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": "programmazione"
+   "escluso": "fuori zona"
   },
   "Talent.com:643700569470210027": {
    "id": "Talent.com:643700569470210027",
@@ -18435,7 +18435,7 @@
    "trovato_il": "2026-11-14T23:31:11",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:640646413486326292": {
    "id": "Talent.com:640646413486326292",
@@ -18469,7 +18469,7 @@
    "trovato_il": "2026-11-14T23:33:17",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:619903045348695138": {
    "id": "Talent.com:619903045348695138",
@@ -18486,7 +18486,7 @@
    "trovato_il": "2026-11-14T23:34:00",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "settore non adatto",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Jobrapido:2114550595762257920": {
@@ -18521,7 +18521,7 @@
    "trovato_il": "2026-11-15T00:05:20",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:4020069908158087168": {
    "id": "Jobrapido:4020069908158087168",
@@ -18556,7 +18556,7 @@
    "trovato_il": "2026-11-15T00:05:37",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:6845075919728541696": {
    "id": "Jobrapido:6845075919728541696",
@@ -18573,7 +18573,7 @@
    "trovato_il": "2026-11-15T00:05:57",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "fuori dal tuo campo",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Jobrapido:6936273812182794240": {
@@ -18609,7 +18609,7 @@
    "trovato_il": "2026-11-15T00:05:57",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:6565149055389794304": {
    "id": "Jobrapido:6565149055389794304",
@@ -18644,7 +18644,7 @@
    "trovato_il": "2026-11-15T00:07:47",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "programmazione",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Jobrapido:4586474527113871360": {
@@ -18714,7 +18714,7 @@
    "trovato_il": "2026-11-15T00:08:32",
    "doppione": true,
    "senza_esperienza": false,
-   "escluso": "offerta dubbia"
+   "escluso": "fuori zona"
   },
   "Jobrapido:844161769969549312": {
    "id": "Jobrapido:844161769969549312",
@@ -18873,7 +18873,7 @@
    "trovato_il": "2026-11-15T00:10:59",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Talent.com:642440960073729352": {
    "id": "Talent.com:642440960073729352",
@@ -18980,7 +18980,7 @@
    "trovato_il": "2026-11-15T00:12:22",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "settore non adatto"
+   "escluso": "fuori zona"
   },
   "Talent.com:640743839921931046": {
    "id": "Talent.com:640743839921931046",
@@ -18997,7 +18997,7 @@
    "trovato_il": "2026-11-15T00:12:32",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "offerta dubbia"
+   "escluso": "fuori zona"
   },
   "Talent.com:627198428007047859": {
    "id": "Talent.com:627198428007047859",
@@ -19119,7 +19119,7 @@
    "trovato_il": "2026-11-15T00:45:21",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": "fuori dal tuo campo"
+   "escluso": "fuori zona"
   },
   "Talent.com:642819417903409709": {
    "id": "Talent.com:642819417903409709",
@@ -19136,7 +19136,7 @@
    "trovato_il": "2026-11-15T00:45:21",
    "doppione": false,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:1583474591076974592": {
    "id": "Jobrapido:1583474591076974592",
@@ -19278,7 +19278,7 @@
    "trovato_il": "2026-11-15T00:47:15",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": "",
+   "escluso": "fuori zona",
    "nascosto": true
   },
   "Jobrapido:2451878560919453696": {
@@ -19347,7 +19347,7 @@
    "trovato_il": "2026-11-15T01:16:49",
    "doppione": false,
    "senza_esperienza": false,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:3277155430555451392": {
    "id": "Jobrapido:3277155430555451392",
@@ -19469,7 +19469,7 @@
    "trovato_il": "2026-11-15T01:20:25",
    "doppione": true,
    "senza_esperienza": true,
-   "escluso": ""
+   "escluso": "fuori zona"
   },
   "Jobrapido:5000157118410522624": {
    "id": "Jobrapido:5000157118410522624",
@@ -19630,6 +19630,24 @@
    "doppione": false,
    "senza_esperienza": true,
    "escluso": "fuori dal tuo campo"
+  },
+  "Jobrapido:7344570858087645184": {
+   "id": "Jobrapido:7344570858087645184",
+   "fonte": "Jobrapido",
+   "titolo": "Bartender",
+   "azienda": "Langosteria group",
+   "luogo": "Beinasco",
+   "url": "https://open.app.jobrapido.com/it/7344570858087645184/?w=barista&l=beinasco&oc=sponsored&k=web.1.1.18&uuid=itF001a1dca25f6a8838&page_item_id=-451126775",
+   "descrizione": "",
+   "data": "08 nov",
+   "comune": "Beinasco",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "bartender|langosteria|Beinasco",
+   "trovato_il": "2026-11-15T01:36:32",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "fuori dal tuo campo",
+   "nascosto": true
   }
  },
  "impronte": [
@@ -19860,6 +19878,7 @@
   "barkeeper gastgeber mit kreationen 5 tage woche|hotelseeleit|Orbassano",
   "barman bartender w d|belvita|Orbassano",
   "barman|randstadnv|Torino",
+  "bartender|langosteria|Beinasco",
   "bartender|majorfoodbra|Orbassano",
   "bartender|rosewoodcast|Beinasco",
   "basko stage tirocinio addetto vendita|sogegross|Beinasco",
@@ -20655,6 +20674,6 @@
   "weapon system simulation engineer|syou|Orbassano"
  ],
  "primo_avvio_fatto": true,
- "ultimo_controllo": "2026-11-15T01:23:24",
+ "ultimo_controllo": "2026-11-15T01:42:28",
  "candidature": []
 }
