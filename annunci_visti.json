@@ -19700,6 +19700,24 @@
    "senza_esperienza": false,
    "escluso": "settore non adatto",
    "nascosto": true
+  },
+  "Talent.com:640242627196295894": {
+   "id": "Talent.com:640242627196295894",
+   "fonte": "Talent.com",
+   "titolo": "Head of Technology",
+   "azienda": "Blox Space",
+   "luogo": "Turin, Metropolitan City of Turin, Italy",
+   "url": "https://it.talent.com/view?id=640242627196295894",
+   "descrizione": "Descrizione dell’offerta di lavoro Cos'è Blox Space? Blox Space lavora al centro dell'economia deep tech, in partnership con un network di oltre 70 realtà attive nel mondo dell'AI, del fintech, della cybersecurity e delle Freedom Technologies, impegnate nello sviluppo di infrastrutture, prodotti e piattaforme ad alta intensità tecnica. Aiutiamo a connettere i talenti con questo ecosistema, operando come Talent Bridge tra le ambizioni di crescita dei professionisti e le opportunità offerte dal nostro network. In questo momento stiamo supportando una delle nostre partner companies nella ricerca di un Head of Technology, e se pensi di essere il profilo giusto, ci piacerebbe conoscerti. Il Ruolo L'azienda è una società di consulenza tecnologica per l'industria manifatturiera. Entra in azienda, ridisegna i processi e installa la propria piattaforma modulare, che sostituisce gestionali, fogli di calcolo e procedure non scritte: nella maggior parte dei casi non si integra con i sistemi esistenti, li rimpiazza. Oggi la piattaforma è in produzione presso il primo cliente, banco di prova con 18 moduli usati ogni giorno, e gira in una sola azienda di proposito, per validare il mercato prima di allargarsi. Adesso viene il pezzo difficile, ed è il tuo. Cerchiamo chi costruisce l'infrastruttura per moltiplicare quel numero, portando la piattaforma da un cliente a una logica multi-azienda: clean coded, solida e manutenibile, non più il prototipo che regge un cliente ma il prodotto che ne regge decine. Non cerchiamo il curriculum perfetto, cerchiamo la testa giusta. Nei primi mesi il ruolo è operativo, codice compreso, ma l'obiettivo dichiarato è arrivare a delegare a due o tre sviluppatori: se a un anno ogni decisione passa ancora da te, il ruolo non ha funzionato. Le responsabilità di un Head of Technology in questo contesto possono spaziare dalla trasformazione della piattaforma da prototipo a prodotto multi-azienda alla responsabilità tecnica piena di quel salto, dalla scrittura del codice nei primi mesi alla costruzione e guida di un piccolo team di sviluppo, dentro un modo di lavorare preciso: le questioni tecniche si portano come alternative (la situazione, due o tre strade possibili, costi e benefici e quale sceglieresti tu), la decisione finale è dei fondatori e, una volta presa, si esegue. In cambio hai il mandato pieno sulla tecnologia, senza nessuno che filtra a monte. Le skill che fanno la differenza Hai costruito e mantenuto un prodotto su più clienti o installazioni (SaaS multi-tenant, software di prodotto, piattaforma verticale): è il requisito principale, il resto viene dopo. Solido su PostgreSQL o database relazionali equivalenti: modello dati, permessi, migrazioni, prestazioni. È il terreno su cui si gioca la partita multi-azienda. Hai coordinato almeno tre sviluppatori sul serio, e usi l'AI ogni giorno: sai far crescere un team e moltiplicare quello che produci. Scrivi documenti brevi che portano a una decisione, e reggi la pressione commerci",
+   "data": "2026-10-05T11:58:54Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "head of technology|bloxspace|Torino",
+   "trovato_il": "2026-11-15T03:27:36",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "settore non adatto",
+   "nascosto": true
   }
  },
  "impronte": [
@@ -20202,6 +20220,7 @@
   "graphic designer intern|2night|Torino",
   "guest experience food runner flexible hours growth|majorfoodbra|Torino",
   "head of content editorial strategy lead remote|jobgether|Torino",
+  "head of technology|bloxspace|Torino",
   "help desk|ecit|Torino",
   "help desk|zucchetti|Torino",
   "hmax senior developer|hitachirail|Torino",
@@ -20728,6 +20747,6 @@
   "weapon system simulation engineer|syou|Orbassano"
  ],
  "primo_avvio_fatto": true,
- "ultimo_controllo": "2026-11-15T02:34:50",
+ "ultimo_controllo": "2026-11-15T03:31:15",
  "candidature": []
 }
