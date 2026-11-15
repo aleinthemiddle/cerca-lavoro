@@ -19718,6 +19718,41 @@
    "senza_esperienza": false,
    "escluso": "settore non adatto",
    "nascosto": true
+  },
+  "Talent.com:534434270996924390": {
+   "id": "Talent.com:534434270996924390",
+   "fonte": "Talent.com",
+   "titolo": "I nostri clienti hanno richiesto catering per food & beverage per eventi a Torino",
+   "azienda": "ernesto.it",
+   "luogo": "Torino, Italia",
+   "url": "https://it.talent.com/view?id=534434270996924390",
+   "descrizione": "Descrizione dell’offerta di lavoro Sei un professionista esperto in food & beverage per eventi? Hai bisogno di trovare nuovi clienti a Torino e far crescere la tua attività? Allora Ernesto è l’opportunità che stavi cercando! Ernesto non offre posizioni lavorative, ma è lo strumento di marketing più conveniente e potente sul mercato per trovare una vasta base di clienti per la tua attività a Torino. Grazie a Ernesto, puoi sostituire tutti i costosi investimenti in pubblicità e accedere a un flusso continuo di richieste da parte di clienti interessati ai tuoi servizi a Torino. Con Ernesto, puoi: Ricevere richieste di clienti di Torino interessati ai tuoi servizi in modo rapido e continuo. Grazie al pacchetto di contatti illimitati, hai accesso a un numero infinito di contatti. Non ci sono limiti alle opportunità di business che puoi sfruttare. Elimina gli intermediari. Con Ernesto, puoi gestire direttamente il rapporto con i clienti e mantenere il controllo totale sul tuo lavoro. Non dovrai pagare commissioni su ogni lavoro svolto. Rispondere alle richieste dei clienti in modo rapido ed efficace grazie alle risposte automatiche, ottenendo i loro contatti in tempo reale. Sfrutta la potenza delle risposte automatiche per rispondere rapidamente ai clienti e ottenere i loro contatti in tempo reale. Massimizza la tua efficienza e massimizza le tue opportunità di successo. Ernesto è il partner di marketing che ti permette di distinguerti dalla concorrenza e ottenere risultati tangibili. Siamo qui per aiutarti a trovare nuovi clienti, far crescere la tua attività e raggiungere il successo che meriti. Non perdere questa opportunità unica! Iscriviti a Ernesto oggi stesso e inizia a sfruttare al massimo il potenziale dei tuoi servizi professionali. Siamo pronti a guidarti verso una carriera di successo!",
+   "data": "2025-05-22T01:35:05Z",
+   "comune": "Torino",
+   "lavoro": "Altri lavori senza esperienza",
+   "impronta": "i nostri clienti hanno richiesto catering per food beverage per eventi torino|ernestoit|Torino",
+   "trovato_il": "2026-11-15T04:17:37",
+   "doppione": false,
+   "senza_esperienza": false,
+   "escluso": "",
+   "nascosto": true
+  },
+  "Talent.com:631039702749743406": {
+   "id": "Talent.com:631039702749743406",
+   "fonte": "Talent.com",
+   "titolo": "STAGE EXTRACURRICULARE AREA BANKING & FINANCE",
+   "azienda": "Banca del Piemonte S.p.A.",
+   "luogo": "Torino, città metropolitana di Torino, Italia",
+   "url": "https://it.talent.com/view?id=631039702749743406",
+   "descrizione": "Dal 1912, Banca del Piemonte è a fianco di privati, famiglie, piccole e medie imprese.Contiamo oltre 70 mila clienti seguiti dalle filiali e dalle reti di gestori dedicate.Siamo attenti ai mutament... Mostra di più",
+   "data": "2026-08-03T20:46:38Z",
+   "comune": "Torino",
+   "lavoro": "Stage / Tirocinio",
+   "impronta": "stage extracurriculare area banking finance|bancadelpiem|Torino",
+   "trovato_il": "2026-11-15T04:20:12",
+   "doppione": true,
+   "senza_esperienza": true,
+   "escluso": "settore non adatto"
   }
  },
  "impronte": [
@@ -20236,6 +20271,7 @@
   "hr stage curricolare|randstad|Torino",
   "hse maintenance specialist estrazione tecnica|randstad|Torino",
   "hw electronic designer|syou|Torino",
+  "i nostri clienti hanno richiesto catering per food beverage per eventi torino|ernestoit|Torino",
   "imp tecnico amministrativa torino|gi|Torino",
   "impiegata impiegato back office part time|lavoropiu|Torino",
   "impiegato amministrativo|centronolegg|Torino",
@@ -20747,6 +20783,6 @@
   "weapon system simulation engineer|syou|Orbassano"
  ],
  "primo_avvio_fatto": true,
- "ultimo_controllo": "2026-11-15T03:31:15",
+ "ultimo_controllo": "2026-11-15T04:22:05",
  "candidature": []
 }
